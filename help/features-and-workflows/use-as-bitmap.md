@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
 breadcrumb-title: ''
 description: Apprenez à utiliser la fonction Utiliser comme bitmap de Substance 3D Sampler pour convertir des calques au format bitmap afin d’optimiser l’édition de la matière.
 helpx_creative_field: ""

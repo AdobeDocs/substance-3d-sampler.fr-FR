@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/invert.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Inverser de Substance 3D Sampler pour inverser les valeurs chromatiques et créer des effets d’image négatifs dans les textures et les matières.
 helpx_creative_field: ""

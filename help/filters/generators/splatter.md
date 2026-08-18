@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/splatter.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
 description: Utilisez le générateur d’éclaboussures de Substance 3D Sampler pour créer des effets d’éclaboussure de peinture et de motif aléatoire pour les textures de matériau.
 helpx_creative_field: ""

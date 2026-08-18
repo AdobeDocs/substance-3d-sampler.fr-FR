@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/crop-tool.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/crop-tool.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Recadrage de Substance 3D Sampler pour recadrer et redimensionner des textures et des calques de matériau avec un contrôle précis des dimensions.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-ao.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/height-to-ao.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Height sur AO de Substance 3D Sampler pour convertir les cartes d’height en cartes d’occlusion ambiante pour la création de matériaux.
 helpx_creative_field: ""

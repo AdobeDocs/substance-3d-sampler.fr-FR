@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/panel.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/panel.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de panneaux de Substance 3D Sampler pour créer des motifs de panneau et des textures de surface segmentées pour les matériaux.
 helpx_creative_field: ""

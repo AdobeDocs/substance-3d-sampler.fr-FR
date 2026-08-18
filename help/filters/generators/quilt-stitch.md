@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de points de couture dans Substance 3D Sampler pour créer des motifs et des textures de couture de tissu matelassé pour les matériaux.
 helpx_creative_field: ""

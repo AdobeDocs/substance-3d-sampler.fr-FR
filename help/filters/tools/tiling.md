@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/tiling.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Mosaïque de Substance 3D Sampler pour créer des motifs de mosaïque continus à partir de textures pour des surfaces matérielles répétables.
 helpx_creative_field: ""

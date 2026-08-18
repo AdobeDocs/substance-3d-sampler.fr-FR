@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Nadir patch de Substance 3D Sampler pour corriger la zone nadir des images HDRI afin de créer des cartes d’environnement homogènes.
 helpx_creative_field: ""

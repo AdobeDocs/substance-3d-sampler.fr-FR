@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/corrode.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/corrode.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Corrode de Substance 3D Sampler pour ajouter des effets de corrosion et de dégradation chimique aux matériaux métalliques.
 helpx_creative_field: ""

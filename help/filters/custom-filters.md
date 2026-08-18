@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html'
+helpx_url: 'https://helpx.adobe.com/fr/substance-3d-sampler/filters/custom-filters.html'
 breadcrumb-title: ''
 description: Découvrez comment utiliser des filtres personnalisés dans Substance 3D Sampler pour étendre les fonctionnalités avec des filtres de Substance Designer et des effets personnalisés.
 helpx_creative_field: ''

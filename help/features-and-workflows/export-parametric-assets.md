@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
 breadcrumb-title: ''
 description: Découvrez comment exporter des actifs paramétriques depuis Substance 3D Sampler pour permettre la modification de paramètres dans d’autres applications sans revenir à Sampler.
 helpx_creative_field: ""

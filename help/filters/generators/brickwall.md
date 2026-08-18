@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de mur de briques de Substance 3D Sampler pour créer des motifs de mur de briques et des textures de maçonnerie réalistes pour les matériaux.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channel-switch.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Permutation de couches de Substance 3D Sampler pour réorganiser et intervertir les couches de couleur dans les textures simples afin de créer du contenu.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/erode.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/erode.html"
 breadcrumb-title: ''
 description: Utilisez le Filtre Érosion de Substance 3D Sampler pour ajouter des effets d’érosion et d’altération qui simulent la dégradation naturelle des matériaux.
 helpx_creative_field: ""

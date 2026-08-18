@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de motifs de Substance 3D Sampler pour créer des motifs procéduraux et reproduire des motifs pour des textures de matériau.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/match.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Correspondance de Substance 3D Sampler pour faire correspondre les couleurs, les tons et l’éclairage entre différentes textures et différents calques de matériau.
 helpx_creative_field: ""

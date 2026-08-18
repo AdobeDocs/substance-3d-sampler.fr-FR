@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Suppression de plis de Substance 3D Sampler pour supprimer les plis et les plis des textures du tissu afin de nettoyer les surfaces des matériaux.
 helpx_creative_field: ""

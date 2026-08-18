@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Aperçu de l’exposition de Substance 3D Sampler pour prévisualiser les réglages d’exposition des images HDRI avant d’appliquer les modifications.
 helpx_creative_field: ""

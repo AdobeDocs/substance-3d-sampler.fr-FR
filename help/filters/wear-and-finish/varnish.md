@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/varnish.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/varnish.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Vernis de Substance 3D Sampler pour ajouter des effets de vernis brillant et des finitions de revêtement de protection à vos matériaux.
 helpx_creative_field: ""

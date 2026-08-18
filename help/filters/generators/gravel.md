@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/gravel.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de gravier de Substance 3D Sampler pour créer des textures d’agrégat de gravier et de pierre réalistes pour les matériaux.
 helpx_creative_field: ""

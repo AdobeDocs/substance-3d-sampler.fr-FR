@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-import.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/texture-import.html"
 breadcrumb-title: ''
 description: Apprenez à importer des textures dans Substance 3D Sampler pour utiliser les fichiers image existants dans vos workflows de création de matériaux.
 helpx_creative_field: ""

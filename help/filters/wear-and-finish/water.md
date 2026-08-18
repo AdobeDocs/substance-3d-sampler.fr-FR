@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/water.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/water.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Eau de Substance 3D Sampler pour ajouter des effets d’eau, de l’humidité et de l’humidité à vos matériaux et textures.
 helpx_creative_field: ""

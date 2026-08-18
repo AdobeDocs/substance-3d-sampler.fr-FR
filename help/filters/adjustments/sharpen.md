@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/sharpen.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/sharpen.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Netteté de Substance 3D Sampler pour améliorer la netteté de l’image et les détails des textures et des calques Matériau.
 helpx_creative_field: ""

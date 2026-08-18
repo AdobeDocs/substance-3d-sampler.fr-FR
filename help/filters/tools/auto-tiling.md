@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/auto-tiling.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Mosaïque automatique de Substance 3D Sampler pour créer automatiquement des motifs de mosaïque homogènes à partir de textures à l’aide de la technologie d’IA.
 helpx_creative_field: ""

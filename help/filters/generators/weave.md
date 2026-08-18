@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/weave.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/weave.html"
 breadcrumb-title: ''
 description: Utilisez le générateur d’armure de Substance 3D Sampler pour créer des motifs et des textures de tissu pour la création de matériaux.
 helpx_creative_field: ""

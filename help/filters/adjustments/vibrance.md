@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/vibrance.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Vibrance de Substance 3D Sampler pour améliorer la saturation et la vibrance des couleurs des textures tout en préservant les tons chair.
 helpx_creative_field: ""

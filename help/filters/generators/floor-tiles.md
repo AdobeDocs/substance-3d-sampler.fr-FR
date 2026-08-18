@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/floor-tiles.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/floor-tiles.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de carreaux de sol de Substance 3D Sampler pour créer des motifs de carreaux de sol et des textures céramiques réalistes pour les matériaux.
 helpx_creative_field: ""

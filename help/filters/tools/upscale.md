@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/upscale.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Upscale de Substance 3D Sampler pour augmenter la résolution de la texture à l’aide de la technologie d’upscaling optimisée par l’IA.
 helpx_creative_field: ""

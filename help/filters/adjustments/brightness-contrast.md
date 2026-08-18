@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Luminosité/Contraste de Substance 3D Sampler pour régler les niveaux de luminosité et de contraste des textures et des calques Matériau.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-normal.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/height-to-normal.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Height à la normale de Substance 3D Sampler pour convertir les calques d’height en calques de normales pour les workflows de création de matériaux.
 helpx_creative_field: ""

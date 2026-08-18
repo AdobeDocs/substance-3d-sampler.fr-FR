@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/atlas-splitter.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Atlas splitter de Substance 3D Sampler pour diviser les atlas de textures en cartes de textures individuelles pour l’édition de matériaux.
 helpx_creative_field: ""

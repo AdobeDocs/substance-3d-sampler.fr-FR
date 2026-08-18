@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/quick-actions.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/quick-actions.html"
 breadcrumb-title: ''
 description: Apprenez à utiliser les actions rapides dans Substance 3D Sampler pour effectuer efficacement des tâches courantes d’édition de matériaux à l’aide des outils de raccourci.
 helpx_creative_field: ""

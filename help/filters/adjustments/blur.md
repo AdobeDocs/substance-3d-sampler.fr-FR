@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Flou de Substance 3D Sampler pour appliquer des effets de flou et réduire la netteté de l’image dans les calques de textures et de matériaux.
 helpx_creative_field: ""

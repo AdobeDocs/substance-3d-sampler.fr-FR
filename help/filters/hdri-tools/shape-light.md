@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/shape-light.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/shape-light.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Shape Light de Substance 3D Sampler pour ajouter des sources lumineuses de forme personnalisée aux environnements HDRI afin de créer un éclairage original.
 helpx_creative_field: ""

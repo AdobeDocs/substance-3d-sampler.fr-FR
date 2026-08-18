@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Juxtaposer dans Substance 3D Sampler pour créer automatiquement des motifs de mosaïque homogènes à partir de textures sans mosaïque.
 helpx_creative_field: ""
