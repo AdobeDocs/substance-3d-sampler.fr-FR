@@ -46,7 +46,7 @@ Permutez les canaux des textures de sortie du matériau.
 * **Canal de sortie :** sélectionnez Quel canal est la destination du canal d&#39;entrée.
 * **Opacité :** 0-1\
   Réglez l’opacité des informations de couche par rapport aux informations de couche existantes. En d’autres termes, cette option contrôle l’opacité du masque utilisé pour appliquer le nouveau fond de couche.
-* **Mode de fusion**** :** sélectionnez le mode de fusion pour la couche de couleur de base. La modification du mode de fusion peut modifier sensiblement l’aspect de la couche.
+* **Mode de fusion**&#x200B;**&#x200B; :** sélectionnez le mode de fusion pour la couche de couleur de base. La modification du mode de fusion peut modifier sensiblement l’aspect de la couche.
 
 **Avancé**
 

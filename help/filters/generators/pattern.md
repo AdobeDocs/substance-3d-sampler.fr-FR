@@ -35,7 +35,7 @@ Générateurs De **Entrée :**
 
 Ajoutez un motif à votre matière à partir de l’une des options disponibles ou utilisez une image ou un pinceau pour personnaliser les vôtres.
 
-*Exemple du **filtre de motif**appliqué au denim.*
+*Exemple du **filtre de motif**&#x200B;appliqué au denim.*
 
 <table>
 <tr style="border: 0;">

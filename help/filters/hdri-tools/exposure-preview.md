@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Le **filtre** Aperçu de l&#39;exposition **** vous permet de prévisualiser rapidement un spectre de valeurs d&#39;exposition.
+Le **filtre** Aperçu de l&#39;exposition **&#x200B;**&#x200B;vous permet de prévisualiser rapidement un spectre de valeurs d&#39;exposition.
 
 Vous pouvez voir ci-dessous ce que fait le **filtre Aperçu de l&#39;exposition**.
 

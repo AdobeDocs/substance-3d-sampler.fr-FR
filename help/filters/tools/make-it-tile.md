@@ -81,7 +81,7 @@ Après **Création de mosaïque**, ce matériau fonctionne bien. Sans la ligne r
 
 ## Guide d’utilisation
 
-Le **filtre** Placer dans le carreau **** fonctionne en superposant plusieurs copies du matériau les unes sur les autres.
+Le **filtre** Placer dans le carreau **&#x200B;**&#x200B;fonctionne en superposant plusieurs copies du matériau les unes sur les autres.
 
 L’image ci-dessous montre la disposition des calques :
 

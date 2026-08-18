@@ -69,7 +69,7 @@ Les images ci-dessous montrent le matériau du dirt avant et après l&#39;applic
 * **Couleur de mousse secondaire** : sélection de la couleur\
   Sélectionnez la couleur secondaire de la mousse.
 * **Répartition de la mousse** :\
-  Sélectionnez la méthode utilisée pour appliquer la mousse. Par défaut, l&#39;**Occlusion** utilise la carte AO de votre matériau pour appliquer la mousse, mais les autres options auront des effets différents. Si **Masque personnalisé** **Masque** est sélectionné, la **section** Masque **** s&#39;affiche.
+  Sélectionnez la méthode utilisée pour appliquer la mousse. Par défaut, l&#39;**Occlusion** utilise la carte AO de votre matériau pour appliquer la mousse, mais les autres options auront des effets différents. Si **Masque personnalisé** **Masque** est sélectionné, la **section** Masque **&#x200B;**&#x200B;s&#39;affiche.
 
 **Masquer**
 

@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Ajoutez une couche d&#39;oxydation sur le dessus de votre matériau.*Une surface ridée a le **filtre Oxydé**appliqué.*
+Ajoutez une couche d&#39;oxydation sur le dessus de votre matériau.*Une surface ridée a le **filtre Oxydé**&#x200B;appliqué.*
 
 <table>
 <tr style="border: 0;">
