@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../assets/main-3d-viewport-5.png)
 
-La **Fenêtre d&#39;affichage** affiche votre ressource actuelle. Le nom de votre ressource et les options permettant de modifier l&#39;aspect de la **fenêtre d&#39;affichage** s&#39;affichent en haut de la **fenêtre****V**. Utilisez ces options pour :
+La **Fenêtre d&#39;affichage** affiche votre ressource actuelle. Le nom de votre ressource et les options permettant de modifier l&#39;aspect de la **fenêtre d&#39;affichage** s&#39;affichent en haut de la **fenêtre**&#x200B;**V**. Utilisez ces options pour :
 
 * Modifiez la largeur et l’height de votre fichier en pixels.
 * Affichez soit la <b>vue 2D</b>, la <b>vue 3D</b>, soit les <b>vues 2D </b> et <b>vues 3D </b> ensemble.
@@ -36,11 +36,11 @@ La **Fenêtre d&#39;affichage** affiche votre ressource actuelle. Le nom de votr
 
 La <b>Fenêtre d&#39;affichage 3D</b> comporte deux barres d&#39;outils qui vous permettent d&#39;apporter des modifications à l&#39;apparence de votre ressource dans la <b>Fenêtre d&#39;affichage</b>. Par défaut, ces barres d&#39;outils apparaissent dans le coin supérieur droit et au centre inférieur de la <b>Fenêtre d&#39;affichage 3D</b>.
 
-![]()
+![] ()
 
 >[!NOTE]
 >
-> Les barres d&#39;outils de la fenêtre d&#39;affichage 3D <b>1} peuvent être repositionnées :</b>
+> Les barres d&#39;outils de la fenêtre d&#39;affichage 3D <b>1&rbrace; peuvent être repositionnées :</b>
 > 
 > * Vous pouvez déplacer les barres d’outils en faisant glisser la poignée en haut ou à gauche de la barre d’outils.
 > * Double-cliquez sur la poignée en haut ou à gauche de la barre d’outils pour passer d’une mise en page horizontale à une mise en page verticale.
@@ -59,7 +59,7 @@ La barre d&#39;outils en haut à droite de la fenêtre <b>3D </b> comporte des c
 >
 > Activez les ombres pour améliorer les visuels de la fenêtre. Éteignez les ombres pour améliorer les performances des échantillonneurs.
 
-![]()
+![] ()
 
 La barre d&#39;outils en bas au centre de la <b>Fenêtre d&#39;affichage 3D</b> contient les informations et les commandes suivantes :
 
@@ -71,7 +71,7 @@ La barre d&#39;outils en bas au centre de la <b>Fenêtre d&#39;affichage 3D</b> 
 * <b>Enregistrer l&#39;instantané</b> : enregistrez un instantané de la <b>fenêtre d&#39;affichage 3D</b> dans un fichier image.
 * <b>Commandes de la vue 3D</b> : affichez une référence rapide pour les commandes de caméra dans la fenêtre 3D.
 
-![]()
+![] ()
 
 ## Déplacer la caméra
 
@@ -89,7 +89,7 @@ Dans la <b>vue 3D </b> et la <b>vue 2D</b>, utilisez <b>F</b> pour vous concentr
 
 ## Vue 2D
 
-![]()
+![] ()
 
 Par défaut, seule la <b>vue 3D</b> est visible, mais la <b>vue 2D</b> peut contenir de nombreuses informations et commandes utiles pour certains filtres.
 

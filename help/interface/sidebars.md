@@ -30,7 +30,7 @@ Dans la **barre latérale gauche**, vous pouvez :
 
 * **Ajouter et importer du contenu** : importez des images et sélectionnez la manière dont elles doivent être intégrées dans votre projet.
 * **Parcourir les ressources 3D** : accédez à des milliers de matières depuis Substance 3D Assets dans Creative Cloud Desktop.
-* Accéder aux **actions rapides** : ensemble d&#39;actions permettant d&#39;atteindre rapidement certains objectifs. [En savoir plus sur les **actions rapides **](../features-and-workflows/quick-actions.md)**.**
+* Accéder aux **actions rapides** : ensemble d&#39;actions permettant d&#39;atteindre rapidement certains objectifs. [En savoir plus sur les **actions rapides &#x200B;**](../features-and-workflows/quick-actions.md)**.**
 * Ajoutez rapidement des filtres à la pile de calques :
   * **Recadrage :** recadrez des images et des matières à l&#39;aide de poignées dans la **vue 2D**.
   * **Transformation de perspective :** corrigez les erreurs de perspective à l&#39;aide des poignées dans la **vue 2D.**

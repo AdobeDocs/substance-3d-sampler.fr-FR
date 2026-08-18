@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Albédo ****Éclat****Normal (OpenGL)****Transparence** |
+| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Albédo &#x200B;**&#x200B;**Éclat**&#x200B;**Normal (OpenGL)**&#x200B;**Transparence** |

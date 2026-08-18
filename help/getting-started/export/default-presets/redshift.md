@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Rugosité&#x200B;****réflectrice****Métallique ****Normale****Displacement ****Émission****Opacité** |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Rugosité&#x200B;**&#x200B;**réflectrice**&#x200B;**Métallique &#x200B;**&#x200B;**Normale**&#x200B;**Displacement &#x200B;**&#x200B;**Émission**&#x200B;**Opacité** |

@@ -101,7 +101,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; Performance&amp;rbrack ; Charge les réglages uniquement dans la section ouverte
 * &amp;lbrack ; Préférences&amp;rbrack ; Effacer le chemin de cache des préférences rétablit la valeur précédente
 * &amp;lbrack ; Rendu&amp;rbrack ; Fuite de mémoire lors de l’utilisation du traceur de chemin
-* &amp;lbrack;Rendu&amp;rbrack ; Empêcher la suppression des textures alors qu&#39;elles sont encore accessibles par Vulkan
+* &lbrack;Rendu&amp;rbrack ; Empêcher la suppression des textures alors qu&#39;elles sont encore accessibles par Vulkan
 * &amp;lbrack ;Rendering&amp;rbrack ; La rotation de la texture n&#39;a pas été convertie de 0-1 à 0-360
 * &amp;lbrack ; Scripting&amp;rbrack ; Supprimer les classes inexistantes de la documentation Python
 * &amp;lbrack ; Scripting&amp;rbrack ; selectedAsset renvoie Aucun s&#39;il n&#39;y a pas d&#39;actif sélectionné
@@ -204,7 +204,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 
 **Fixe :**
 
-* &amp;lbrack;Vue 2D&amp;rbrack ; Lorsque vous peignez des contours après avoir réinitialisé toutes les propriétés du Tampon de duplication, les contours créés précédemment réapparaissent
+* &lbrack;Vue 2D&amp;rbrack ; Lorsque vous peignez des contours après avoir réinitialisé toutes les propriétés du Tampon de duplication, les contours créés précédemment réapparaissent
 * &amp;lbrack ; Application&amp;rbrack ; « Enregistrer le projet actuel ? » la fenêtre contextuelle utilise un nom de projet incorrect
 * &amp;lbrack ; Application&amp;rbrack ; Blocage à la sortie
 * &amp;lbrack ; Application&amp;rbrack ; Blocage potentiel
@@ -265,7 +265,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 
 **Fixe :**
 
-* &amp;lbrack;Vue 2D&amp;rbrack ; La sélection de « afficher avec rapport physique » peut ne pas fonctionner lors de l&#39;utilisation de filtres de Substance
+* &lbrack;Vue 2D&amp;rbrack ; La sélection de « afficher avec rapport physique » peut ne pas fonctionner lors de l&#39;utilisation de filtres de Substance
 * les fichiers &amp;lbrack ; capture 3D&amp;rbrack ; Svg sont répertoriés dans le sélecteur de fichiers mais ne sont pas pris en charge
 * Le paramètre d&#39;intensité d&#39;émission de la &amp;lbrack ; 3D View&amp;rbrack ; dans les paramètres du nuanceur ne fonctionne pas
 * &amp;lbrack ;3D View&amp;rbrack ; Parfois, la position du filet est incorrecte lors de la création d’un nouvel élément
@@ -372,13 +372,13 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 **Fixe :**
 
 * Le curseur d&#39;exposition &amp;lbrack ;2D View&amp;rbrack ; n&#39;a aucun effet lorsque la projection sphérique est désactivée
-* &amp;lbrack;Vue en 2D&amp;rbrack ; Peindre en dehors de la texture crée un contour discontinu
+* &lbrack;Vue en 2D&amp;rbrack ; Peindre en dehors de la texture crée un contour discontinu
 * &amp;lbrack ;2D View&amp;rbrack ; Le bouton d&#39;exposition n&#39;a pas d&#39;info-bulle.
-* &amp;lbrack;Vue en 2D&amp;rbrack ; Le zoom sur le côté d&#39;une image non carrée ne suit pas la souris
+* &lbrack;Vue en 2D&amp;rbrack ; Le zoom sur le côté d&#39;une image non carrée ne suit pas la souris
 * &amp;lbrack ; capture 3D&amp;rbrack ; capture 3D ne fonctionne pas sous Windows 11 24H2
 * &amp;lbrack ; capture 3D&amp;rbrack ; se bloque si nous quittons Sampler pendant l’étape de reconstruction du maillage
 * &amp;lbrack ;3D View&amp;rbrack ; Le temps de calcul est parfois affiché sous la forme 0ms
-* &amp;lbrack;Vue 3D&amp;rbrack ; Lorsque vous passez de la projection orthographique à la projection en perspective, la fenêtre d’affichage devient grise
+* &lbrack;Vue 3D&amp;rbrack ; Lorsque vous passez de la projection orthographique à la projection en perspective, la fenêtre d’affichage devient grise
 * &amp;lbrack ; Application&amp;rbrack ; Blocage au démarrage lors de la vérification des capacités GPU
 * &amp;lbrack ; Application&amp;rbrack ; Blocage lors de l’installation
 * &amp;lbrack ; Application&amp;rbrack ; Blocage à la fermeture après avoir cliqué avec le bouton droit sur un champ de métadonnées
@@ -387,7 +387,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; Captis&amp;rbrack ; Certaines métadonnées peuvent ne pas être transférées entre les étapes de capture
 * &amp;lbrack ; Captis&amp;rbrack ; Le nom de l&#39;actif créé n&#39;est pas celui saisi dans le champ de métadonnées
 * &amp;lbrack ;Content&amp;rbrack ; L&#39;exemple de projet demande une mise à jour du filtre mais est déjà à jour
-* &amp;lbrack;Filters&amp;rbrack ; Le filtre de réglage Normal/height n&#39;a pas d&#39;icône
+* &lbrack;Filters&amp;rbrack ; Le filtre de réglage Normal/height n&#39;a pas d&#39;icône
 * &amp;lbrack ; Layers&amp;rbrack ; Cannot change images in an image import layer
 * &amp;lbrack ; Layers&amp;rbrack ; se bloque lors de l&#39;utilisation du filtre Upscale
 * &amp;lbrack ; Layers&amp;rbrack ; La mise à jour d&#39;un projet avec une ancienne image en matériau rend le matériau entièrement noir
@@ -565,7 +565,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 
 **Fixe :**
 
-* &amp;lbrack;L&#39;enregistrement d&#39;un projet sur un partage réseau sous Windows corrompt le fichier de projet
+* &lbrack;L&#39;enregistrement d&#39;un projet sur un partage réseau sous Windows corrompt le fichier de projet
 
 ### **4.3.1 EMPANADA**
 
@@ -624,7 +624,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 
 **Fixe :**
 
-* &amp;lbrack;Vue 2D&amp;rbrack ; Le zoom avec la molette de la souris est bloqué à 244 %
+* &lbrack;Vue 2D&amp;rbrack ; Le zoom avec la molette de la souris est bloqué à 244 %
 * &amp;lbrack ; Application&amp;rbrack ; Blocage au démarrage lors de l’initialisation de l’API graphique
 * &amp;lbrack ; Application&amp;rbrack ; se bloque si le nom du projet contient le caractère #
 * &amp;lbrack ;Application&amp;rbrack ; Blocage possible lors de l’ouverture d’un ancien projet
@@ -688,7 +688,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * Les images &amp;lbrack ; Layers&amp;rbrack ; peuvent être ajoutées dans les calques d&#39;importation d&#39;image
 * Les images &amp;lbrack ; Layers&amp;rbrack ; peuvent être supprimées dans les calques d&#39;importation d&#39;image
 * &amp;lbrack ; Layers&amp;rbrack ; Les calques non valides peuvent désormais être supprimés
-* &amp;lbrack;Raccourci de la &amp;vue 2D ; Maj+C pour revenir aux canaux
+* &lbrack;Raccourci de la &amp;vue 2D ; Maj+C pour revenir aux canaux
 * &amp;lbrack ;capture 3D&amp;rbrack ; Affiche un toast d&#39;avertissement lorsque l&#39;utilisateur importe moins de 20 images
 * &amp;lbrack ; Application&amp;rbrack ; Nouvelles préférences pour définir la valeur par défaut du carrelage de texture de matière
 * &amp;lbrack ; Onboarding&amp;rbrack ; Mise à jour de l&#39;interface utilisateur du tutoriel pour Image vers matériau (AI) et Mise à niveau
@@ -707,7 +707,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; Export&amp;rbrack ; La résolution de mappage normal exportée change lors de la modification du format normal
 * &amp;lbrack ; Export&amp;rbrack ; Supprimer le suffixe de nom de fichier « \_environment » lors de l&#39;exportation d&#39;un environnement
 * &amp;lbrack ; Export&amp;rbrack ; Impossible d’exporter un fichier .sbsar lorsqu’il y a un calque de transformation de déformation dans la pile de calques
-* &amp;lbrack;La vue 2D&amp;rbrack ; « Adapter à l&#39;écran » ne fonctionne pas lorsque la résolution change
+* &lbrack;La vue 2D&amp;rbrack ; « Adapter à l&#39;écran » ne fonctionne pas lorsque la résolution change
 * &amp;lbrack ;Application&amp;rbrack ; Après avoir fermé la fenêtre de l&#39;application pendant le calcul, le processus de l&#39;application peut encore être en cours d&#39;exécution
 * &amp;lbrack ; Application&amp;rbrack ; Blocage à la sortie
 * &amp;lbrack ; Application&amp;rbrack ; Invalider le cache de rendu lors du basculement de réseaux neuronaux à accélération GPU
@@ -1056,7 +1056,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * Le calque &amp;lbrack ; Layers&amp;rbrack ; Supprimé peut toujours apparaître dans le panneau Propriétés
 * &amp;lbrack ; Layers&amp;rbrack ; Le calcul des calques peut se bloquer lors du basculement entre les ressources du projet
 * &amp;lbrack ;Project&amp;rbrack ; Parfois, Sampler ne parvient pas à ouvrir un projet à partir du disque
-* &amp;lbrack;Vue 2D&amp;rbrack ; La vue 2D revient toujours par défaut à la sortie matière
+* &lbrack;Vue 2D&amp;rbrack ; La vue 2D revient toujours par défaut à la sortie matière
 
 **Problèmes Connus :**
 
@@ -1103,13 +1103,13 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; Properties&amp;rbrack ; Nouveau bouton au survol des paramètres pour réinitialiser la valeur des paramètres
 * &amp;lbrack ; Properties&amp;rbrack ; New menu contextuel accessible via un clic droit sur les paramètres pour réinitialiser leur valeur
 * &amp;lbrack ; Content&amp;rbrack ; Image vers matériau (optimisé par l’IA) fonctionne désormais sur MacOS
-* &amp;lbrack;Engine&amp;rbrack ; Mettre à jour le moteur de Substance de données vers la version 8.6.0
+* &lbrack;Engine&amp;rbrack ; Mettre à jour le moteur de Substance de données vers la version 8.6.0
 
 **Fixe :**
 
 * &amp;lbrack ; L&#39;application&amp;rbrack ; peut se bloquer à la sortie lorsqu&#39;une génération de vignettes est en cours
 * L&#39;application &amp;lbrack ; peut se bloquer lors de l&#39;utilisation de « Enregistrer sous » à la sortie
-* L&#39;application &amp;lbrack;Application&amp;rbrack; peut se bloquer lors de l&#39;arrêt de MacOS
+* L&#39;application &lbrack;Application&rbrack; peut se bloquer lors de l&#39;arrêt de MacOS
 * &amp;lbrack ;Application&amp;rbrack ; L&#39;enregistrement avec la boîte de dialogue Couleur ouverte n&#39;enregistre pas ses modifications
 * &amp;lbrack ; Export&amp;rbrack ; La convention de dénomination d&#39;utilisation n&#39;est pas correcte lors de l&#39;exportation
 * &amp;lbrack ; Layers&amp;rbrack ; Déposer une matière sur un filtre peut provoquer un blocage
@@ -1117,7 +1117,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; Les champs de métadonnées&amp;rbrack ; vides sont exportés
 * &amp;lbrack ; Metadata&amp;rbrack ; Lorsqu&#39;il n&#39;y a qu&#39;un seul élément de métadonnées, l&#39;interface utilisateur vous permet de le réorganiser
 * &amp;lbrack ; Project&amp;rbrack ; Compute ne se termine jamais après la duplication d&#39;un matériau
-* L&#39;&amp;élément de projet lbrack;Project&amp;rbrack; est dupliqué après l&#39;enregistrement initial du projet
+* L&#39;&amp;élément de projet lbrack;Project&rbrack; est dupliqué après l&#39;enregistrement initial du projet
 * &amp;lbrack ; Project&amp;rbrack ; Calculs inutiles lors du changement de ressource
 * &amp;lbrack ; Rendu&amp;rbrack ; Certaines piles de calques ne s&#39;affichent pas correctement après la suppression d&#39;un calque
 * &amp;lbrack ; Security&amp;rbrack ; Fix CVE-2015-20107
@@ -1201,11 +1201,11 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; Tools&amp;rbrack ; Nouveau raccourci, touche « X », pour basculer entre Pinceau et Gomme
 * &amp;lbrack ; Tools&amp;rbrack ; Nouveau raccourci, « &amp;lbrack ; » « &amp;rbrack ; » pour modifier l&#39;épaisseur du pinceau
 * &amp;lbrack ; Tools&amp;rbrack ; Nouveau raccourci, touche « E », pour activer/désactiver la Gomme
-* &amp;lbrack;Vue 2D&amp;rbrack ; Nouveau mode de Projection sphérique lors de la création de l&#39;éclairage ambiant
+* &lbrack;Vue 2D&amp;rbrack ; Nouveau mode de Projection sphérique lors de la création de l&#39;éclairage ambiant
 * L&#39;outil &amp;lbrack ; 2D View&amp;rbrack ; Brush est pris en charge avec le mode projection sphérique
 * L&#39;outil &amp;lbrack ; 2D View&amp;rbrack ; Position est pris en charge avec le mode projection sphérique
 * &amp;lbrack ;2D View&amp;rbrack ; Undo/redo est pris en charge avec le mode projection sphérique
-* &amp;lbrack;Vue en 2D&amp;rbrack ; En Projection sphérique, définissez la position par défaut pour regarder au centre de l&#39;environnement
+* &lbrack;Vue en 2D&amp;rbrack ; En Projection sphérique, définissez la position par défaut pour regarder au centre de l&#39;environnement
 * &amp;lbrack ;2D View&amp;rbrack ; Nouveau contrôle d&#39;exposition
 * &amp;lbrack ; UI&amp;rbrack ; Dans le panneau Propriétés, la modification de l&#39;image affiche la source du contenu (Image ou d&#39;un calque)
 * &amp;lbrack ; UI&amp;rbrack ; Amélioration de l’arrière-plan déroulant des sorties de calque/matériau
@@ -1334,7 +1334,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 
 **Fixe :**
 
-* &amp;lbrack;2D View&amp;rbrack ; Channel reste dans la liste lorsqu&#39;il est supprimé
+* &lbrack;2D View&amp;rbrack ; Channel reste dans la liste lorsqu&#39;il est supprimé
 * &amp;lbrack ; Application&amp;rbrack ; Impossible de dupliquer une ressource chargée à partir de l&#39;explorateur de fichiers du système d&#39;exploitation
 * &amp;lbrack ; Application&amp;rbrack ; Blocage à la sortie
 * &amp;lbrack ;Application&amp;rbrack ; se bloque parfois lorsque vous cliquez sur « Ressources de démarrage » dans le panneau Ressources
@@ -1404,7 +1404,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 **Ajouté :**
 
 * &amp;lbrack ;Interoperability&amp;rbrack ; Envoyer des ressources (SBS ou SBSAR) vers Substance 3D Designer
-* &amp;lbrack;Interopérabilité&amp;rbrack ; Définissez dans les préférences le format par défaut pour l&#39;interopérabilité avec Substance 3D Designer
+* &lbrack;Interopérabilité&amp;rbrack ; Définissez dans les préférences le format par défaut pour l&#39;interopérabilité avec Substance 3D Designer
 * &amp;lbrack ;Interoperability&amp;rbrack ; Recevoir plusieurs ressources d’Adobe Bridge
 * &amp;lbrack ; UI&amp;rbrack ; Nouveau widget Générateur aléatoire
 * &amp;lbrack ; UI&amp;rbrack ; Mise à jour du menu contextuel
@@ -1524,7 +1524,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; UI&amp;rbrack ; Mise à jour du style des champs de texte
 * &amp;lbrack ; UI&amp;rbrack ; Nouveau texte de description dans la fenêtre de création du modèle d&#39;éclairage ambiant
 * &amp;lbrack ; Application&amp;rbrack ; Exporter les ressources avec la résolution actuelle lors de l&#39;envoi vers une application externe
-* &amp;lbrack;Application&amp;rbrack ; La résolution par défaut des matériaux est désormais 2048\*2048 (1024\*1024 sous macos)
+* &lbrack;Application&amp;rbrack ; La résolution par défaut des matériaux est désormais 2048\*2048 (1024\*1024 sous macos)
 * &amp;lbrack ; Content&amp;rbrack ; Nouveaux motifs dans le filtre Carreaux du sol
 * &amp;lbrack ; Content&amp;rbrack ; Nouveau mode bicolore dans le filtre Remplacement de couleur
 
@@ -1532,7 +1532,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 
 * &amp;lbrack ;2D View&amp;rbrack ; Le premier trait de l&#39;outil Pinceau est parfois interrompu
 * &amp;lbrack ;2D View&amp;rbrack ; Ressources gratuites lorsque l&#39;outil Pinceau n&#39;est pas visible
-* &amp;lbrack;Vue &amp;2D ; Utiliser le curseur de redimensionnement à droite dans le widget de transformation
+* &lbrack;Vue &amp;2D ; Utiliser le curseur de redimensionnement à droite dans le widget de transformation
 * Les widgets &amp;lbrack ;2D View&amp;rbrack ; ne s&#39;affichent pas si l&#39;utilisateur a déjà effectué un panoramique dans la vue 2D
 * &amp;lbrack ; Application&amp;rbrack ; Blocage lors de l’ouverture d’un projet avec un workflow rompu
 * &amp;lbrack ;Application&amp;rbrack ; Corriger l&#39;arrêt de l&#39;application pour éviter d&#39;inonder le journal d&#39;erreurs inutiles
@@ -1617,8 +1617,8 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ;Project&amp;rbrack ; Enregistrer en tant que projet vous demandera de sélectionner l&#39;emplacement où enregistrer votre projet
 * &amp;lbrack ;Project&amp;rbrack ; La fermeture de Sampler vous demandera d&#39;enregistrer votre projet s&#39;il n&#39;est pas enregistré
 * &amp;lbrack ;Project&amp;rbrack ; La fermeture de Sampler vous demandera d&#39;enregistrer votre projet si des modifications ont été apportées depuis le dernier enregistrement
-* &amp;lbrack;Project&amp;rbrack ; Le nom de votre projet s&#39;affiche au-dessus de la clôture
-* &amp;lbrack;Project&amp;rbrack ; Le nom du projet est en italique avec une étoile s&#39;il n&#39;est pas enregistré ou s&#39;il contient des modifications depuis le dernier enregistrement
+* &lbrack;Project&amp;rbrack ; Le nom de votre projet s&#39;affiche au-dessus de la clôture
+* &lbrack;Project&amp;rbrack ; Le nom du projet est en italique avec une étoile s&#39;il n&#39;est pas enregistré ou s&#39;il contient des modifications depuis le dernier enregistrement
 * &amp;lbrack ;Project&amp;rbrack ; Ouvrez un fichier de projet .ssa directement à partir de l&#39;explorateur de votre système d&#39;exploitation
 * &amp;lbrack ;Project&amp;rbrack ; L&#39;ouverture d&#39;un fichier .sbsar à partir de votre explorateur OS lancera Sampler avec un nouveau projet avec ce fichier .sbsar prêt à l&#39;emploi
 * &amp;lbrack ;Project&amp;rbrack ; Ouvrez un fichier .alch (fichier de Substance Alchemist hérité) à partir de votre explorateur de système d&#39;exploitation
@@ -1886,7 +1886,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; Application&amp;rbrack ; Rare blocage lors du changement rapide de ressource rendue
 * &amp;lbrack ; Application&amp;rbrack ; Se bloque lors de la fermeture pendant le calcul d&#39;une ressource
 * &amp;lbrack ; Application&amp;rbrack ; Rare crash au démarrage sous macos
-* &amp;lbrack;Application&amp;rbrack ; bloqué lors de la fermeture de l&#39;application peu après le démarrage
+* &lbrack;Application&amp;rbrack ; bloqué lors de la fermeture de l&#39;application peu après le démarrage
 * &amp;lbrack ;Rendu&amp;rbrack ; La vue 3D scintille parfois
 * Le sélecteur de couleurs et les widgets de générateur aléatoire de l’&amp;ibrack ;UI&amp;rbrack ; ne sont pas alignés avec le reste des réglages
 * &amp;lbrack ;Rendering&amp;rbrack ; Affichage d&#39;un temps de calcul incorrect
@@ -1921,7 +1921,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ;Raccourci 2D View&amp;rbrack ; X pour inverser la valeur des niveaux de gris du pinceau
 * &amp;lbrack ; Raccourcis &amp;lbrack ; et &amp;rbrack ; de la vue 2D pour modifier l&#39;épaisseur du pinceau
 * &amp;lbrack ;2D View&amp;rbrack ; Ctrl (ou Cmd) + Molette de la souris modifient l’épaisseur du pinceau
-* &amp;lbrack;Vue&amp;2D&amp;rbrack ; Il est désormais possible de modifier la position de la source lors de l&#39;utilisation du patch de duplication
+* &lbrack;Vue&amp;2D&amp;rbrack ; Il est désormais possible de modifier la position de la source lors de l&#39;utilisation du patch de duplication
 * &amp;lbrack ; Layers&amp;rbrack ; Maj + glisser-déposer pour créer des atlas de dispersion automatique
 * &amp;lbrack ; Layers&amp;rbrack ; Alt + glisser-déposer insère une matière en tant que décalcomanie
 * &amp;lbrack ; Layers&amp;rbrack ; Exposer facilement les matrices de transformation de la Substance Designer
@@ -2237,7 +2237,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ;Tweak&amp;rbrack ; Le message d&#39;information s&#39;affiche lorsqu&#39;il s&#39;agit d&#39;un matériau créé dans Alchemist
 * &amp;lbrack ;Viewport&amp;rbrack ; La valeur par défaut de la texture Specular level est corrigée à 0,04
 * &amp;lbrack ; File Menu&amp;rbrack ; Fix and rename Save and Save as option
-* &amp;lbrack;Engine&amp;rbrack ; Mettez à jour la version du moteur de Substance de données pour éviter le blocage de certains fichiers SBSAR lors de l&#39;importation.
+* &lbrack;Engine&amp;rbrack ; Mettez à jour la version du moteur de Substance de données pour éviter le blocage de certains fichiers SBSAR lors de l&#39;importation.
 * Le filtre &amp;lbrack ;Content&amp;rbrack ; Tiling fonctionne sur le canal d’occlusion ambiant
 * Le filtre &amp;lbrack ; Content&amp;rbrack ; Crop fonctionne sur la couche d&#39;occlusion ambiante
 * &amp;lbrack ;Content&amp;rbrack ; Le filtre Eau modifie le mappage d&#39;height
@@ -2315,7 +2315,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; File Menu&amp;rbrack ; Integration of a file Menu
 * &amp;lbrack ; File Menu&amp;rbrack ; Accédez aux commandes du projet à partir de l&#39;onglet Fichier et de l&#39;enregistrement de la pile de calques
 * &amp;lbrack ; File Menu&amp;rbrack ; Accédez aux commandes Annuler et Rétablir à partir de l&#39;onglet Edition
-* &amp;lbrack;Menu Fichier&amp;rbrack ; Le menu d&#39;aide précédent a été déplacé dans le menu Fichier sous l&#39;onglet Aide
+* &lbrack;Menu Fichier&amp;rbrack ; Le menu d&#39;aide précédent a été déplacé dans le menu Fichier sous l&#39;onglet Aide
 * &amp;lbrack ; Layers&amp;rbrack ; Nouvelle architecture de la pile de calques
 * &amp;lbrack ; Layers&amp;rbrack ; Nouvelle interface utilisateur de la pile de calques
 * &amp;lbrack ; Layers&amp;rbrack ; Sélectionnez le mode de fusion directement dans la barre d&#39;outils
@@ -2325,7 +2325,7 @@ Cette page regroupe toutes les modifications apportées à Substance 3D Sampler,
 * &amp;lbrack ; Viewport&amp;rbrack ; Contrôle du champ de vision de la caméra
 * &amp;lbrack ; Viewport&amp;rbrack ; Possibilité de basculer entre la caméra orthographique ou la caméra en perspective
 * &amp;lbrack ; Viewport&amp;rbrack ; Affiche la résolution et les informations de nombre de bits par pixel pour chaque canal
-* &amp;lbrack;Resources&amp;rbrack ; Matériaux de base ouverts par défaut
+* &lbrack;Resources&amp;rbrack ; Matériaux de base ouverts par défaut
 * &amp;lbrack ; Cache&amp;rbrack ; Localisez le dossier de cache de vos vignettes
 * &amp;lbrack ;Cache&amp;rbrack ; Recherchez votre dossier de cache de rendu
 * Le panneau Paramètres de &amp;matière est temporairement masqué

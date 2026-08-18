@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **BaseColor****OcclusionRugositéMétallique:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Occlusion ambiante</li><li data-preserve-html="true"><strong>G</strong> : Rugosité</li><li data-preserve-html="true"><strong>B</strong> : Métallique</li></ul>**Height Normal ****Émissif****3}** |
+| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **BaseColor**&#x200B;**OcclusionRugositéMétallique:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Occlusion ambiante</li><li data-preserve-html="true"><strong>G</strong> : Rugosité</li><li data-preserve-html="true"><strong>B</strong> : Métallique</li></ul>**Height Normal &#x200B;**&#x200B;**Émissif**&#x200B;**3&rbrace;** |
