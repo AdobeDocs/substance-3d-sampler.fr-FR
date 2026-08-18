@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
 breadcrumb-title: ''
 description: Consultez les notes de mise à jour de Substance 3D Sampler version 3.2 pour en savoir plus sur le workflow de numérisation des matériaux, les nouveaux filtres et les métadonnées personnalisées.
 helpx_creative_field: ""

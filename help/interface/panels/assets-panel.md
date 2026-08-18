@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
 description: Apprenez à utiliser le panneau Actifs de Substance 3D Sampler pour parcourir, organiser et consulter vos ressources matérielles et vos ressources.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
 breadcrumb-title: ''
 description: Découvrez comment utiliser l’option Envoyer vers de Substance dans Substance 3D Sampler pour envoyer des ressources directement à d’autres applications via le connecteur.
 helpx_creative_field: ""
@@ -37,11 +37,11 @@ Voici les versions minimales dont vous avez besoin pour pouvoir utiliser l’opt
 
 * <b>Plug-in Maya v3.0.0+</b>
   * Pris en charge dans Maya 2025, 2024, 2023 et 2022
-  * *Disponible gratuitement depuis Maya 2025, pour les versions précédentes, le plug-in doit être téléchargé à partir du [site web](https://www.adobe.com/products/substance3d/plugins/substance-in-maya.html "Page web Substance en maya")*
+  * *Disponible gratuitement depuis Maya 2025, pour les versions précédentes, le plug-in doit être téléchargé à partir du [site web](https://www.adobe.com/fr/products/substance3d/plugins/substance-in-maya.html "Page web Substance en maya")*
 
 * <b>Plug-in 3ds Max v3.0.0+</b>
   * Pris en charge dans 3ds Max 2025, 2024, 2023 et 2022
-  * *Disponible prêt à l&#39;emploi depuis 3ds Max 2025, pour les versions précédentes, le plug-in doit être téléchargé à partir du [site web](https://www.adobe.com/products/substance3d/plugins/substance-in-3ds-max.html "Substance dans la page web 3ds Max")*
+  * *Disponible prêt à l&#39;emploi depuis 3ds Max 2025, pour les versions précédentes, le plug-in doit être téléchargé à partir du [site web](https://www.adobe.com/fr/products/substance3d/plugins/substance-in-3ds-max.html "Substance dans la page web 3ds Max")*
 
 * <b>Plug-in Unity v3.11+</b>
   * Versions Unity 2022, 2021 ou 2020
@@ -49,4 +49,4 @@ Voici les versions minimales dont vous avez besoin pour pouvoir utiliser l’opt
 
 * <b>Plug-in Blender v2.1+</b>
   * Blender versions 3.0 et ultérieures
-  * *Le plug-in peut être téléchargé sur le [site web](https://www.adobe.com/products/substance3d/plugins/substance-in-blender.html "Substance dans la page web de Blender")*
+  * *Le plug-in peut être téléchargé sur le [site web](https://www.adobe.com/fr/products/substance3d/plugins/substance-in-blender.html "Substance dans la page web de Blender")*

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/shortcuts.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/shortcuts.html"
 breadcrumb-title: ''
 description: Accédez aux raccourcis clavier de Substance 3D Sampler pour accélérer votre workflow et améliorer l’efficacité de la création de matières.
 helpx_creative_field: ""

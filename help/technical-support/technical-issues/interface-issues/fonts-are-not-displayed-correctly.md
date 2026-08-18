@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
 breadcrumb-title: ''
 description: Découvrez comment résoudre les problèmes d’affichage des polices dans Substance 3D Sampler sur les systèmes Windows Enterprise avec le blocage de polices non approuvé activé.
 helpx_creative_field: ""

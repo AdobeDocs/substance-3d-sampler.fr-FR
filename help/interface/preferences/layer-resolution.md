@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: Découvrez comment configurer la résolution de calque dans Substance 3D Sampler pour contrôler la résolution des calques individuels dans votre pile de matériaux.
 helpx_creative_field: ""

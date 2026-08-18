@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
 breadcrumb-title: ''
 description: Découvrez comment corriger les blocages lors de l’utilisation des filtres Image vers matériau ou Delighter dans Substance 3D Sampler en raison d’une VRAM insuffisante.
 helpx_creative_field: ""

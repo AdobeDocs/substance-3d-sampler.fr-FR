@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/physical-size-panel.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/physical-size-panel.html"
 breadcrumb-title: ''
 description: Apprenez à utiliser le panneau Taille physique de Substance 3D Sampler pour définir les dimensions réelles des matériaux et des textures.
 helpx_creative_field: ""

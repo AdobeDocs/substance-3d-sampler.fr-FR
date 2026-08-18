@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/home.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/home.html"
 breadcrumb-title: ''
 description: Commencez avec Substance 3D Sampler à créer des matériaux à partir d’images, à modifier les éclairages de l’environnement et à créer des bibliothèques de matériaux.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
 breadcrumb-title: ''
 description: Consultez les notes de mise à jour de Substance 3D Sampler version 2019.1 pour en savoir plus sur la gestion de projet, les améliorations de la pile de calques et les mises à jour de Delighter.
 helpx_creative_field: ""
@@ -73,7 +73,7 @@ La pile de calques a été reconstruite à partir de zéro pour étendre ses pos
 
 ![](../../assets/sa-notes-viewport.jpg)
 
-Quelques nouvelles fonctionnalités ont été ajoutées à l&#39;aire d&#39;affichage pour en améliorer l&#39;utilisation. Ces nouveaux paramètres sont accessibles dans le [panneau Paramètres du visualiseur](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html).
+Quelques nouvelles fonctionnalités ont été ajoutées à l&#39;aire d&#39;affichage pour en améliorer l&#39;utilisation. Ces nouveaux paramètres sont accessibles dans le [panneau Paramètres du visualiseur](https://helpx.adobe.com/fr/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html).
 
 * **Mode appareil photo**\
   Le mode de projection de la caméra permet de choisir entre Perspective et Orthographique.

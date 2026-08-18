@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ''
 description: Apprenez à utiliser le panneau Calques de Substance 3D Sampler pour gérer les calques de filtre et créer des piles de matériaux complexes.
 helpx_creative_field: ""

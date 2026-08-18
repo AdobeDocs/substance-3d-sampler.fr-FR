@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ''
 description: Apprenez à utiliser le panneau Paramètres des couches dans Substance 3D Sampler pour gérer les couches de matériau et contrôler la visibilité des couches.
 helpx_creative_field: ""
