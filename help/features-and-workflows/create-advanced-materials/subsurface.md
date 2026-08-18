@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Les canaux souterrains sont utiles pour les matériaux opaques mais translucides, imitant l&#39;effet de diffusion de la lumière sous la surface du matériau. Cet effet se produit généralement avec des matériaux tels que la peau, les feuilles et de nombreux plastiques. Regardez la vidéo ci-dessous pour en savoir plus sur les paramètres de sous-surface et les utiliser pour créer un matériau en résine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483521)
+>[!VIDEO](https://video.tv.adobe.com/v/3483545?captions=fre_fr)

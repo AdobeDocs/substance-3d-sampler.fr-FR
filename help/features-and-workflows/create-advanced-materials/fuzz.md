@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Les canaux Fuzz permettent d’ajouter un niveau supplémentaire de réalisme aux matériaux tels que le daim et d’autres tissus. Regardez la vidéo ci-dessous pour apprendre à utiliser au mieux les canaux flous dans Sampler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483519)
+>[!VIDEO](https://video.tv.adobe.com/v/3483523?captions=fre_fr)
