@@ -4,9 +4,9 @@ breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
 hide: false
 hold: true
-source-git-commit: 6a659856172275313f25647700ef703e3daf8aba
+source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '627'
 ht-degree: 16%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 16%
   + Prise en charge de HP Z Captis{#hp-z-captis-support}
     + [Présentation de la prise en charge de HP Z Captis](/help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
     + [Votre première capture, étape par étape](/help/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.md)
+    + [Bonnes pratiques en matière de numérisation](/help/pipeline-and-integrations/hp-z-captis-support/scanning-best-practices.md)
     + [Configuration requise pour utiliser l’appareil HP Z Captis](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
     + [FAQ sur la prise en charge de HP Z dans Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [Problèmes connus et limitations](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
