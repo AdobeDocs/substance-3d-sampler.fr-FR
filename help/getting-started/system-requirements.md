@@ -95,7 +95,7 @@ Vous trouverez ci-dessous une liste du matériel et des systèmes pris en charge
 
 Vous trouverez ci-dessous une liste des versions minimales du pilote GPU requises pour que l’application s’exécute sans problème. Cette liste est susceptible d’être modifiée à mesure que de nouvelles versions sont publiées.
 
-Pour télécharger de nouveaux pilotes, voir : [Le GPU a des pilotes obsolètes](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
+Pour télécharger de nouveaux pilotes, voir : [Le GPU a des pilotes obsolètes](https://experienceleague.adobe.com/fr/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
 
 | SE | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |
