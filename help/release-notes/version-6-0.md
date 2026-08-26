@@ -4,10 +4,10 @@ description: Consultez les notes de mise à jour de Substance 3D Sampler version
 title: Version 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: fe26cb37891204d5b93265643c23d8e717b3d524
+source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
 workflow-type: tm+mt
-source-wordcount: '1357'
-ht-degree: 2%
+source-wordcount: '1627'
+ht-degree: 1%
 
 ---
 
@@ -60,9 +60,49 @@ Plus d&#39;informations *[ici](../pipeline-and-integrations/hp-z-captis-support/
 
 ## Notes de mise à jour sur la version 6.0
 
+### **6.0.3**
+
+*(sortie : 24 août 2026)*
+
+**Fixe :**
+
+[Rendu] : solution de contournement temporaire inversée pour les pilotes NVIDIA défectueux
+
+### **6.0.2**
+
+*(sortie : 25 juin 2026)*
+
+**Ajouté :**
+
+* &amp;lbrack ; Assets&amp;rbrack ; Vérifiez la version sbsar et avertissez les utilisateurs que le moteur est trop vieux pour la lire
+* &amp;lbrack ; Captis&amp;rbrack ; Add back option pour enregistrer la photométrie Captis dans les préférences
+
+**Fixe :**
+
+* &amp;lbrack ;2D View&amp;rbrack ; Do not &#39;display with Physical ratio&#39; if taille physique is disabled
+* &amp;lbrack ; Analytics&amp;rbrack ; Événements d&#39;analyse manquants
+* &amp;lbrack ; Analytics&amp;rbrack ; Prevent crashpad to report a crash on vk device list
+* &amp;lbrack ; Application&amp;rbrack ; Ne détruisez pas les vkdevices à la sortie pour éviter un crash dans le pilote nvidia
+* &amp;lbrack ; Application&amp;rbrack ; Réparer la sortie de l&#39;observateur de collection lié + gestionnaire de canaux
+* &amp;lbrack ; Application&amp;rbrack ; Prévenir un blocage à la sortie
+* Le filtre &amp;lbrack ; Content&amp;rbrack ; « metal finish » n&#39;a pas d&#39;impact sur le métal
+* &amp;lbrack ;Content&amp;rbrack ; Ajouter de la taille physique aux filtres dynamiques où elle est manquante
+* &amp;lbrack ; Filters&amp;rbrack ; Supprimer le remplissage d&#39;après le contenu de la liste des actifs masqués
+* &amp;lbrack ; Layers&amp;rbrack ; Cliquer sur &#39;réinitialiser tous les paramètres&#39; ne réinitialise pas la liste déroulante &#39;s&#39;applique à&#39;
+* &amp;lbrack ; Layers&amp;rbrack ; Fix tweak min &amp; max for position widget
+* &amp;lbrack ; Layers&amp;rbrack ; Mise à jour correcte du filtre
+* &amp;lbrack ; Taille physique&amp;rbrack ; S’assurer que l’échelle physique fonctionne partout + rendre la taille physique correcte avec des filtres dynamiques
+* &amp;lbrack ;Project&amp;rbrack ; Vérifier que la résolution de l&#39;actif est la résolution par défaut (2k x 2k) lors de la création d&#39;un nouvel actif
+* &amp;lbrack ;Project&amp;rbrack ; Rouvrir le projet en cours utilisé pour ouvrir la version précédente
+* &amp;lbrack ; Project&amp;rbrack ; Sampler ne propose plus de restaurer une sauvegarde de projets corrompus
+* &amp;lbrack ; Rendu&amp;rbrack ; Rendu de la vignette du matériau à une résolution maximale de 2k
+* &amp;lbrack ; UI&amp;rbrack ; Code défensif pour éviter le blocage si l’utilisateur est plus rapide que l’interface utilisateur
+
+### **6.0.1**
+
 *(sortie : 16 avril 2026)*
 
-## Ajouté :
+**Ajouté :**
 
 * [Vue 3D] Fournir les maillages par défaut au format USD
 * [Application] Détecter les utilisations d&#39;un matériau qui ne sont pas disponibles dans le modèle de matériau actuel
@@ -110,7 +150,7 @@ Plus d&#39;informations *[ici](../pipeline-and-integrations/hp-z-captis-support/
 * Implémentation de la recherche [UI] dans l&#39;édition de la liste des canaux
 * [Interface utilisateur] Afficher une notification lors de l&#39;enregistrement d&#39;un instantané dans un fichier
 
-## Fixe :
+**Fixe :**
 
 * [Vue 2D] Classer la vue 2D en fonction de l&#39;index d&#39;utilisation des résultats dans la spécification
 * [Application] corriger un blocage au démarrage
@@ -194,7 +234,7 @@ Plus d&#39;informations *[ici](../pipeline-and-integrations/hp-z-captis-support/
 * [Interface utilisateur] : mise à jour des paramètres de canal lors de l’ajustement de l’utilisation d’une image
 * [Interface utilisateur] Mise à jour du libellé dans la fenêtre contextuelle de conversion de Modèle de matériau
 
-## Supprimé :
+## Supprimé
 
 * [Interface utilisateur] Supprimer l&#39;élément de menu Capture 3D
 * [Interface utilisateur] Supprimer le panneau IA générative
