@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/tiling.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Répétition de Substance 3D Sampler pour créer des motifs de répétition homogènes à partir de textures de surfaces de matériau répétables.
 helpx_creative_field: ""

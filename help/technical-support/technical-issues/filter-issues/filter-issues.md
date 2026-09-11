@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/technical-support/technical-issues/filter-issues.html"
 breadcrumb-title: ''
 description: Accédez aux guides de dépannage pour résoudre les problèmes de filtre Substance 3D Sampler afin de résoudre les filtres manquants et les problèmes liés aux filtres.
 helpx_creative_field: ""

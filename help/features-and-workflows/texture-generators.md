@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
 description: Apprenez à utiliser les générateurs de textures dans Substance 3D Sampler pour créer des textures et des motifs procéduraux pour la création de matériaux.
 helpx_creative_field: ""
@@ -137,4 +137,4 @@ Exportez votre filtre en tant que fichier d’archive de Substance de données (
 
 >[!NOTE]
 >
-> Vous pouvez exposer des paramètres de filtre pour contrôler le filtre directement dans Sampler. Voir comment [ici](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> Vous pouvez exposer des paramètres de filtre pour contrôler le filtre directement dans Sampler. Voir comment [ici](https://experienceleague.adobe.com/fr/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)

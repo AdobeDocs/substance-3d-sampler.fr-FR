@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/startup-issues.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/technical-support/technical-issues/startup-issues.html"
 breadcrumb-title: ''
 description: Accédez à des guides de dépannage pour les problèmes de démarrage de Substance 3D Sampler afin de résoudre les problèmes et erreurs de lancement de l’application.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embroidery.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/embroidery.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de broderies de Substance 3D Sampler pour créer des motifs de tissu brodé et des textures de couture pour les matériaux.
 helpx_creative_field: ""

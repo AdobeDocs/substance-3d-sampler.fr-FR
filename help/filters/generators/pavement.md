@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pavement.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/pavement.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de chaussées de Substance 3D Sampler pour créer des textures réalistes de chaussées et de revêtements routiers pour les matériaux.
 helpx_creative_field: ""

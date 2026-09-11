@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/sliders.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/tools-and-widgets/sliders.html"
 breadcrumb-title: ''
 description: Apprenez à utiliser les curseurs dans Substance 3D Sampler pour régler les paramètres et les propriétés de matériau avec précision.
 helpx_creative_field: ""

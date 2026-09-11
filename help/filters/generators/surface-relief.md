@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de Reliefs de surface de Substance 3D Sampler pour créer des motifs de surface en relief et reliefs dans les matériaux.
 helpx_creative_field: ""

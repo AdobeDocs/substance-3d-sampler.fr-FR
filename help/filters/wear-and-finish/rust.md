@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Rouille de Substance 3D Sampler pour appliquer des effets de rouille et de corrosion réalistes aux surfaces et aux matériaux métalliques.
 helpx_creative_field: ""

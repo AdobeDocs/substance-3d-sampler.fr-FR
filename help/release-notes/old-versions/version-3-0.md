@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
 breadcrumb-title: ''
 description: Consultez les notes de mise à jour de Substance 3D Sampler version 3.0 pour en savoir plus sur le remaniement de l’interface utilisateur, les éclairages d'environnement, les filtres et l’intégration du Creative Cloud.
 helpx_creative_field: ""
@@ -87,7 +87,7 @@ Sampler peut désormais [partager facilement des matériaux et des environnement
 ### Nouveau Moteur de rendu en temps réel
 
 * Prise en charge des matériaux ASM, permettant des recherches cohérentes entre les applications avec davantage de canaux de matériau.
-* Basculer entre 2 [moteurs en temps réel](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
+* Basculer entre 2 [moteurs en temps réel](https://helpx.adobe.com/fr/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)
 * Possibilité de contrôler les textures par défaut sur un maillage
 
 ### Améliorations générales

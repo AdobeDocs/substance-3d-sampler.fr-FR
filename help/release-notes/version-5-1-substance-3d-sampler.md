@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-1-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/release-notes/version-5-1-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Consultez les notes de mise à jour de Substance 3D Sampler version 5.1 pour en savoir plus sur les nouvelles fonctionnalités, les améliorations et les améliorations de workflow.
 helpx_creative_field: ""

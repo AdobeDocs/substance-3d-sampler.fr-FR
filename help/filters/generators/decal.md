@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de décalcomanies de Substance 3D Sampler pour créer des motifs de décalcomanie et des textures d’incrustation pour les surfaces de matériau.
 helpx_creative_field: ""

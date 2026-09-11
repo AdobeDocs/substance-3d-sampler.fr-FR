@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/flatten-layers.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/flatten-layers.html"
 breadcrumb-title: ''
 description: Apprenez à aplatir les calques dans Substance 3D Sampler pour améliorer les performances et simplifier votre pile de calques tout en comprenant l’impact.
 helpx_creative_field: ""

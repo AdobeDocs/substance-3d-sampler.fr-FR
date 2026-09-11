@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/clone-stamp.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Tampon de Clone de Substance 3D Sampler pour cloner et peinture des zones de texture afin de modifier et réparer le matériau en toute transparence.
 helpx_creative_field: ""

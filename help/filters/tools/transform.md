@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/transform.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/transform.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Transforme de Substance 3D Sampler pour mettre à l’échelle, faire pivoter, translater et manipuler des textures et des calques de matériau.
 helpx_creative_field: ""

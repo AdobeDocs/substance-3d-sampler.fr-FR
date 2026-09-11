@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channel-switch.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Changement de couche de Substance 3D Sampler pour réorganiser et intervertir les couches de couleur dans les cartes de texture en vue de la création de matériaux.
 helpx_creative_field: ""

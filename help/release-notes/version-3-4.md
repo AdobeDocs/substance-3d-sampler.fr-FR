@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-3-4.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/release-notes/version-3-4.html"
 breadcrumb-title: ''
 description: Consultez les notes de mise à jour de Substance 3D Sampler version 3.4 pour en savoir plus sur les nouvelles fonctionnalités conçues pour améliorer la vitesse et la qualité des workflows 3D.
 helpx_creative_field: ""

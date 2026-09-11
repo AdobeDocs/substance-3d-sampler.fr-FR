@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: Utilisez le filtre de rayure de Substance 3D Sampler pour ajouter des rayures réalistes et des effets d’endommagement de la surface à vos matériaux.
 helpx_creative_field: ""

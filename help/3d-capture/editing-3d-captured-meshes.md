@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
 breadcrumb-title: ''
 description: Apprenez à modifier des maillages 3D capturés dans Substance 3D Sampler pour affiner la géométrie, résoudre des problèmes et optimiser la qualité des maillages.
 helpx_creative_field: ""

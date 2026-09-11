@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/performance-issues.html"
+helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/technical-support/technical-issues/performance-issues.html"
 breadcrumb-title: ''
 description: Accédez à des guides de dépannage pour les problèmes de performances de Substance 3D Sampler afin d’optimiser la vitesse et la réactivité des applications.
 helpx_creative_field: ""
