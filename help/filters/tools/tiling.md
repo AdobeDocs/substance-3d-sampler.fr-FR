@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/tiling.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Mosaïque de Substance 3D Sampler pour créer des motifs de mosaïque continus à partir de textures pour des surfaces matérielles répétables.
+description: Utilisez l’outil Répétition de Substance 3D Sampler pour créer des motifs de répétition homogènes à partir de textures de surfaces de matériau répétables.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Tiling
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ Outils **In:**
 
 ## Description
 
-Utilisez le **filtre Juxtaposition** pour rendre votre matière juxtaposable. Le filtre **Mosaïque** rend également votre matériau mosaïque, mais chaque filtre fonctionne de manière différente. Si le **filtre Juxtaposition** ne fonctionne pas pour vous, essayez le **filtre Juxtaposition**.
+Utilisez le **filtre de Répétition** pour rendre votre matériau assemblable. Le filtre **Juxtaposer** rend également votre matériau juxtaposable, mais chaque filtre fonctionne différemment. Si le **filtre Répétition** ne fonctionne pas pour vous, essayez le **filtre Juxtaposer**.
 
 </td>
 </tr>
@@ -43,64 +43,64 @@ Utilisez le **filtre Juxtaposition** pour rendre votre matière juxtaposable. Le
 
 **Paramètres de base**
 
-* **Afficher la couture** : activer/désactiver\
-  Choisir d’afficher ou non la couture
+* **Afficher le Seam** : activer/désactiver\
+  Choisir d’afficher ou non le seam
 * **Utiliser le masque** : activer/désactiver\
-  Si cette option est activée, vous pouvez créer un masque personnalisé pour contrôler l’emplacement des coutures
+  Si cette option est activée, vous pouvez créer un masque personnalisé pour contrôler l’emplacement du seam
   * **Masque** : image/pinceau\
-    Importez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque directement dans la **vue 2D**
+    Importez une image à utiliser comme masque ou utilisez le pinceau pour appliquer une peinture directement dans la **Vue 2D**
 
 **Edge**
 
 * **Détecter les contours** : activer/désactiver\
-  Indiquez si les bords doivent être détectés en fonction des canaux du matériau pour créer une transition plus organique entre les calques de matériau. Si cette option est activée, les paramètres supplémentaires suivants apparaissent :
+  Indiquez si les contours doivent être détectés en fonction des couches de matériau pour créer une transition plus organique entre les calques de matériau. Si cette option est activée, les paramètres supplémentaires suivants apparaissent :
   * **Utiliser le seuil par canal** : activer/désactiver\
     Si cette option est activée, des paramètres supplémentaires apparaissent pour ajuster le seuil de chaque couche individuellement.
-    * **Couleur de base du seuil** : 0-1
+    * **Base color du seuil** : 0-1
     * **Seuil normal** : 0-1
     * **Height du seuil** : 0-1
   * **Seuil** : 0-1\
-    Ajustez la valeur de seuil utilisée pour rechercher la couture.
+    Ajustez la valeur de seuil utilisée pour rechercher le seam.
   * **Flou** : 0-1\
-    Atténuation de la zone autour de la couture
+    Flouter la zone autour du seam
   * **Smoothness** : 0-2\
-    Ajustez le smoothness de la couture. Cela permet d’éviter les artefacts
-  * **Résolution de la grille** : 1-11\
-    Ajustez la résolution de la grille sur laquelle la couture est dessinée. Une résolution inférieure peut améliorer les performances, mais diminuer la qualité de la couture
-  * **Utiliser la couleur de base** : activer/désactiver\
-    Indiquer si les informations de couleur de base sont prises en compte dans la génération de la jointure
+    Ajustez le smoothness du seam. Cela permet d’éviter les artefacts
+  * **Résolution de Grille** : 1-11\
+    Réglez la résolution de la grille sur laquelle le seam est dessiné. Une résolution inférieure peut améliorer les performances, mais diminuer la qualité du seam
+  * **Utiliser la Base color** : activer/désactiver\
+    Indiquer si les informations de base color sont prises en compte dans la génération du seam
   * **Utiliser la normale** : activer/désactiver\
-    Indiquer si les informations normales sont prises en compte dans la génération de jointures
+    Indiquer si les informations normales sont prises en compte dans la génération du seam
   * **Utiliser l&#39;Height** : activer/désactiver\
-    Indiquer si les informations d&#39;height sont prises en compte dans la génération de couture
+    Indiquer si les informations sur l’height sont prises en compte dans la génération du seam
   * **Décalage de coupe** : 0-0,5\
-    Ajuster le décalage de la couture sur les axes X et Y
+    Réglage du décalage du seam sur les axes X et Y
 
 **Paramètres avancés**
 
-* **Transformation** : 0-2\
-  Réglez les valeurs de transformation de la matrice. Augmentez les valeurs X et W pour ajuster le degré de chevauchement entre le matériau sous-jacent et celui sous-jacent.
+* **Transformer** : 0-2\
+  Ajustez les valeurs de transforme de la matrice. Augmentez les valeurs X et W pour définir le degré de chevauchement entre le matériau sous-jacent et le sous-jacent.
 * **Décalage** : 0-1\
-  décaler la matière sur les axes X et Y
+  décaler le matériau sur les axes X et Y
 * **Filtrage** :\
-  Sélectionnez la méthode de filtrage à utiliser sur les pixels redimensionnés. Le filtrage bilinéaire applique un flou aux pixels, tandis que le filtrage le plus proche préserve le contour net entre les pixels.
+  Sélectionnez la méthode de filtrage à utiliser sur les pixels redimensionnés. Le filtrage bilinéaire applique un flou aux pixels, tandis que le filtrage le plus proche opère un lissage entre les pixels.
 * **Taille d&#39;entrée** : 0-8192\
   Ajustez la taille de l’entrée en pixels sur les axes X et Y.
 
 ## Guide d’utilisation
 
-Le filtre **Limites** fonctionne en deux étapes :
+Le **filtre de Répétition** fonctionne en deux étapes :
 
-1. Il redimensionne et décale votre matière pour générer un chevauchement.
-1. Ensuite, il fait varier le bord qui se chevauche pour masquer la couture.
+1. Il adapte et décale votre matériau pour générer un chevauchement.
+1. Ensuite, il fait varier le bord qui se chevauche pour masquer le seam.
 
-Pour utiliser le **filtre Mosaïque**, vous pouvez donc ajuster ces deux parties du processus afin d&#39;obtenir les meilleurs résultats.
+Ainsi, pour utiliser le **filtre de Répétition**, ces deux étapes du processus peuvent vous donner les meilleurs résultats.
 
-1. Ajoutez le **filtre Limites** en haut de la pile de calques
-1. Utilisez les poignées pour transformer le matériau afin qu&#39;il y ait suffisamment de chevauchement pour masquer la couture.
-   1. La mise à l’échelle de la matière peut être utile pour créer un chevauchement, mais elle peut également entraîner une perte de détails.
-1. Ajustez les paramètres dans la section **Bord** pour ajuster la couture.
+1. Ajoutez le **filtre de Répétition** en haut de la pile de calques
+1. Utilisez les poignées pour transformer le matériau afin qu’il y ait suffisamment de chevauchement pour masquer le seam.
+   1. Il peut être utile de redimensionner le matériau pour créer un chevauchement, mais cela peut également entraîner une perte de détails.
+1. Ajustez les paramètres dans la section **Edge** pour ajuster le seam.
 
-Pour certains matériaux, l&#39;utilisation du **filtre Mosaïque** seul entraînera toujours des artefacts ou des problèmes le long de la couture. Dans ce cas, il est conseillé d&#39;utiliser d&#39;autres filtres tels que **Tampon de duplication** pour résoudre les problèmes de couture et de mosaïque.
+Pour certains matériaux, l&#39;utilisation du **filtre de Répétition** seul entraînera toujours des artefacts ou des problèmes le long du seam. Dans ce cas, il est conseillé d&#39;utiliser d&#39;autres filtres tels que **Tampon de Clone** pour résoudre les problèmes de seam et de répétition.
 
-Il est recommandé de travailler sur le carrelage du matériau dès le début du processus de création de matériau. Dès qu&#39;un élément sans carrelage est ajouté au matériau, il est préférable de s&#39;assurer qu&#39;il est carrelé avant de continuer. Les filtres de Sampler sont conçus de manière à ne pas casser les matériaux de mosaïque. Cela signifie qu’une fois les carreaux de matériau sous-jacents terminés, vous pouvez continuer à travailler avec les filtres et les matériaux inclus dans Sampler, et votre matériau sera toujours en mosaïque.
+Il est recommandé de travailler sur la répétition du matériau dès le début du processus de création du matériau. Dès qu&#39;un élément sans répétition est ajouté au matériau, assurez-vous qu&#39;il comporte des vignettes avant de continuer. Les filtres de Sampler sont conçus de manière à ne pas rompre les matériaux de répétition. Cela signifie qu’une fois les mosaïques de matériau sous-jacentes créées, vous pouvez continuer à travailler avec les filtres et les matériaux Sampler inclus, et votre matériau continuera à fonctionner avec ces mosaïques.

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/plane-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/plane-light.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Lumière plane de Substance 3D Sampler pour ajouter des sources lumineuses planes aux environnements HDRI afin d’obtenir des effets d’éclairage de zone.
+description: Utilisez l’outil Lumière plane de Substance 3D Sampler pour ajouter des sources lumineuses planaires aux environnements HDRI afin de créer des effets d’éclairage de zone.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > Plane Light
 helpx_experience_level: ""
@@ -57,54 +57,54 @@ Ajoutez une lumière en forme de plan plat à votre environnement.
       Sélectionnez la couleur de la lumière.
   * **Entrée d&#39;image**
     * **Entrée d&#39;image de forme** : image/pinceau\
-      Importez une image à utiliser comme couleur. Vous pouvez utiliser l&#39;outil Pinceau pour peindre directement dans la **vue 2D**, mais les résultats peuvent être imprévisibles avec ce filtre.
+      Importez une image à utiliser comme couleur. Vous pouvez utiliser l&#39;outil Pinceau pour effectuer une peinture directement dans la **Vue 2D**, mais les résultats peuvent être imprévisibles avec ce filtre.
   * **Exemple D&#39;Arrière-Plan**
     * L’exemple d’arrière-plan ne rend pas les nouveaux paramètres disponibles. Il base plutôt la couleur de la lumière sur les valeurs d’arrière-plan.
 * **Mode de position** :\
-  Modifiez la méthode utilisée pour déterminer la position des éclairages. Les paramètres de la section **Coordonnées de position** changeront en fonction de la sélection. Lorsque **Position mondiale** est sélectionnée, les poignées disparaissent de la **vue 2D**. Utilisez plutôt les paramètres de **Coordonnées de position** pour modifier la position de la lumière.
+  Modifiez la méthode utilisée pour déterminer la position des éclairages. Les paramètres de la section **Coordonnées de position** changeront en fonction de la sélection. Lorsque **Position mondiale** est sélectionnée, les poignées disparaissent de la **Vue 2D**. Utilisez plutôt les paramètres de **Coordonnées de position** pour modifier la position de la lumière.
 
 **Forme**
 
 * **Échelle de plan**; 0-1\
   Réglez l’échelle de la lumière.
 * **Taille du plan** : 0-1\
-  Ajustez les dimensions de la lumière sur les axes X et Y.
+  Ajustez les dimensions de la lumière dans les axes X et Y.
 * **Rotation du plan** : 0-1\
-  Ajustez la rotation de la lumière le long des axes X, Y et Z.
+  Réglez la rotation de la lumière le long des axes X, Y et Z.
 * **Motif** :\
   Sélectionnez la forme de la lumière.
-* **Dureté du motif** : 0-1\
+* **Dureté de motif** : 0-1\
   Adoucissez ou floutez les bords de la lumière
-* **Mode UV du motif** :\
-  Choisissez si les transformations étirent la forme entière ou seulement le milieu de la forme pour conserver les détails de contour et d’angle.
+* **Mode d&#39;UV de motif** :\
+  Choisissez si les transformes doivent étirer la forme entière ou uniquement le milieu de la forme pour conserver les détails des bords et des angles.
 
 **Coordonnées De Position**
 
-Les paramètres disponibles dépendent de la sélection effectuée pour **Paramètres de base > Mode de position**. Si **Sol/Plafond** ou **Distance avec l&#39;origine** sont sélectionnés, les paramètres suivants sont disponibles :
+Les paramètres disponibles dépendent de la sélection effectuée pour **Paramètres de base > Mode de position**. Si **Sol/plafond** ou **Distance avec l&#39;origine** sont sélectionnés, les paramètres suivants sont disponibles :
 
 * **Height absolu de ligne** : 0-1\
-  Modifiez la distance de la lumière par rapport à l’appareil photo.
-* **Position de l&#39;appareil photo** : 0-1\
-  Réglez la position relative de la caméra par rapport à la lumière sur les axes X, Y et Z.
+  Modifiez la distance de la lumière par rapport à la caméra.
+* **Position De La Caméra** : 0-1\
+  Ajustez la position relative de la caméra par rapport à la lumière dans les axes X, Y et Z.
 
 Si **Position universelle** est choisie dans **Paramètres de base > Mode de position**, les paramètres suivants sont disponibles :
 
 * **Up Vector** :\
   Modifiez la direction vers le haut.
 * **Position mondiale du point 1** : -2 à 2\
-  Ajustez la position du premier point de la ligne sur les axes X, Y et Z.
+  Ajustez la position du premier point de la ligne dans les axes X, Y et Z.
 * **Position mondiale au point 2** : -2 à 2\
-  Ajustez la position du deuxième point de la ligne sur les axes X, Y et Z.
-* **Position de l&#39;appareil photo** : 0-1\
-  Réglez la position relative de la caméra par rapport à la lumière sur les axes X, Y et Z.
+  Ajustez la position du deuxième point de la ligne dans les axes X, Y et Z.
+* **Position De La Caméra** : 0-1\
+  Ajustez la position relative de la caméra par rapport à la lumière dans les axes X, Y et Z.
 
 **Arrière-plan**
 
-* **Afficher la grille au sol** : activer/désactiver\
-  Affichez ou masquez la grille de sol.
-* **Activer l&#39;écrêtage au sol** : activer/désactiver\
+* **Afficher la Grille du Sol** : activer/désactiver\
+  Affichez ou masquez la grille du sol.
+* **Activer l&#39;écrêtage du Sol** : activer/désactiver\
   Indiquez si la lumière peut se couper à travers le sol ou non. Si cette option est activée, le contrôle suivant s’affiche :
-  * **Height au sol** : -2 à 2\
-    Réglez l’height du sol afin d’écrêter la lumière.
+  * **Height du Sol** : -2 à 2\
+    Réglez l’height du sol pour écrêter la lumière.
 * **Gamma d&#39;arrière-plan** :\
   Sélectionnez le système de couleurs utilisé pour déterminer le gamma de l’arrière-plan.

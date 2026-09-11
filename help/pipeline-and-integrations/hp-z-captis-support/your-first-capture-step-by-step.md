@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
 breadcrumb-title: ''
 description: Apprenez à effectuer votre première Capture 3D à l’aide de HP Z Captis dans Substance 3D Sampler en suivant les étapes détaillées.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Si vous ne voyez pas le HP Z Captis apparaître dans l’interface utilisateur, 
 
 Après avoir cliqué sur HP Z Captis, une fenêtre dédiée s&#39;ouvre avec 3 options :
 
-1. <b>Parcourir le contenu</b> : l’explorateur de fichiers s’ouvre pour parcourir le stockage local de votre appareil HP Z Captis.
+1. <b>Parcourir le contenu</b> : votre explorateur de fichiers s&#39;ouvrira pour parcourir le stockage local de votre appareil HP Z Captis.
 1. <b>Démarrer l&#39;analyse</b> : initialise le périphérique HP Z Captis et lance le flux de capture.
 1. <b>Arrêter</b> : cela va arrêter l&#39;appareil et fermer la fenêtre.
 
@@ -59,9 +59,9 @@ Vous avez désormais la possibilité de lancer la capture en un clic : Sampler :
 * définir un nom par défaut,
 * définir automatiquement la zone d&#39;intérêt (ROI)/zone de recadrage à l’aide du rétroéclairage,
 * se concentrer sur le retour sur investissement complet ; et
-* réglez le paramètre d’intensité sur un paramètre adapté à votre matière.
+* réglez le paramètre d’intensité sur un paramètre adapté à votre matériau.
 
-Si vous avez déjà effectué des captures, la catégorie de matière, les sorties et la résolution d’acquisition sélectionnées seront les mêmes que pour la capture précédente.
+Si vous avez déjà effectué des captures, la catégorie de matériau, les sorties et la résolution d’acquisition sélectionnées seront les mêmes que celles de la capture précédente.
 
 #### Mode manuel
 
@@ -75,7 +75,7 @@ Vous pouvez définir un nom de projet pour votre capture et définir le type de 
 
 *Sorties*
 
-* Par défaut, seules les couches PBR du matériau (Couleur de base, Normal, height et opacité) sont enregistrées.\
+* Par défaut, seuls les canaux PBR par matériau (Base color, normal, height et opacité) sont enregistrés.\
   Vous avez la possibilité de choisir le type de sortie entre LDR (plage dynamique basse) et HDR (plage dynamique élevée).
 
 
@@ -90,10 +90,10 @@ Remarque : seuls les canaux PBR seront chargés dans Sampler.\
 Les captures de dossier par défaut enregistrées dans peuvent être modifiées dans les préférences.
 
 
-<b>Catégorie de matériau</b>
+<b>Catégorie de Matériau</b>
 
-Définissez cette option sur le type de matériau que vous numérisez pour la génération de mappage, ajusté à votre matériau particulier.\
-La catégorie par défaut sélectionnée est « Fabric ». Cela vous aidera à optimiser le résultat de votre couche de rugosité.
+Définissez cette option sur le type de matériau que vous numérisez pour la génération de mappage affinée à votre matériau particulier.\
+La catégorie par défaut sélectionnée est « Fabric ». Cela vous aidera à optimiser le résultat de votre canal de rugosité.
 
 Si ce que vous numérisez contient plusieurs types de matériaux, veuillez sélectionner la catégorie du plus grand.
 
@@ -103,15 +103,15 @@ Le recadrage peut être effectué automatiquement ou manuellement.
 
 ![cultures potentielles de la région d&#39;intérêt, entre la taille de la taille physique et la taille de la pizza](../../assets/captis-51-crop.png)
 
-Le recadrage automatique utilisera le contre-jour pour définir le contour du matériau et placer la Zone d&#39;intérêt (ROI) autour de celui-ci. Elle n&#39;est pas adaptée lorsque l&#39;on numérise plusieurs échantillons de matériau à la fois, ou lorsque le matériau est très transparent.
+Le recadrage automatique utilisera le rétroéclairage pour définir le contour du matériau et placer la Zone d&#39;intérêt (ROI) autour de celui-ci. Elle n&#39;est pas adaptée lors de la numérisation de plusieurs échantillons de matériau à la fois, ou lorsque le matériau est très transparent.
 Dans ce cas, le retour sur investissement peut être défini en faisant glisser les angles du widget de recadrage dans l’aperçu, ou en définissant une résolution ou une taille physique définie.
 
-<b>Paramètres de l&#39;appareil photo </b>
+<b>Paramètres de Caméra </b>
 
 * Intensité : permet de régler l’exposition de la caméra.\
-  En cliquant sur Auto, vous utiliserez le centre du ROI pour définir la meilleure intensité pour le matériau.
+  Cliquez sur Auto pour utiliser le centre du ROI afin de définir la meilleure intensité pour le matériau.
 
-* Mise au point : ajuste la mise au point de l’appareil photo.\
+* Focus : permet d’ajuster le focus de la caméra.\
   Cliquer sur Auto définit la mise au point idéale en utilisant le retour sur investissement complet.
   Ce nouvel algorithme de mise au point, où la mise au point n&#39;est plus sur un seul point, permet une mise au point plus uniforme sur le matériau numérisé, conduisant à des numérisations de meilleure qualité qui sont plus faciles à réaliser en mosaïque.
 
@@ -125,8 +125,8 @@ Les autres types de paramètres<b> ne doivent être modifiés qu&#39;occasionnel
 
 * Étalonnage des couleurs
 
-Étalonnez la couleur de la carte colorimétrique de base grâce aux zones techniques de HP Z Captis. \
-Le matériau final aura alors exactement la même couleur que l’échantillon que vous avez ajouté dans le plateau HP Z Captis.\
+Étalonnez la couleur de la feuille de base color grâce aux zones techniques HP Z Captis. \
+Le matériau final sera alors exactement de la même couleur que l’échantillon que vous avez ajouté dans le plateau HP Z Captis.\
 Les zones techniques avec les nuanciers sont automatiquement détectées et utilisées pour l’étalonnage. Ils doivent être placés dans leur espace spécifique de chaque côté de l&#39;échantillon.
 
 Cette option est uniquement disponible en mode Studio. Veillez à effectuer la mise au point avant cet étalonnage des couleurs.
@@ -139,7 +139,7 @@ Cet alignement <b>doit être effectué</b> la <b>première fois que vous configu
 
 Veillez à effectuer la mise au point avant cet étalonnage de l’alignement.
 
-Pour effectuer l&#39;alignement, <b>placez un élément comportant des informations nettes et claires, comme un morceau de papier avec du texte imprimé, au centre de l&#39;espace de capture</b>, fermez le tiroir et cliquez sur le bouton d&#39;alignement. Une fois que cela est fait, vous pouvez vous assurer que tout est en place, avec les zones techniques à leur place de chaque côté de l&#39;espace de balayage, un matériau placé au centre et si nécessaire maintenu en place avec les aimants fournis avec l&#39;appareil HP Z Captis, et vous pouvez commencer à scanner vos matériaux.
+Pour effectuer l&#39;alignement, <b>placez un élément comportant des informations nettes et claires, comme un morceau de papier avec du texte imprimé, au centre de l&#39;espace de capture</b>, fermez le tiroir et cliquez sur le bouton d&#39;alignement. Une fois cela fait, vous pouvez vous assurer que tout est en place, avec les zones techniques à leur place de chaque côté de l&#39;espace de balayage, un matériau placé au centre et si nécessaire maintenu en place avec les aimants fournis avec l&#39;appareil HP Z Captis, et vous pouvez commencer à scanner vos matériaux.
 
 Une fois que vous êtes prêt : <b>démarrez l&#39;analyse</b>.
 
@@ -152,7 +152,7 @@ La partie traitement est divisée en trois parties :
 
 * <b>Capture</b> : prise de toutes les photos requises
 
-* <b>Traitement</b> : traitement des photos pour générer des canaux PBR (couleur de base, normale, height, opacité)
+* <b>Traitement</b> : traitement des photos pour générer des canaux PBR (Base color, normal, height, opacité)
 
 * <b>Copie</b> : copie des résultats de l&#39;appareil HP Z Captis sur votre ordinateur
 
@@ -166,24 +166,24 @@ Pendant le traitement, vous verrez que le résultat est construit carreau par ca
 
 ![Étape récapitulative du processus de numérisation avec Sampler et Captis](../../../help/assets/sampler_captis-summary.png)
 
-À cette étape, vous pouvez passer en revue les résultats de l’analyse. Toutes les couches créées sont affichées (en mode Explorateur, aucune opacité n’est créée, car l’anneau de l’explorateur n’est pas éclairé en contre-jour).
+À cette étape, vous pouvez passer en revue les résultats de l’analyse. Toutes les couches créées sont affichées (en mode Explorateur, aucune opacité n’est créée car l’anneau explorateur n’est pas rétroéclairé).
 
-Vous pouvez choisir d’envoyer votre matière à Sampler, de l’ajouter à votre projet et de commencer à la traiter.
+Vous pouvez choisir de vous envoyer du matériau dans Sampler, de l’ajouter à votre projet et de commencer à le traiter.
 Vous pouvez également lancer directement une nouvelle capture sans l’ajouter au projet.
-Dans les deux cas, vous trouverez vos cartes numérisées dans le dossier équivalent sur votre ordinateur : C:\Users\username\Documents\Adobe\Adobe Substance 3D Sampler\Captis\Material
+Dans les deux cas, vous trouverez vos mappages numérisés dans le dossier équivalent sur votre ordinateur : C:\Users\username\Documents\Adobe\Adobe Substance 3D Sampler\Captis\Matériau
 
-## Édition de matériaux
+## édition Matériau
 
-Après la sortie de la fenêtre HP Z Captis, les couches (couleur de base, normale, height, rugosité et opacité, le cas échéant) seront ajoutées en tant que calque dans le panneau Calques.
+Après la fermeture de la fenêtre HP Z Captis, les couches (base color, normale, height, rugosité et opacité, le cas échéant) seront ajoutées en tant que calque dans le panneau Calques.
 
 ![Texte optionnel](../../../help/assets/sampler_captis-imported-material.png)
 
 
-Utilisez les filtres Sampler (Égaliser, Correction de perspective par recadrage, Mosaïque, ...) pour traiter et nettoyer votre matière.
+Utilisez les filtres Sampler (Égaliser, Recadrage Perspective, Répétition, ...) pour traiter et nettoyer votre matériau.
 
 Une fois que vous avez terminé, vous pouvez :
 
 * Enregistrez votre projet Sampler : Fichier > Enregistrer sous ... (Ctrl + S)
 
-* Exportez votre matière : Fichier > Exporter ... (Ctrl + E)
+* Exportez votre matériau : Fichier > Exporter ... (Ctrl + E)
 

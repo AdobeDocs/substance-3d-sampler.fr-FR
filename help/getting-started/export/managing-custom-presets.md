@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
 breadcrumb-title: ''
 description: Découvrez comment créer et modifier des paramètres prédéfinis d’exportation personnalisés dans Substance 3D Sampler à l’aide de Substances Designer d’optimisation du workflow.
 helpx_creative_field: ""
@@ -26,11 +26,11 @@ La création de paramètres prédéfinis personnalisés respecte les mêmes règ
 
 ## Création
 
-## Création du graphique
+## Création du graphe
 
-Ouvrez Substance Designer et créez un graphique de Substance.
+Ouvrez Substance Designer et créez un graphe de Substance.
 
-Ouvrez les propriétés du graphique et renseignez les informations obligatoires suivantes :
+Ouvrez les propriétés du graphe et renseignez les informations obligatoires suivantes :
 
 * Libellé : saisissez le nom de votre paramètre prédéfini personnalisé qui sera utilisé dans l’interface de Sampler
 * Données utilisateur : <b>alchemist::type=filter</b>
@@ -41,19 +41,19 @@ Ouvrez les propriétés du graphique et renseignez les informations obligatoires
 
 Les entrées représentent les couches de matériau que vous souhaitez transformer avant l’exportation.
 
-Créez un nœud Couleur d&#39;entrée (ou niveaux de gris) par couche de matériau et ajoutez une <b>utilisation</b> dans les attributs de chaque nœud d&#39;entrée pour vous assurer que la connexion est établie entre votre matériau et votre paramètre prédéfini personnalisé.
+Créez un nœud Couleur d&#39;entrée (ou niveaux de gris) par canal de matériau et ajoutez une <b>utilisation</b> dans les attributs de chaque noeud d&#39;entrée pour vous assurer que la connexion est établie entre votre ou vos matériaux et votre paramètre prédéfini personnalisé.
 
-Exemple : définition de la couleur de base saisie
+Exemple : définition de l’entrée de Base color
 
 ![](../../assets/custom-input.png){width="600px"}
 
 ### Sorties
 
-Les sorties représentent le résultat de votre exportation de texture.
+Les sorties représentent le résultat de l’exportation de votre texture.
 
-Créez un nœud de sortie par texture et ajoutez <b>usage</b> et un <b>libellé</b> dans les attributs de chaque nœud de sortie. Le <b>libellé</b> s&#39;affichera dans la liste Couches de la fenêtre Exportateur et dans le nom de votre fichier de texture.
+Créez un nœud de sortie par texture et ajoutez <b>usage</b> et un <b>label</b> dans les attributs de chaque nœud de sortie. Le <b>libellé</b> s&#39;affichera dans la liste Canaux de la fenêtre de l&#39;Exporteur et dans le nom de votre fichier de texture.
 
-Exemple : définition de la texture personnalisée Opacité de couleur
+Exemple : définition de l’opacité de couleur de texture personnalisée
 
 ![](../../assets/custom-output.png){width="600px"}
 
@@ -63,7 +63,7 @@ Packing de 3 couches de niveaux de gris dans une texture RGB :
 
 ![](../../assets/channel-packing-example.png){width="600px"}
 
-Conversion des canaux de PBR Métallique/Rugosité en PBR Specular/Brillance :
+Conversion du canal de PBR Métallique/Rugosité en PBR Specular/Brillance :
 
 ![](../../assets/channel-conversion.png){width="600px"}
 

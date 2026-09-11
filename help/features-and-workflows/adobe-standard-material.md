@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser les matériaux standard Adobe dans Substance 3D Sampler pour créer des matériaux compatibles avec la norme de matériau d’Adobe.
+description: Apprenez à utiliser Adobe Standard Material dans Substance 3D Sampler pour créer des matériaux compatibles avec la norme matériau d’Adobe.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > Adobe Standard Material
 helpx_experience_level: ""
@@ -22,14 +22,14 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> Substance 3D Sampler utilise désormais par défaut le modèle de matériau [OpenPBR](openpbr.md) plutôt que les matériaux standard Adobe.
+> Substance 3D Sampler utilise désormais par défaut le modèle de matériau [OpenPBR](openpbr.md) plutôt que l&#39;Adobe Standard Material.
 
 
 ## Propriétés de matériau standard
 
 ## Propriétés de la surface de base
 
-**Couleur de base**
+**Base color**
 
 Couleur de la surface.
 
@@ -41,7 +41,7 @@ Lissage ou cache de la surface.
 
 **Métallique**
 
-Le degré d&#39;éclat métallique de la surface.
+Degré d&#39;éclat métallique de la surface.
 
 ![](../assets/surface-metallic.jpg)
 
@@ -51,13 +51,13 @@ La visibilité de la surface.
 
 ![](../assets/surface-opacity.jpg)
 
-**occlusion ambiante**
+**Ambient occlusion**
 
 Ombres des cavités et plis empêchant la lumière de frapper la surface.
 
 **Specular level**
 
-Intensité des reflets de lumière sur la surface.
+Force des reflets de lumière sur la surface.
 
 ![](../assets/surface-specularlevel.jpg)
 
@@ -73,11 +73,11 @@ Simule les détails d’une surface tels que les bosses et les fissures.
 
 **Échelle normale**
 
-Intensité de l&#39;effet normal.
+Force de l&#39;effet normal.
 
 **Combiner normal et height**
 
-Applique la texture normale au-dessus de la texture height.
+Applique la texture normale au-dessus de la texture d’height.
 
 **Height**
 
@@ -85,19 +85,19 @@ Crée des détails de surface à l&#39;aide d&#39;un displacement de relief ou d
 
 **Échelle d&#39;Height**
 
-Échelle de l’height en unités de scène. S’applique à la bosse et au displacement.
+Echelle d&#39;height en unités de scène. S’applique à la bosse et au displacement.
 
 **Niveau d&#39;Height**
 
-Valeur de la texture height représentant un displacement nul.
+Valeur de la texture d&#39;height représentant le displacement zéro.
 
-**Niveau d&#39;Anisotropie**
+**Anisotropy level**
 
-Quantité des reflets qui s’étirent dans une direction le long de la surface.
+Quantité que les reflets étirent dans une direction le long de la surface.
 
 ![](../assets/surface-anisotropy.jpg)
 
-**Angle d&#39;Anisotropie**
+**Anisotropy angle**
 
 Rotation antihoraire de l’effet anisotrope.
 
@@ -113,7 +113,7 @@ Couleur de la lumière émise.
 
 ![](../assets/surface-emissioncolor.jpg)
 
-**Opacité du reflet**
+**Opacité de l&#39;Éclat**
 
 Simule l&#39;effet des fibres microscopiques ou du flou sur la surface.
 
@@ -121,19 +121,19 @@ Simule l&#39;effet des fibres microscopiques ou du flou sur la surface.
 
 **Couleur de l&#39;éclat**
 
-Couleur de l’effet de reflet.
+Couleur de l’effet éclat.
 
 ![](../assets/surface-sheencolor.jpg)
 
-**Rugosité du reflet**
+**rugosité d&#39;Éclat**
 
-Lissage de l’effet d’éclat.
+Lissage de l’effet éclat.
 
 ![](../assets/surface-sheenroughness.jpg)
 
 ## Propriétés intérieures
 
-**Translucidité**
+**Translucency**
 
 Quantité de lumière pouvant passer à travers la surface.
 
@@ -159,11 +159,11 @@ La quantité de lumière qui passe à travers l’objet.
 
 Étendue du spectre de couleurs lorsque réfracté.
 
-**Diffusion sous la surface**
+**Subsurface scattering**
 
 Dispersion la lumière sous la surface, plutôt que de passer directement à travers.
 
-**Couleur diffuse**
+**Scattering**
 
 Couleur sous la surface à laquelle la lumière diffuse se transforme.
 
@@ -203,19 +203,19 @@ Multiplicateur du thickness de volume.
 
 ## Propriétés du pelage
 
-**Opacité de la couche**
+**Coat opacity**
 
-Simule un calque sur le matériau. Permet de créer des couches, des laques et des vernis clairs.
+Simule un calque au-dessus du matériau. Permet de créer des couches, des laques et des vernis clairs.
 
 ![](../assets/coat-coatopacity.jpg)
 
-**Couleur du pelage**
+**Coat color**
 
 La couleur du pelage.
 
 ![](../assets/coat-coatcolor.jpg)
 
-**Rugosité du pelage**
+**Coat roughness**
 
 Degré de lissage ou de mat de la surface du pelage.
 
@@ -227,18 +227,18 @@ La quantité de lumière se courbe lorsqu’elle passe à travers le pelage.
 
 ![](../assets/cooat-coatior.jpg)
 
-**specular level de manteau**
+**Coat specular level**
 
-Intensité des reflets lumineux sur le pelage sous des angles de regard.
+La force des reflets lumineux sur le pelage à des angles de regard.
 
 ![](../assets/coat-coatspecular.jpg)
 
-**Couche normale**
+**Coat normal**
 
 Simule les détails de la surface comme les bosses et les fissures sur la surface du pelage.
 
 ![](../assets/coat-coatnormal.jpg)
 
-**Échelle normale du pelage**
+**Échelle de Coat normal**
 
-Intensité de l’effet normal du pelage.
+Force de l’effet de coat normal.

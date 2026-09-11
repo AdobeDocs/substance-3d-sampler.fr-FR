@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
 breadcrumb-title: ''
-description: Découvrez comment utiliser le sélecteur de couleurs dans Substance 3D Sampler pour sélectionner des couleurs pour les matières, les filtres et la modification de textures.
+description: Apprenez à utiliser le sélecteur de couleurs de Substance 3D Sampler pour sélectionner des couleurs pour les matériaux, les filtres et la modification de textures.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Tools and Widgets > Color Picker
 helpx_experience_level: ""
@@ -50,11 +50,11 @@ RGB (rouge, vert, bleu) et TSL (teinte, saturation, valeur) sont les deux espace
 
 Cette option vous permet de masquer les curseurs pour économiser de l’espace. Même si les curseurs sont masqués, vous pouvez toujours modifier les entrées de valeur.
 
-**Valeurs à virgule flottante**
+**Valeurs de point flottant**
 
 ![](../../assets/float-value.jpg){width="200px"}
 
-Indiquez si les curseurs doivent utiliser des valeurs de virgule flottante ou des nombres entiers. Les valeurs de virgule flottante sont comprises entre 0 et 1, tandis que les valeurs entières sont comprises entre 0 et 255.
+Indiquez si les curseurs doivent utiliser des valeurs à virgule flottante ou des valeurs entiers. Les valeurs de point flottant sont comprises entre 0 et 1, tandis que les valeurs entiers sont comprises entre 0 et 255.
 
 **Curseurs dynamiques**
 

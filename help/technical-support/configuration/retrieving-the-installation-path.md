@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/technical-support/configuration/retrieving-the-installation-path.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/retrieving-the-installation-path.html"
 breadcrumb-title: ''
 description: Découvrez comment récupérer le chemin d’installation de Substance 3D Sampler sur différentes plateformes à des fins de script et de configuration.
 helpx_creative_field: ""
@@ -27,14 +27,14 @@ Cette page regroupe des informations sur la façon de récupérer le chemin d’
 ### Application pour poste de travail Creative Cloud
 
 1. Ouvrez l&#39;éditeur de registre Windows (**regedit**).
-1. Accédez à la clé de registre : **&#x200B; HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\**
+1. Accédez à la clé de registre : ** HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\**
 1. Ouvrez la sous-clé nommée **Adobe Substance 3D Sampler.exe**
 1. La valeur de la clé contient le chemin d’accès à l’exécutable de l’application sur lequel elle est installée
 
 >[!NOTE]
 >
 > Cette clé de registre n’est disponible qu’à partir de la version 3.\
-> Pour les anciennes versions, le chemin d&#39;installation peut être récupéré à partir des associations de fichiers dans **HKEY\_CURRENT\_USER\Software\Microsoft\Windows\CurrentVersion\ Explorer\FileExts**.
+> Pour les anciennes versions, le chemin d&#39;installation peut être récupéré à partir des associations de fichiers dans **HKEY\_CURRENT\_USER\Software\Microsoft\Windows\CurrentVersion\ Explorateur\FileExts**.
 
 ### Substance 3D Standalone
 

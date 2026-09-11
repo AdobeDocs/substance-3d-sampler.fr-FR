@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Consultez les notes de mise à jour de Substance 3D Sampler version 5.0 pour en savoir plus sur les nouveaux outils de numérisation, les fonctionnalités et les améliorations des workflows.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../assets/welcome_digitization_tool.jpg)
 
-<b>Substance 3D Sampler 5.0</b> introduit des moyens plus simples d&#39;accéder à Material Digital Twin avec des numérisations et des rendus de meilleure qualité.
+<b>Substance 3D Sampler 5.0</b> présente des moyens plus simples d&#39;entrer dans matériau Digital Twin avec des numérisations et des rendus de meilleure qualité.
 
 Les principales nouveautés sont les suivantes :
 
@@ -52,7 +52,7 @@ Plus d&#39;informations *[ici](../interface/2d-and-3d-viewport.md)*.
 
 ## Intégration de HP Z Captis
 
-Avec HP Z Captis et Substance 3D Sampler, transposez des matériaux du monde réel au format numérique en quelques minutes.
+Avec HP Z Captis et Substance 3D Sampler, transposez des matériaux du monde réel en numérique en quelques minutes.
 
 Fonctionnalité disponible pour les comptes Entreprise, Équipes et Éducation.
 
@@ -73,18 +73,18 @@ Plus d&#39;informations *[ici](../pipeline-and-integrations/hp-z-captis-support/
 * [Intégration] [Contenu] Les actions rapides sont des workflows prédéfinis qui remplissent la pile de calques avec la plupart des calques utilisés
 * [Intégration] Possibilité de créer un nouveau projet via un nouveau menu Démarrage rapide, via des actions rapides ou un projet personnalisé
 * [Intégration] Possibilité de créer un projet vide directement depuis la page d’accueil via un bouton dédié
-* [Vue 3D] Nouveau pixelliseur et traceur de tracé avancés apportant de nouvelles fonctionnalités de rendu (propriétés telles que le revêtement, la brillance, la translucidité, la diffusion sous la surface) et une cohérence visuelle dans l’écosystème de Substance
-* [Vue 3D] Les paramètres de la visionneuse sont désormais accessibles directement dans la vue 3D
-* [Vue 3D] Possibilité d’enregistrer un instantané de rendu dans le Presse-papiers ou dans des fichiers
-* [Vue 3D] Afficher une grille pour visualiser l’origine de la scène
-* [Vue 3D] Activez le plan au sol pour capturer les ombres et les reflets
-* [Vue 3D] Contrôlez le degré de réflexion et d’opacité de votre plan au sol
-* [capture 3D] Positionner le filet sur le sol
+* [vue 3D] Nouveau pixelliseur et traceur avancé offrant de nouvelles fonctionnalités de rendu (propriétés telles que le revêtement, l’éclat, le translucency, la subsurface scattering) et une cohérence visuelle dans l’écosystème de Substance
+* [vue 3D] Les paramètres de la visionneuse sont désormais accessibles directement dans la vue 3D
+* [vue 3D] Possibilité d’enregistrer un instantané de rendu dans le Presse-papiers ou dans des fichiers
+* [vue 3D] Afficher une grille pour visualiser l’origine de la scène
+* [vue 3D] Activez le plan du sol pour capturer les ombres et les reflets
+* [vue 3D] Contrôle le degré de réflexion et d’opacité de votre plan de sol
+* [capture 3D] Positionner le maillage sur le sol
 * [Application] Vérifier la compatibilité matérielle au démarrage de l’application
-* [Application] La fenêtre de rapport d’incident s’ouvre désormais juste après un blocage
+* [Application] La fenêtre de rapport de Crash s&#39;ouvre maintenant juste après un crash
 * [Contenu] Ouvrez un exemple de projet pour commencer facilement
-* [Export] Exporter le nuanceur de matériaux Adobe Standard dans des fichiers USD
-* [IA générative] Cochez la case « Ne pas déduire » lors de l’utilisation d’une image comme entrée dans les workflows Image vers Texture.
+* [Export] Exporter le shader d&#39;Adobe Standard Material dans les fichiers USD
+* [IA générative] Cochez la case « Ne pas déduire » lors de l’utilisation d’une image en tant qu’entrée dans les workflows Image vers Texture.
 * [Projet] Les vignettes sont stockées dans le fichier de projet pour une ouverture plus rapide des projets
 * [Projet] Définition dans les préférences pour stocker les données de cache dans le fichier de projet, avec différents modes (pas de cache, cache léger, cache complet)
 * [Scripts] [Rupture de changement] Migration de Qt vers Qt6.15 - Impact de la compatibilité des plug-ins existants
@@ -96,14 +96,14 @@ Plus d&#39;informations *[ici](../pipeline-and-integrations/hp-z-captis-support/
 
 <b>Fixe :</b>
 
-* [capture 3D] Blocage si la capture d’objet ne peut pas être démarrée sur macOS
-* [Application] Blocage à la sortie
+* [capture 3D] Crash si la capture d’objet ne peut pas être démarrée sur macOS
+* crash [Application] à la sortie
 * [Application] Blocage à la fermeture lors de l’ajout d’actifs au panneau Projet
 * [Application] Renommer un actif de projet ne fonctionne pas, sauf si vous appuyez sur Entrée
 * [Application] Les entrées de menu Annuler et Rétablir ne sont pas désactivées alors qu’elles devraient l’être
 * [Actifs] Impossible de supprimer les actifs de la section Toutes les bibliothèques du panneau Actifs
-* [Contenu] Créateur d’atlas : utilisez la carte d’opacité existante, le cas échéant.
-* [Contenu] Mélange d’ID de couleur : corrigez le choix des couleurs dans la couleur de base
+* [Contenu] Créateur d’atlas : utilisez les maps opacity existantes, le cas échéant.
+* [Contenu] Fusion d’ID de couleur : correction du choix de couleurs dans la couleur de base
 * [Calques] Éviter les calculs inutiles lors de l’utilisation de générateurs
 * [Calques] Le réglage d’un générateur peut entraîner le déclenchement d’un trop grand nombre d’ordinateurs
 * [Performances] Améliorer la gestion de la mémoire GPU

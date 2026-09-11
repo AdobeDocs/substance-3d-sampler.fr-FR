@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/scripting-and-development.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development.html"
 breadcrumb-title: ''
 description: Découvrez comment créer des plug-ins et des scripts personnalisés pour Substance 3D Sampler à l’aide de l’API Python pour automatiser les workflows et étendre les fonctionnalités.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Scripts et développement
 
-Adobe Substance 3D Sampler prend en charge les plug-ins personnalisés via l’API Sampler Python. Les plug-ins peuvent être utiles pour chaque utilisateur de Sampler, qu’il s’agisse d’automatiser la création de matériaux pour de grandes bibliothèques de matériaux, d’effectuer automatiquement la configuration pour de nouvelles installations ou d’ajouter de nouvelles fonctionnalités.
+Adobe Substance 3D Sampler prend en charge les plug-ins personnalisés via l’API Sampler Python. Les plug-ins peuvent être utiles pour chaque utilisateur de Sampler, qu’il s’agisse d’automatiser la création de matériaux pour les bibliothèques de matériaux volumineuses, d’effectuer automatiquement la configuration pour les nouvelles installations ou d’ajouter de nouvelles fonctionnalités.
 
 La documentation complète de l’API est incluse lorsque vous installez Sampler. Vous pouvez ouvrir la documentation de l’API à partir de Sampler :
 

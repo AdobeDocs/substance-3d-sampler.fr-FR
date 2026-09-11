@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/gravel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
 breadcrumb-title: ''
-description: Utilisez le générateur de gravier de Substance 3D Sampler pour créer des textures d’agrégat de gravier et de pierre réalistes pour les matériaux.
+description: Utilisez le générateur de gravier de Substance 3D Sampler pour créer des textures réalistes d’agrégats de gravier et de pierre pour les matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Gravel
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ Générateurs De **Entrée :**
 
 ## Description
 
-Le filtre de gravier recouvre de gravier votre matériau de manière naturelle, en remplissant les crevasses.
+Le filtre de gravier permet de graver naturellement sur le dessus de votre matériau, en remplissant les crevasses.
 
 Ces images montrent le **filtre de gravier** utilisé pour remplir les crevasses d&#39;un matériau de boue avec du gravier.
 
@@ -65,11 +65,11 @@ Ces images montrent le **filtre de gravier** utilisé pour remplir les crevasses
 * **Quantité** : 0-1\
   Modifiez la quantité de gravier répartie sur le matériau.
 * **Couleur primaire** : sélection de la couleur\
-  Sélectionner la couleur de base des pierres de gravier
+  Sélectionner la base color des pierres de gravier
 * **Couleur secondaire** : sélection de couleur\
   Sélectionner la couleur secondaire des pierres de gravier
-* **Correspondance des couleurs du matériau inférieur** : 0-1\
-  Ajustez l’impact de la couleur du gravier sur la couleur du matériau sous-jacent
+* **Correspondance des couleurs du Matériau inférieur** : 0-1\
+  Ajustez l&#39;impact de la couleur du gravier sur la couleur du matériau sous-jacent
 * **Activer le masque de cavité** : activer/désactiver\
   Lorsque cette option est activée, le gravier remplit les cavités et n&#39;est pas étalé sur les parties supérieures du matériau. Cela peut entraîner une dispersion plus réaliste du gravier.
 * **Seuil de volume de diffusion** : 0-50\
@@ -82,7 +82,7 @@ Ces images montrent le **filtre de gravier** utilisé pour remplir les crevasses
   Contrôle du caractère aléatoire de la taille de la pierre
 * **Arrondi De La Pierre** : 0-1\
   Rendez les pierres plus arrondies ou plus angulars
-* **Rugosité de la pierre** : 0-1\
+* **Rugosité de pierre** : 0-1\
   Modifier la valeur de rugosité des pierres
 * **Height de pierre** : 0-1\
   Modifiez l’height des pierres. Cela a un impact sur la façon dont les pierres se fondent dans le matériau sous-jacent.
@@ -92,15 +92,15 @@ Ces images montrent le **filtre de gravier** utilisé pour remplir les crevasses
 * **Smoothness de surface** : 0-1\
   Lisser le sommet des pierres
 * **Utiliser un masque personnalisé** : activer/désactiver\
-  Activez ou désactivez l’utilisation d’un masque personnalisé pour peindre des emplacements de pierre. Les paramètres suivants ne seront visibles que si l&#39;option **Utiliser un masque personnalisé** est activée.
+  Activer ou désactiver l’utilisation d’un masque personnalisé pour la peinture des emplacements des pierres. Les paramètres suivants ne seront visibles que si l&#39;option **Utiliser un masque personnalisé** est activée.
   * **Flou de masque** : 0-1\
     Atténuation des contours du masque peint
   * **Masque personnalisé** : image/pinceau\
-    Cliquez sur le pinceau pour peindre un masque personnalisé dans lequel des pierres apparaîtront. Cliquez sur le carré pour importer une image à utiliser comme masque.
+    Cliquez sur le pinceau pour appliquer une peinture personnalisée à l’endroit où les pierres apparaîtront. Cliquez sur le carré pour importer une image à utiliser comme masque.
 
 **Paramètres avancés**
 
 * **Taille de la surface (cm)** : 0-1 000\
   Modifiez la taille de la surface représentée par votre matériau. L&#39;augmentation de la taille de la surface signifie que la taille physique des pierres de gravier est plus grande, et elles seront modifiées en conséquence.
 * **Profondeur Height** **(cm)** : 0-100\
-  Modifiez la profondeur physique représentée par la carte d&#39;height de votre matériau. Une augmentation de la profondeur des heights signifie que la taille physique des calculs est plus haute qu’elle ne le serait autrement, l’intensité normale des calculs est donc augmentée.
+  Modifiez la profondeur physique représentée par la map height de votre matériau. Une augmentation de la profondeur des heights signifie que la taille physique des calculs est plus haute qu’elle ne le serait autrement, l’intensité normale des calculs est donc augmentée.

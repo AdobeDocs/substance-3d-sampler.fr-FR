@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-standard.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-standard.html"
 breadcrumb-title: ''
-description: Découvrez comment exporter des matériaux à partir de Substance 3D Sampler à l’aide du préréglage Unity HDRP Standard pour le pipeline de rendu haute définition.
+description: Découvrez comment exporter des matériaux depuis Substance 3D Sampler à l’aide du préréglage Unity HDRP Standard pour le pipeline de rendu haute définition.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Unity HDRP Standard
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 3%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Unity HDRP Standard | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Couleur de base :**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong> : couleur de base</li><li data-preserve-html="true"><strong>A</strong> : Opacité</li></ul>**MaskMap:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : métallique</li><li data-preserve-html="true"><strong>G</strong> : Occlusion ambiante</li><li data-preserve-html="true"><strong>A</strong> : Smoothness</li></ul>**Normal** (OpenGL)**Émissif** |
+| Unity HDRP Standard | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Couleur de base :**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong> : Base color</li><li data-preserve-html="true"><strong>A</strong> : Opacité</li></ul>**MaskMap:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Métallique</li><li data-preserve-html="true"><strong>G</strong> : Ambient occlusion</li><li data-preserve-html="true"><strong>A</strong> : Smoothness</li></ul>**Normal** (OpenGL)**Emissive** |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/warp.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Déformation de Substance 3D Sampler pour appliquer des effets de déformation directionnelle et de distorsion aux textures et aux calques de matériau.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ Outils **In:**
 
 ## Description
 
-Le **filtre Déformation** vous permet de déformer votre matière en fonction d&#39;un certain nombre de bruits générés.
+Le **filtre Déformation** vous permet de déformer votre matériau en fonction d&#39;un certain nombre de bruits générés.
 
 </td>
 </tr>
@@ -45,22 +45,22 @@ Le **filtre Déformation** vous permet de déformer votre matière en fonction d
 
 * **Générateur aléatoire** :\
   La valeur de départ aléatoire détermine les valeurs aléatoires des autres paramètres qui utilisent le caractère aléatoire dans ce filtre.
-* **Sélection du bruit** :\
-  Sélectionnez le bruit sur lequel baser la déformation. Différents bruits peuvent créer différents effets.
-* **Échelle de bruit** : 0-10\
+* **Sélection de Bruit** :\
+  Sélectionnez le bruit sur lequel baser la déformation. Différents bruits peuvent produire différents effets.
+* **Échelle de Bruit** : 0-10\
   Réglez l’échelle du bruit source. Le bruit sera toujours en mosaïque.
 * **Type** :\
-  Sélectionnez la méthode à utiliser pour déformer la matière. Si **Déformation directionnelle** ou **Déformation multidirectionnelle** sont sélectionnés, un paramètre supplémentaire apparaît :
+  Sélectionnez la méthode à utiliser pour déformer le matériau. Si **Déformation directionnelle** ou **Déformation directionnelle multiple** sont sélectionnées, un paramètre supplémentaire s&#39;affiche :
   * **Angle de déformation** : 0-1\
     Réglage de la direction de la déformation
 * **Intensité** : 0-1\
-  Réglez l’intensité de la déformation.
+  Réglez la force de la déformation.
 * **Bruit personnalisé** : activer/désactiver\
-  Activez cette option pour utiliser un bruit personnalisé au lieu de la sélection sous **Sélection du bruit**. Les paramètres disponibles changeront selon que le **bruit personnalisé** est activé ou désactivé. Si cette option est activée, les paramètres suivants apparaissent :
-  * **Flou de bruit personnalisé** : 0-1\
-    Atténuation du bruit personnalisé
+  Activez cette option pour utiliser un bruit personnalisé au lieu de la sélection sous **Sélection de Bruit**. Les paramètres disponibles changeront selon que le **Bruit personnalisé** est activé ou désactivé. Si cette option est activée, les paramètres suivants apparaissent :
+  * **Flou de Bruit personnalisé** : 0-1\
+    Application d’un flou au bruit personnalisé
   * **Bruit personnalisé** : image/pinceau\
-    Importez une carte de bruit personnalisée à utiliser comme source de déformation.
+    Importez un placage de bruit personnalisé à utiliser comme source de déformation.
 * **Déformation par canal** : basculement\
   Lorsque cette option est activée, des sections supplémentaires apparaissent pour contrôler la déformation de chaque couche indépendamment. Pour chaque canal, les paramètres suivants sont disponibles :
   * ***Nom du canal*** : activer/désactiver\

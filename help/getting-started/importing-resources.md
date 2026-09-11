@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/importing-resources.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/importing-resources.html"
 breadcrumb-title: ''
-description: Apprenez à importer des ressources telles que des images et des fichiers de Substance dans Substance 3D Sampler pour améliorer vos workflows de création de matériaux.
+description: Apprenez à importer des ressources telles que des images et des fichiers de Substances dans Substance 3D Sampler pour améliorer vos workflows de création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Importing Resources
 helpx_experience_level: ""
@@ -22,17 +22,17 @@ ht-degree: 1%
 
 Sampler peut utiliser des ressources externes telles que des images et des fichiers de Substance pour modifier votre projet. Utilisez l’une des options suivantes pour importer un fichier dans votre projet :
 
-* Glissez-déposez un fichier depuis l’explorateur de fichiers dans la fenêtre Sampler. Une fenêtre d’importation s’affiche avec des options permettant de modifier le traitement de l’importation.
+* Glissez-déposez un fichier de votre explorateur de fichiers dans la fenêtre Sampler. Une fenêtre d’importation s’affiche avec des options permettant de modifier le traitement de l’importation.
 
 ![](../assets/importing-resources-Importwindow.png)
 
-* Dans la <b>barre de gauche</b>, utilisez le bouton <b>Obtenir le contenu</b>, puis sélectionnez <b>Importer dans la pile de calques</b> ou <b>Importer dans vos ressources</b>. Les deux options ouvrent un explorateur de fichiers dans lequel vous pouvez naviguer et sélectionner le ou les fichiers à importer.
-  * <b>Importer dans une pile de calques</b> importe le fichier pour votre projet actuel.
+* Dans la <b>barre de gauche</b>, utilisez le bouton <b>Obtenir le contenu </b>, puis sélectionnez <b>Importer dans Pile de calques</b> ou <b>Importer dans Vos ressources</b>. Les deux options ouvrent un explorateur de fichiers dans lequel vous pouvez naviguer et sélectionner le ou les fichiers à importer.
+  * <b>Importer dans Pile de calques</b> importe le fichier pour votre projet actif.
   * <b>Importer dans vos ressources</b> importe le fichier afin qu’il soit accessible à partir de n’importe quel projet.
 
 ![](../assets/Project_CreateNew.png)
 
-* Dans le panneau <b>Calques</b>, si aucun calque n’a été créé, vous pouvez utiliser les liens disponibles pour importer un fichier afin de former la base de votre matière.
+* Dans le panneau <b>Calques</b>, si aucun calque n’a été créé, vous pouvez utiliser les liens disponibles pour importer un fichier afin de constituer la base de votre matériau.
 
 >[!NOTE]
 >

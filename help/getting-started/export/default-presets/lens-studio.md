@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
 breadcrumb-title: ''
-description: Découvrez comment exporter des matériaux à partir de Substance 3D Sampler à l’aide du paramètre prédéfini Lens Studio pour les workflows de développement d’objectifs AR de Snapchat.
+description: Découvrez comment exporter des matériaux depuis Substance 3D Sampler à l’aide du paramètre prédéfini Lens Studio pour les workflows de développement d’objectifs AR de Snapchat.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Lens Studio
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Lens Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **base** :<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong> : couleur de base</li><li data-preserve-html="true"><strong>A</strong> : Opacité</li></ul>**materialParams** :<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : métallique</li><li data-preserve-html="true"><strong>G</strong> : Rugosité</li><li data-preserve-html="true"><strong>B</strong> : Occlusion ambiante</li></ul>**normal** (OpenGL) |
+| Lens Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **base** :<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong> : Base color</li><li data-preserve-html="true"><strong>A</strong> : Opacité</li></ul>**materialParams** :<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Métallique</li><li data-preserve-html="true"><strong>G</strong> : Rugosité</li><li data-preserve-html="true"><strong>B</strong> : Ambient occlusion</li></ul>**normal** (OpenGL) |

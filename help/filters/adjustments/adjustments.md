@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser les filtres de réglage dans Substance 3D Sampler pour modifier la couleur, la luminosité, le contraste et d’autres propriétés de matière.
+description: Apprenez à utiliser les filtres de réglage dans Substance 3D Sampler pour modifier la couleur, la luminosité, le contraste et d’autres propriétés de matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Réglages
 
-Les filtres de réglage vous permettent d’ajuster les valeurs de votre matière. La plupart des filtres de réglage vous permettent de cibler des couches spécifiques pour vous donner un contrôle total sur l’apparence de votre matière. Lors du réglage d&#39;un canal spécifique, il est conseillé d&#39;utiliser la **vue 2D** pour afficher les canaux que vous modifiez, au lieu de compter uniquement sur la **vue 3D**. La **vue 2D** peut faciliter la détection des erreurs ou des problèmes dans un canal.
+Les filtres de réglage vous permettent d’ajuster les valeurs de votre matériau. La plupart des filtres de réglage vous permettent de cibler des couches spécifiques pour vous donner un contrôle total sur l’apparence de votre matériau. Lors du réglage d&#39;un canal spécifique, il est conseillé d&#39;utiliser la **Vue 2D** pour afficher les canaux que vous modifiez, au lieu de compter uniquement sur la **vue 3D**. La **Vue 2D** peut faciliter la détection des erreurs ou des problèmes dans un canal.
 
 Vous trouverez ci-dessous une liste de filtres de réglage :
 

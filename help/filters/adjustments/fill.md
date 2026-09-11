@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Remplissage de Substance 3D Sampler pour remplir des zones de texture avec des couleurs unies ou des motifs pour les workflows de création de matériaux.
+description: Utilisez le filtre Remplissage de Substance 3D Sampler pour remplir les zones de texture avec des couleurs unies ou des motifs pour les workflows de création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Fill
 helpx_experience_level: ""
@@ -36,7 +36,7 @@ ht-degree: 4%
 Le **filtre Fond** vous permet de remplacer ou d’ajuster les valeurs de couches spécifiques en fonction d’une valeur sélectionnée.
 Dans Sampler 6.0, le filtre Fond adapte ses paramètres en fonction du type de canal auquel il est appliqué. Cela garantit que les commandes disponibles correspondent toujours à la signification physique et au type de données du canal sélectionné, et que le filtre peut être appliqué à n’importe quel mappage, même à partir de workflows personnalisés.
 
-Dans les images ci-dessous, la couche de couleur de base a été remplacée.
+Dans les images ci-dessous, la couche de base color a été remplacée.
 
 <table>
 <tr style="border: 0;">
@@ -90,9 +90,9 @@ Ce paramètre est utilisé lorsque le filtre Fond est appliqué aux couches de c
 * Couleur
 Sélectionne la couleur de RGB utilisée pour remplir la couche.
 * Valeur personnalisée
-Basculez pour ouvrir le mappage personnalisé. Sélectionnez une image pour remplacer la couche sélectionnée ou peignez directement dans la **vue 2D**.
+Basculez pour ouvrir le mappage personnalisé. Sélectionnez une image pour remplacer la couche sélectionnée par, ou effectuez une peinture directement dans la **Vue 2D**.
 * Graine aléatoire
-Modifie la randomisation utilisée lorsque les variations de procédure sont activées.
+Modifie la randomisation utilisée lorsque des variations procédurales sont activées.
 * Mode de fusion
 Détermine la manière dont le remplissage se fond dans les calques inférieurs (par exemple : Copier, Ajouter, Multiplier).
 * Opacité
@@ -116,18 +116,18 @@ Ce paramètre est utilisé lorsque le filtre Fond est appliqué à des couches d
 * Value
 Définit une seule valeur de niveaux de gris pour la couche.
 * Graine aléatoire
-Modifie la randomisation utilisée lorsque les variations de procédure sont activées.
+Modifie la randomisation utilisée lorsque des variations procédurales sont activées.
 * Valeur personnalisée
-Basculez pour ouvrir le mappage personnalisé. Sélectionnez une image pour remplacer la couche sélectionnée ou peignez directement dans la **vue 2D**.
+Basculez pour ouvrir le mappage personnalisé. Sélectionnez une image pour remplacer la couche sélectionnée par, ou effectuez une peinture directement dans la **Vue 2D**.
 * Mode de fusion
-Copier, Ajouter (Densité linéaire - Éclaircir), Soustraire, Multiplier, Ajouter sub, Max (Éclaircir), Min (Obscurcir), Basculer, Diviser, Incruster, Superposition, Superposition, Superposition, Lumière tamisée.
+Copier, Ajouter (Densité linéaire - Éclaircir), Soustraire, Multiplier, Ajouter sub, Max (Éclaircir), Min (Obscurcir), Basculer, Divide, Incrustation, Écran, Soft light.
 Sélectionnez le mode de fusion pour fusionner l’entrée personnalisée avec les calques sous-jacents.
 * Opacité
 Réglez l’opacité des informations de la nouvelle couche par rapport aux informations de la couche existante. En d’autres termes, cette option contrôle l’opacité du masque utilisé pour appliquer le nouveau fond de couche.
 
-Ce mode est utile pour définir des propriétés physiques uniformes, comme une valeur de rugosité ou d’opacité constante.
+Ce mode est utile pour définir des propriétés physiques uniformes, telles qu’une valeur de rugosité ou d’opacité constante.
 
-#### Paramètres de mappage normaux
+#### paramètres de map normal
 
 Utilisé lorsque le filtre Fond est appliqué aux canaux **normaux**.
 
@@ -139,9 +139,9 @@ Utilisé lorsque le filtre Fond est appliqué aux canaux **normaux**.
 ##### Paramètres disponibles
 
 * Graine aléatoire
-Modifie la randomisation utilisée lorsque les variations de procédure sont activées.
+Modifie la randomisation utilisée lorsque des variations procédurales sont activées.
 * Valeur personnalisée
-Basculez pour ouvrir le mappage personnalisé. Sélectionnez une image pour remplacer la couche sélectionnée ou peignez directement dans la **vue 2D**.
+Basculez pour ouvrir le mappage personnalisé. Sélectionnez une image pour remplacer la couche sélectionnée par, ou effectuez une peinture directement dans la **Vue 2D**.
 * Opacité
 Réglez l’opacité des informations de la nouvelle couche par rapport aux informations de la couche existante. En d’autres termes, cette option contrôle l’opacité du masque utilisé pour appliquer le nouveau fond de couche.
 
@@ -149,7 +149,7 @@ Ce mode est principalement utilisé pour réinitialiser ou neutraliser les infor
 
 ### Paramètres de valeur uniforme
 
-Ce paramètre est utilisé pour les couches reposant sur une seule valeur physique uniforme et non sur une texture plaquée.
+Ce paramètre est utilisé pour les canaux qui reposent sur une valeur physique uniforme unique plutôt que sur une carte de texture.
 
 #### Exemples de canaux
 
@@ -158,22 +158,22 @@ Ce paramètre est utilisé pour les couches reposant sur une seule valeur physiq
 #### Paramètres disponibles
 
 * Graine aléatoire
-Modifie la randomisation utilisée lorsque les variations de procédure sont activées.
+Modifie la randomisation utilisée lorsque des variations procédurales sont activées.
 * Value
 Définit la valeur constante appliquée à la couche.
-* Mode de fusion
+* mode fusion
 Entre Normal et Produit
 
-Ce mode est particulièrement utile lorsque vous travaillez avec des comportements de matériau avancés introduits par le biais de modèles, où certaines propriétés sont contrôlées par des valeurs scalaires plutôt que par des cartes.
+Ce mode est particulièrement utile lorsque vous travaillez avec des comportements de matériau avancés introduits par le biais de modèles, où certaines propriétés sont contrôlées par des valeurs scalaires plutôt que par des mappages.
 
 ## Cas d’utilisation typiques
 
 Le filtre Fond est couramment utilisé pour :
 
-* Initialisation des couches lors de la création d’un matériau à partir de zéro
+* Initialisation des canaux lors de la création d’un matériau à partir de zéro
 * Remplacer les valeurs de couche existantes
-* Définir des propriétés physiques uniformes (par exemple, rugosité ou métallisation fixe)
+* Définir des propriétés physiques uniformes (par exemple, rugosité fixe ou aspect métallique)
 * Neutraliser les couches comme Normal avant de reconstruire les détails
-* Ajustez rapidement les propriétés avancées telles que la fluidité, la translucidité ou les valeurs de revêtement
+* Ajustez rapidement les propriétés avancées telles que les valeurs de fuzz, de translucency ou de revêtement
 
-Le filtre Remplissage s’adaptant automatiquement au canal sélectionné, il fournit un flux de production cohérent et prévisible pour tous les types de matériau.
+Le filtre Fond s’adaptant automatiquement au canal sélectionné, il fournit un flux de production cohérent et prévisible pour tous les types de matériau.

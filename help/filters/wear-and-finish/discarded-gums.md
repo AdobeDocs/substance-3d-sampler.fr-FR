@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Gommes éliminées de Substance 3D Sampler pour ajouter des résidus de gomme et des effets de surface collants à vos matériaux.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Ajouter la gomme à mâcher jetée à votre matériau. Ce filtre est idéal pour créer des trottoirs ou d’autres matériaux pour les aires de marche publiques.Avant et après utilisation du filtre **Gommes jetées** sur un matériau asphalté.
+Ajouter la gomme à mâcher jetée au matériau. Ce filtre est idéal pour créer des trottoirs ou d’autres matériaux pour les aires de marche publiques.Avant et après utilisation du filtre **Gommes jetées** sur un matériau asphalté.
 
 <table>
 <tr style="border: 0;">
@@ -85,11 +85,11 @@ Ajouter la gomme à mâcher jetée à votre matériau. Ce filtre est idéal pour
 * **Masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Le contrôle suivant apparaîtra si le **masque personnalisé** est activé :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
 
 **Paramètres avancés**
 
 * **Plage D&#39;Heights Gomme** : 0-1\
   Contrôlez la distance sur laquelle les taches s&#39;étendent au-dessus de la surface sous-jacente.
 * **Intensité normale de la gencive** : 0-1\
-  Ajustez l&#39;intensité de l&#39;impact normal dû aux taches.
+  Ajustez la force de l&#39;impact normal dû aux taches.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: Utilisez le filtre de rayure de Substance 3D Sampler pour ajouter des rayures réalistes et des effets d’endommagement de la surface à vos matériaux.
 helpx_creative_field: ""
@@ -76,7 +76,7 @@ Ajoutez des rayures et de l&#39;usure à votre matériau.
 * **Quantité** : 0-1\
   Contrôlez le nombre de rayures qui apparaissent.
 * **Intensité** : 0-1\
-  Réglez la profondeur et l’intensité des rayures.
+  Réglez la profondeur et la force des rayures.
 * **Échelle** : 1-4\
   Modifiez la taille des rayures. Augmentez cette valeur pour réduire la taille de la zone de travail.
 
@@ -96,7 +96,7 @@ Ajoutez des rayures et de l&#39;usure à votre matériau.
 * **Quantité** : 0-1\
   Contrôlez le nombre de micro-rayures qui apparaissent.
 * **Intensité** : 0-1\
-  Réglez la profondeur et l’intensité des micro-rayures.
+  Réglez la profondeur et la force des micro-rayures.
 * **Rotation** : 0-1\
   Faites pivoter les micro-rayures.
 * **Rotation Aléatoire** : 0-1\
@@ -121,7 +121,7 @@ Ajoutez des rayures et de l&#39;usure à votre matériau.
 * **Masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
   * **Masque personnalisé - Flou** : 0-1\
     Floutez le masque.
   * **Masque personnalisé - Inverser** : activer/désactiver\
@@ -131,16 +131,16 @@ Ajoutez des rayures et de l&#39;usure à votre matériau.
 
 * **Opacité Globale** : 0-1\
   Réglez l&#39;opacité de l&#39;effet **Filtre de travail**.
-* **Couleur de base** : activer/désactiver\
-  Indique si la couche de couleur de base est affectée par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
-  * **Couleur de base - Couleur** : sélection de la couleur\
-    Sélectionnez la couleur de base des rayures et des copeaux.
+* **Base color** : activer/désactiver\
+  Définissez si le canal de base color est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
+  * **Base color - Couleur** : sélection de la couleur\
+    Sélectionnez la base color des rayures et des copeaux.
 * **Métallique** : activer/désactiver\
-  Indiquez si le canal métallique est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
+  Définissez si la couche métallique est affectée par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
   * **Valeur Métallique** : 0-1\
-    Réglez la valeur métallique des zones rayées.
+    Ajustez la valeur métallique des zones rayées.
 * **Rugosité** : activer/désactiver\
-  Définissez si la couche de rugosité est affectée par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
+  Définissez si le canal de rugosité est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
   * **Rugosité - Valeur** : 0-1\
     Réglez la valeur de rugosité des zones rayées.
 * **Normal** : activer/désactiver\
@@ -152,20 +152,20 @@ Ajoutez des rayures et de l&#39;usure à votre matériau.
 * **Height** : activer/désactiver\
   Définissez si le canal d’height est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
   * **Height - Intensité** : 0-1\
-    Réglez le contraste de la courbe d’height.
-* **Émissif** : activer/désactiver\
-  Définissez si le canal émissif est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
-  * **Émissif - Couleur** : sélection de couleur\
-    Définissez la couleur du canal émissif.
+    Réglez le contraste de la map height.
+* **Emissive** : activer/désactiver\
+  Définissez si le canal d’emissive est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
+  * **Emissive - Couleur** : sélection de la couleur\
+    Définissez la couleur de la couche emissive.
 * **Specular level** : activer/désactiver\
   Détermine si la couche de specular level est affectée par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
   * **Specular level** **- Valeur** : 0-1\
     Réglez la valeur de la couche de specular.
-* **Occlusion ambiante** : activer/désactiver\
-  Définissez si le canal d’occlusion ambiante est affecté par le filtre. Si cette option est activée, les commandes supplémentaires suivantes apparaissent :
-  * **Occlusion ambiante - Intensité** : 0-1\
-    Réglez l’intensité de l’AO généré.
-  * **Occlusion ambiante** **- Rayon** : 0-1\
+* **Ambient occlusion** : activer/désactiver\
+  Définissez si le canal d’ambient occlusion est affecté par le filtre. Si cette option est activée, les commandes supplémentaires suivantes apparaissent :
+  * **Ambient occlusion - Intensité** : 0-1\
+    Réglez la force de l’AO généré.
+  * **Ambient occlusion** **- Rayon** : 0-1\
     Réglez le rayon de l’effet AOP.
 * **Opacité** : activer/désactiver\
   Définissez si la couche d’opacité est affectée par le filtre. Si cette option est activée, une commande supplémentaire apparaît :

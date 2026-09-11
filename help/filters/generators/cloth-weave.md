@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
 description: Utilisez le générateur Tissu tissé de Substance 3D Sampler pour créer des motifs et des textures de tissu pour la création de matériaux.
 helpx_creative_field: ""
@@ -41,8 +41,8 @@ Paramètres
 
 **Paramètres de base**
 
-* **Dessiner un tissage personnalisé :** dessinez les tissages sur votre clôture 2D.
-* **Toile personnalisée en couleur :** dessinez des couleurs dans la clôture 2D pour teinter les toiles.
+* **Dessiner un tissage personnalisé :** dessinez les tissages sur votre viewport 2D.
+* **Toile personnalisée en couleur :** dessinez des couleurs sur le viewport 2D pour teinter les toiles.
 * **Motif d&#39;armure :** définissez le motif d&#39;armure.
 * **Taille du motif :** définissez la taille du motif manipulant la déformation (fibres verticales) et la trame (fibres horizontales).
 * **Multiplicateur de taille :** multipliez les fibres uniquement (les masques ne seront pas multipliés).
@@ -64,7 +64,7 @@ Paramètres
 * **Largeur :** 0-1\
   Définissez la largeur des fils de renvoi à la ligne.
 * **Décalage :** 0-1\
-  Décalage de la texture usure/salissures sur les axes X et Y.
+  Décalage de la courbe d&#39;usure/salissures par rapport aux axes X et Y.
 * **Thread :** définissez le type de thread.
 * **Quantité de fibres :** 0-8\
   Définissez le nombre de fibres contenues dans le fil.
@@ -77,7 +77,7 @@ Paramètres
 * **Largeur :** 0-1\
   Définissez la largeur des fils de renvoi à la ligne.
 * **Décalage :** 0-1\
-  Décalage de la texture usure/salissures sur les axes X et Y.
+  Décalage de la courbe d&#39;usure/salissures par rapport aux axes X et Y.
 * **Thread :** définissez le type de thread.
 * **Quantité de fibres :** 0-8\
   Définissez le nombre de fibres contenues dans le fil.
@@ -85,13 +85,13 @@ Paramètres
 
 **Avancé**
 
-* **Mode de fusion**&#x200B;**&#x200B; :** sélectionnez le mode de fusion pour la couche de couleur de base. La modification du mode de fusion peut modifier considérablement l’aspect de l’armure de tissu.
+* **Mode de fusion**** :** sélectionnez le mode de fusion pour la couche de couleur de base. La modification du mode de fusion peut modifier considérablement l’aspect de l’armure de tissu.
 * **Intensité de l&#39;imperfection :** 0-1\
   Définissez l&#39;intensité des imperfections du filetage.
 * **Intensité normale :** 0-2\
-  Réglez l&#39;intensité de la texture normale.
+  Ajustez la force de la map normal.
 * **Position Height :** 0-1\
-  Décalage de l’height de la matière complète.
+  Décalage de l’height du matériau complet.
 
 **Masquer**
 

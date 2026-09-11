@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/snow.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/snow.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Snow de Substance 3D Sampler pour ajouter des effets réalistes d’accumulation de neige et de météo hivernale à vos matériaux.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Description
 
-Utilisez le **filtre Snow** pour ajouter à votre matériau un peu de poussière ou quelques mètres de neige.
+Utilisez le **filtre Snow** pour ajouter à votre matériau n&#39;importe quoi, de la poussière à quelques mètres de neige.
 
 ![](../../assets/snow-compare.png)
 
@@ -60,7 +60,7 @@ Utilisez le **filtre Snow** pour ajouter à votre matériau un peu de poussière
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque personnalisé** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
   * **Flou de masque** : 0-1\
     Floutez le masque.
   * **Intensité du masque** : 0-1\

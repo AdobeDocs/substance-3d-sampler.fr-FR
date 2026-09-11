@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
 breadcrumb-title: ''
 description: Découvrez comment configurer les préférences dans Substance 3D Sampler pour personnaliser les paramètres de l’application et optimiser votre workflow.
 helpx_creative_field: ""
@@ -58,18 +58,18 @@ Les options suivantes sont disponibles :
   * **Résolution de calque par défaut**\
     Définissez la stratégie de résolution par défaut utilisée dans l’application.
   * **modèle de matériau par défaut**
-    Définissez le modèle par défaut à utiliser lors de la création d&#39;un matériau ou lorsque des actions rapides doivent sélectionner un modèle de matériau.
-  * **Carrelage de texture Matériau par défaut - U**\
-    Définissez le carrelage de texture U par défaut.
-  * **Carrelage de texture Matériau par défaut - V**\
-    Définissez le carrelage de texture en V par défaut.
+    Définissez le modèle par défaut à utiliser lors de la création d&#39;un matériau ou lorsque des actions rapides doivent autrement choisir un modèle de matériau.
+  * **répétition de texture de Matériau par défaut - U**\
+    Définissez la répétition de texture U par défaut.
+  * **répétition de texture de Matériau par défaut - V**\
+    Définissez la répétition de texture en V par défaut.
   * **Échelle d&#39;Height par défaut**\
     Définissez l’échelle d’height par défaut pour les matériaux.
 * **Confidentialité**
   * **Envoyer automatiquement les statistiques d&#39;utilisation**
     Indiquez si vous souhaitez envoyer des statistiques d’utilisation anonymisées pour améliorer Sampler.
 * **Paramètres de couleurs**
-  * **Sélecteur Expérimental De Tons Directs**\
+  * **Sélecteur de nuanciers expérimental**\
     Activez ou désactivez le sélecteur de couleurs expérimental partout où un paramètre de sélection de couleur apparaît. Le sélecteur de couleurs expérimental vous permet de choisir des couleurs directement à partir d’une collection de nuances PANTONE.
 * **Ressources**
   * **Qualité des vignettes**\
@@ -89,9 +89,9 @@ Les options suivantes sont disponibles :
   Utilisez ces paramètres pour mettre à jour les emplacements de cache.
   * Chemin du cache des textures rendues
   * Chemin d’accès au cache des vignettes.
-* **Capture de matériau**\
-  Utilisez ce paramètre pour mettre à jour l’emplacement du cache de capture de matière.
-  * Chemin d’accès au cache de capture de matière.
+* **Capture de Matériau**\
+  Utilisez ce paramètre pour mettre à jour l&#39;emplacement du cache de capture de Matériau.
+  * Chemin d’accès au cache de capture de Matériau.
   * Adresse IP Captis\
     Connectez-vous à un appareil Captivate sur votre réseau local.
   * Utilisez l’appareil Captivate comme stockage USB pour les fichiers copiés.

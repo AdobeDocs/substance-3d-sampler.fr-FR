@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Lumière sphérique de Substance 3D Sampler pour ajouter des sources lumineuses sphériques aux environnements HDRI afin d’obtenir des effets d’éclairage ponctuels.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ Ajoutez une lumière sphère à votre environnement.
       Sélectionnez la couleur de la lumière.
   * **Entrée d&#39;image**
     * **Entrée d&#39;image de forme** : image/pinceau\
-      Importez une image à utiliser comme couleur. Vous pouvez utiliser l&#39;outil Pinceau pour peindre directement dans la **vue 2D**, mais les résultats peuvent être imprévisibles avec ce filtre.
+      Importez une image à utiliser comme couleur. Vous pouvez utiliser l&#39;outil Pinceau pour effectuer une peinture directement dans la **Vue 2D**, mais les résultats peuvent être imprévisibles avec ce filtre.
   * **Exemple D&#39;Arrière-Plan**
     * L’exemple d’arrière-plan ne rend pas les nouveaux paramètres disponibles. Il base plutôt la couleur de la lumière sur les valeurs d’arrière-plan.
 * **Exposition (EV)** : 0-10\
@@ -68,24 +68,24 @@ Ajoutez une lumière sphère à votre environnement.
 Les paramètres disponibles dépendent de la sélection effectuée pour **Paramètres de base > Mode de position**. Si **Distance avec l&#39;origine** est sélectionnée, les paramètres suivants sont disponibles :
 
 * **Distance avec l&#39;origine** : 0-20\
-  Réglez la distance entre la lumière et l’appareil photo.
-* **Position de l&#39;appareil photo** : 0-1\
-  Réglez la position relative de la caméra par rapport à la lumière sur les axes X, Y et Z.
+  Ajustez la distance entre la lumière et la caméra.
+* **Position De La Caméra** : 0-1\
+  Ajustez la position relative de la caméra par rapport à la lumière dans les axes X, Y et Z.
 
 Si **Position universelle** est sélectionnée, les paramètres suivants sont disponibles :
 
 * **Up Vector** :\
   Modifiez la direction vers le haut.
 * **Position mondiale Sphère** : -2 à 2\
-  Ajustez la position de la lumière de la sphère sur les axes X, Y et Z.
+  Réglez la position de la lumière de la sphère dans les axes X, Y et Z.
 * **Distance avec l&#39;origine** : 0-20\
-  Réglez la distance entre la lumière et l’appareil photo.
-* **Position de l&#39;appareil photo** : 0-1\
-  Réglez la position relative de la caméra par rapport à la lumière sur les axes X, Y et Z.
+  Ajustez la distance entre la lumière et la caméra.
+* **Position De La Caméra** : 0-1\
+  Ajustez la position relative de la caméra par rapport à la lumière dans les axes X, Y et Z.
 
 **Forme**
 
-* **Dureté de la sphère** : 0-1\
+* **Dureté sphère** : 0-1\
   Adoucissez ou durcissez les bords de la lumière de la sphère
 * **Ombrage** :\
   Modifiez le dégradé de l&#39;exposition de la lumière en fonction de différents styles de lumière du monde réel. Avec l&#39;option **Lumière d&#39;Ombrage** sélectionnée, des paramètres supplémentaires apparaissent :

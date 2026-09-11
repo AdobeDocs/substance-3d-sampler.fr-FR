@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/dust.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dust.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Dust de Substance 3D Sampler pour ajouter des effets d’accumulation de dust réalistes à vos matières et textures.
+description: Utilisez le filtre Dust de Substance 3D Sampler pour ajouter des effets d’accumulation de dust réalistes à vos matériaux et textures.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Dust
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ Le calque d’éclaboussures de Dust permet d’ajouter du dust à un matériau 
 
 #### Quand l’utiliser ?
 
-Le éclaboussure de Dust peut être ajouté au-dessus d’un matériau. Vous pouvez l’utiliser pour lisser les cavités ou faire fonctionner ensemble les différents éléments d’un matériau.
+L’éclaboussure de Dust peut être ajoutée au-dessus d’un matériau. Vous pouvez l’utiliser pour lisser les cavités ou faire fonctionner ensemble les différents éléments d’un matériau.
 
 #### Paramètres
 

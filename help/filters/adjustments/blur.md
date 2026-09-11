@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Flou de Substance 3D Sampler pour appliquer des effets de flou et réduire la netteté de l’image dans les calques de textures et de matériaux.
+description: Utilisez le filtre Flou de Substance 3D Sampler pour appliquer des effets de flou et réduire la netteté des textures et des calques de matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Blur
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 2%
 
 ## Description
 
-Appliquez un flou à l’ensemble de la matière ou sélectionnez des couches spécifiques à flouter.
+Appliquez un flou à l’ensemble du matériau ou sélectionnez des couches spécifiques à flouter.
 
-Dans les images sous-jacentes, le **filtre Flou** a été appliqué à la couche de couleur de base.
+Dans les images sous-jacentes, le **filtre Flou** a été appliqué au canal de base color.
 
 <table>
 <tr style="border: 0;">
@@ -69,7 +69,7 @@ Réglez le niveau de flou de chaque couche séparément à l’aide de ces optio
 
 >[!NOTE]
 >
-> Le flou spécifique à la couche remplace le flou **Paramètres de base > Intensité** pour la matière complète. Ainsi, si vous définissez l’intensité du flou de la matière sur 1, mais que vous activez une couche et que vous définissez son intensité de flou sur 0, la couche ne sera pas floue du tout, tandis que toutes les autres couches seront floues.
+> Le flou spécifique à la couche remplace le flou **Paramètres de base > Intensité** pour le matériau entier. Ainsi, si vous définissez l’intensité du flou par matériau sur 1, mais que vous activez une couche et que vous définissez son intensité sur 0, la couche ne sera pas floue du tout, tandis que toutes les autres couches seront floues.
 
 * ***Canal*** **- Intensité du flou personnalisée** : activer/désactiver\
   Activez la valeur de flou spécifique à la couche.

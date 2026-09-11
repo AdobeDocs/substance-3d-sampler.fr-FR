@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/weave.html"
 breadcrumb-title: ''
-description: Utilisez le générateur d’armure de Substance 3D Sampler pour créer des motifs et des textures de tissu pour la création de matériaux.
+description: Utilisez le générateur d’armure de Substance 3D Sampler pour créer des motifs et des textures d’armure de tissu pour la création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Weave
 helpx_experience_level: ""
@@ -48,27 +48,27 @@ Utilisez des paramètres prédéfinis pour modifier rapidement les paramètres a
 * **Générateur aléatoire** :\
   Valeur de départ aléatoire sur laquelle sont basés tous les autres paramètres aléatoires de ce filtre.
 * **Image** : image/pinceau\
-  Sélectionnez une image ou peignez directement dans la **vue 2D**. Le **filtre de tissage** fonctionne mieux lorsqu&#39;une image est sélectionnée.
+  Sélectionnez une image ou une peinture directement dans la **Vue 2D**. Le **filtre de tissage** fonctionne mieux lorsqu&#39;une image est sélectionnée.
 * **Nombre de couleurs** : 1-10\
   Le **filtre de tissage** décompose automatiquement l&#39;entrée d&#39;image en un certain nombre de couleurs en fonction de ce paramètre. Les paramètres de chaque couleur peuvent être contrôlés indépendamment.
 * **Taille de la zone (cm)** : 2-50\
-  Modifiez la taille physique représentée par l’espace 2D. Cela modifiera le nombre de points utilisés pour recréer l’image d’entrée.
+  Modifiez la taille physique représentée par l’espace 2D. Cela modifiera le nombre de points utilisés pour recréer l’image d&#39;entrée.
 * **Densité (points par cm)** : 1-105\
   Utilise la commande **Taille de la zone (cm)** pour ajuster le nombre de points dans l&#39;espace 2D.
 * **Rugosité globale** : 0-1,0\
-  Régler la rugosité du matériau
+  Ajuster la rugosité du matériau
 * **Mode de couleur de trame** :\
-  Indiquez si la couleur de la trame dépend de l’image saisie ou des couleurs personnalisées sélectionnées. Si **Remplacement par couleur** est sélectionné, un paramètre **Couleur** supplémentaire apparaîtra dans chaque couleur.
+  Sélectionnez si la couleur de la trame est fonction de l’image saisie ou des choix de couleur personnalisés. Si **Remplacement par couleur** est sélectionné, un paramètre **Couleur** supplémentaire apparaîtra dans chaque couleur.
 
 **Couleur X**
 
 Le nombre de couleurs disponibles à modifier dépend de **Paramètres de base > Nombre de couleurs**.
 
 * **Couleur** : sélection de couleur\
-  Disponible uniquement si **Paramètres de base > Mode de couleur de trame** est défini sur **Remplacement par couleur**. Choisissez la couleur du matériau pour cette section.
+  Disponible uniquement si **Paramètres de base > Mode de couleur de trame** est défini sur **Remplacement par couleur**. Choisissez la couleur du matériau de cette section.
 * **Taille de la bordure** : 0-1\
   Ajoutez une bordure sur les bords de la couleur sélectionnée. La bordure augmente la longueur de la trame entre les fils de déformation près du bord de la couleur, évitant ainsi que les points de déformation n’apparaissent près du bord des jeux de couleurs.
-* **Décalage de la rugosité** : 0-1\
+* **Décalage de Rugosité** : 0-1\
   Modifier la rugosité de ce jeu de couleurs
 * **Métallique** : 0-1\
   Modifier la valeur métallique de ce jeu de couleurs
@@ -107,10 +107,10 @@ Pour utiliser le filtre Tissage :
 
 Il s’agit des principes de base de l’utilisation du filtre Tissage.
 
-Il est possible d&#39;utiliser des images transparentes dans le filtre Tissage, mais par défaut, elles auront également un impact sur la carte d&#39;opacité de votre matériau. Les parties transparentes de l&#39;image rendront également le matériau transparent. Utilisez le filtre Décalcomanie pour créer une pièce avec le filtre Tissage et la placer sur les calques situés en dessous.
+Il est possible d’utiliser des images transparentes dans le filtre Tissage, mais par défaut, elles auront également un impact sur la map opacity de votre matériau. Les parties transparentes de l’image rendront également le matériau transparent. Utilisez le filtre Décalcomanie pour créer une pièce avec le filtre Tissage et la placer sur les calques situés en dessous.
 
 1. Créez un filtre Décalcomanie.
 1. Ajoutez le filtre Tissage à l’emplacement d’entrée du filtre Décalcomanie.
 1. Suivez les étapes normales pour ajuster le motif d’armure.
 
-Le calque de la décalcomanie convertit l’entrée Tissage en décalcomanie. La transparence du calque de la décalcomanie indique donc au calque de la décalcomanie comment masquer le motif tissé. Avec le calque Décalcomanie, vous pouvez également déplacer le motif sur votre matériau ou activer des fonctionnalités telles que la mosaïque.
+Le calque de la décalcomanie convertit l’entrée Tissage en décalcomanie. La transparence du calque de la décalcomanie indique donc au calque de la décalcomanie comment masquer le motif tissé. Avec le calque Décalcomanie, vous pouvez également déplacer le motif sur votre matériau ou activer des fonctionnalités telles que la répétition.

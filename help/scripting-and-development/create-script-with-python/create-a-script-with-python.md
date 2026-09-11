@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
 breadcrumb-title: ''
 description: Découvrez comment créer des scripts Python pour Substance 3D Sampler afin d’automatiser les workflows et d’étendre les fonctionnalités de l’application.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Les scripts nécessitent un seul fichier PY pour être importés dans Sampler. V
 
 ## Exemple de script
 
-Le script ci-dessous crée automatiquement des variations de votre matériau en sélectionnant une nouvelle valeur de départ aléatoire pour chaque calque du matériau. Ceci est utile pour s&#39;assurer que votre matériel peut être utilisé dans un cas général au lieu de s&#39;appuyer sur des graines aléatoires spécifiques.
+Le script ci-dessous crée automatiquement des variantes de votre matériau en sélectionnant une nouvelle valeur de départ aléatoire pour chaque calque du matériau. Ceci est utile pour s&#39;assurer que votre matériau peut être utilisé dans un cas général au lieu de s&#39;appuyer sur des graines aléatoires spécifiques.
 
 ### random\_seed\_variations.py
 

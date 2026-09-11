@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
 breadcrumb-title: ''
 description: Utilisez le filtre Égaliser de Substance 3D Sampler pour redistribuer automatiquement les valeurs de luminosité et améliorer le contraste de l’image.
 helpx_creative_field: ""
@@ -33,17 +33,17 @@ ht-degree: 0%
 
 ## Description
 
-Le filtre Égaliser ajuste le contraste local en fonction d’une plage de distances. L’objectif du filtre Égaliser est de réduire les différences importantes dans chaque couche. Par conséquent, il est généralement utile dans le cadre du workflow Image vers matériau (B2M) : le filtre Image vers matériau (optimisé par l’IA) inclut une passe d’égalisation dans le filtre pour améliorer les résultats.
+Le filtre Égaliser ajuste le contraste local en fonction d’une plage de distances. L’objectif du filtre Égaliser est de réduire les différences importantes dans chaque couche. Par conséquent, il est généralement utile dans le cadre du workflow Image vers Matériau (B2M) : le filtre Image vers Matériau (optimisé par l’IA) inclut une passe d’égalisation dans le filtre pour améliorer les résultats.
 
 Les images ci-dessous montrent le **filtre Égaliser** en action.
 
 ![](../../assets/3d-2d-filters-cropped-0033-equalizer-in.jpg)
 
-Avant l&#39;ajout du filtre **Égaliser**, il existe des variations importantes entre la carte d&#39;height et la couleur de base de ce matériau.
+Avant l&#39;ajout du filtre **Égaliser**, il existe des variations importantes entre la map height et la base color de ce matériau.
 
 ![](../../assets/3d-2d-filters-cropped-0032-equalizer-out.jpg)
 
-Une fois le **filtre Égaliser** ajouté, la carte d&#39;height et les couches de couleur de base sont plus uniformes sans perdre de détails.
+Une fois le **filtre Égaliser** ajouté, les canaux de map height et de base color sont plus uniformes sans perdre en détail.
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ Une fois le **filtre Égaliser** ajouté, la carte d&#39;height et les couches d
 <b>Paramètres de base</b>
 
 * <b>Mosaïque d&#39;entrée</b> : basculer\
-  Lorsque cette option est activée, traitez la matière comme si elle était mosaïquée à plusieurs reprises. Par conséquent, les modifications effectuées près des bordures seront influencées par les valeurs de couleur de la bordure opposée.
+  Lorsque cette option est activée, traitez le matériau comme s’il était juxtaposé à plusieurs reprises. Ainsi, les modifications effectuées près des bordures seront influencées par les valeurs de couleur de la bordure opposée.
 * <b>Rayon</b> : 0-1\
   Étalez l’effet Égaliser sur une zone plus large.
 * <b>Débordement de couleur</b> : 0-1\
@@ -71,7 +71,7 @@ Les commandes de chaque couche fonctionnent de la même manière.
 * <b>Remplacer les paramètres courants</b> : activer/désactiver\
   Activez cette option pour personnaliser l’effet Égaliser pour cette couche. Lorsque cette option est activée, des commandes supplémentaires apparaissent :
   * <b>Mosaïque d&#39;entrée</b> : basculer\
-    Lorsque cette option est activée, traitez la matière comme si elle était mosaïquée à plusieurs reprises. Par conséquent, les modifications effectuées près des bordures seront influencées par les valeurs de couleur de la bordure opposée.
+    Lorsque cette option est activée, traitez le matériau comme s’il était juxtaposé à plusieurs reprises. Ainsi, les modifications effectuées près des bordures seront influencées par les valeurs de couleur de la bordure opposée.
   * <b>Rayon</b> : 0-1\
     Etalez l’effet d’égalisation sur une zone plus large.
   * <b>Conserver les différences locales</b> : activer/désactiver\
@@ -81,12 +81,12 @@ Les commandes de chaque couche fonctionnent de la même manière.
   * <b>Cible</b> : sélection de couleur\
     Sélectionnez une couleur ou une valeur qui servira de cible pour l’algorithme d’égalisation.
 * <b>Variation de couleur personnalisée</b> : curseurs TSL\
-  Réglez la teinte, la chrominance (saturation) et la luminance (luminance) du résultat après avoir exécuté l’algorithme d’égalisation pour la couche spécifiée.
+  Réglez la teinte, la chrominance (saturation) et la Luminosité (Luminance) du résultat après avoir exécuté l’algorithme d’égalisation pour la couche spécifiée.
 
 <b>Masquer</b>
 
 * <b>Masque personnalisé</b> : activer/désactiver\
   Activer ou désactiver l’utilisation d’un masque personnalisé pour ce filtre
 * <b>Masque personnalisé</b> : image/pinceau\
-  Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D
+  Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D
 * <b>Inversion de masque personnalisée</b> : activer/désactiver

@@ -1,6 +1,6 @@
 ---
 breadcrumb-title: ''
-description: Découvrez comment utiliser le Matériau de base dans Sampler, un excellent point de départ pour une édition efficace des matériaux.
+description: Découvrez comment utiliser le Matériau de base dans Sampler, un excellent point de départ pour réaliser des retouches de matériau efficaces.
 title: Utiliser comme bitmap
 user-guide-description: ''
 user-guide-title: ''
@@ -14,13 +14,13 @@ ht-degree: 4%
 
 # Matériau de base
 
-Le **Matériau de base** est un calque de matériau de base conçu pour vous offrir un point de départ rapide et flexible lors de la création de matériaux dans Sampler. Il expose un ensemble complet de paramètres qui s&#39;adaptent automatiquement au **modèle de matériau** utilisé par votre matériau (OpenPBR ou ASM), ce qui vous permet de construire n&#39;importe quoi, des surfaces simples aux matériaux complexes et physiquement riches.
-Que vous partiez d&#39;un paramètre prédéfini ou que vous fabriquiez un matériau à partir de zéro, le Matériau de base vous assure de toujours partir d&#39;une **base claire, prévisible et modifiable**.
+Le **Matériau de base** est un calque de matériau fondamental conçu pour vous offrir un point de départ rapide et flexible lors de la création de matériaux dans Sampler. Il expose un ensemble complet de paramètres qui s&#39;adaptent automatiquement au **modèle de matériau** utilisé par votre matériau (OpenPBR ou ASM), ce qui vous permet de construire n&#39;importe quoi, des surfaces simples aux matériaux complexes et physiquement riches.
+Que vous partiez d&#39;un paramètre prédéfini ou que vous construisiez un matériau à partir de zéro, le Matériau de base vous garantit de toujours partir d&#39;une **base claire, prévisible et modifiable**.
 
 ## Sensibilisation aux modèles de matériau (ASM OpenPBR)
 
-Le Matériau de base est **sensible au modèle de matériau**.
-Cela signifie que ses propriétés disponibles et ses valeurs par défaut changent selon que votre matériau est créé à l&#39;aide de :
+Le Matériau de base **prend en compte le modèle de matériau**.
+Cela signifie que les propriétés disponibles et les valeurs par défaut varient selon que votre matériau est créé à l’aide de :
 
 * OpenPBR
 * ASM (Adobe Standard Material)
@@ -61,16 +61,16 @@ Cette disposition reflète le modèle d’ombrage ASM et assure la continuité a
 
 >[!NOTE]
 >
->Le Matériau de base s&#39;adapte toujours au modèle de matériau du matériau sur lequel il est appliqué. Un Matériau de base appliqué à un matériau OpenPBR n&#39;exposera pas les paramètres ASM, et vice versa.
+>Le Matériau de base s’adapte toujours au modèle de matériau du matériau auquel il est appliqué. Un Matériau de base appliqué à un OpenPBR n&#39;expose pas les paramètres ASM, et inversement.
 
 ## Valeurs uniformes et mappages personnalisés
 
-Pour chaque paramètre exposé, le Matériau de base propose deux méthodes de travail :
+Pour chaque paramètre exposé, le Matériau de base propose deux façons de travailler :
 
 ### Valeurs uniformes (par défaut)
 
 Par défaut, les paramètres utilisent des valeurs uniformes (curseurs ou sélecteurs de couleurs).
-Cela vous permet de définir rapidement l’aspect global de votre matière sans aucune entrée de texture.
+Cela vous permet de définir rapidement l’aspect global de votre matériau sans aucune entrée de texture.
 
 Des valeurs uniformes sont idéales pour :
 
@@ -80,7 +80,7 @@ Des valeurs uniformes sont idéales pour :
 
 ### Mappages personnalisés
 
-Si vous disposez déjà de cartes de texture, vous pouvez **remplacer n&#39;importe quelle valeur uniforme** en activant son **entrée de carte personnalisée**.
+Si vous disposez déjà de mappages de texture, vous pouvez **remplacer n&#39;importe quelle valeur uniforme** en activant son **entrée de mappage personnalisée**.
 
 * Activer/désactiver l&#39;option de mappage personnalisé pour le paramètre
 * Branchez votre texture existante
@@ -97,26 +97,26 @@ Les paramètres prédéfinis fournissent :
 
 La sélection d’un paramètre prédéfini ne verrouille pas le matériau. Tous les paramètres restent entièrement modifiables.
 
-## « Appliquer des valeurs prédéfinies » lors de la création d’un matériau
+## Application de valeurs prédéfinies lors de la création d’un matériau
 
-Lors de la création d’une matière, vous pouvez choisir d’appliquer des valeurs prédéfinies à partir du panneau Créer une matière.
+Lors de la création d’un nouveau matériau, vous pouvez choisir d’appliquer des valeurs prédéfinies à partir du panneau Créer un nouveau Matériau.
 Ce que cela fait
 
 * Remplace les valeurs par défaut du Matériau de base par les valeurs représentées par la vignette du paramètre prédéfini sélectionné
 * Vous offre un point de départ visuel immédiat, au lieu des valeurs par défaut neutres
-* Permet de réduire l’effet de « page vierge » au début d’un nouveau matériau
+* Permet de réduire l’effet de page vierge au début d’un nouveau matériau
 
 Ce qu&#39;il ne fait pas
 
-* Il n’ancre ni ne fige les valeurs
+* Il ne bake ni ne fige les valeurs
 * Cela n’empêche pas d’autres modifications
-* Elle n’ajoute pas automatiquement de textures
+* Elle n’ajoute pas automatiquement de mappages de texture
 
 On peut y voir le choix du point de départ, et non une limitation de l&#39;endroit où l&#39;on peut aller.
 
 ## Activation Des Canaux : Une Étape Critique
 
-Pour qu&#39;un paramètre de Matériau de base ait un effet visible, la couche correspondante doit être activée dans les paramètres de couche de votre matériau.
+Pour qu’un paramètre de Matériau de base ait un effet visible, la couche correspondante doit être activée dans les paramètres de couche de votre matériau.
 
 ### Meilleures pratiques
 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Inverser de Substance 3D Sampler pour inverser les valeurs chromatiques et créer des effets d’image négatifs dans les textures et les matières.
+description: Utilisez le filtre Inverser de Substance 3D Sampler pour inverser les valeurs chromatiques et créer des effets d’image négatifs dans les textures et les matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Invert
 helpx_experience_level: ""
@@ -35,11 +35,11 @@ ht-degree: 2%
 
 Inversez les couches individuelles du matériau.
 
-Dans les images ci-dessous, vous pouvez voir l&#39;impact de l&#39;inversion de la couche de rugosité d&#39;un matériau en mosaïque.
+Dans les images ci-dessous, vous pouvez voir l’impact de l’inversion de la couche de rugosité d’un matériau de mosaïque.
 
 ![](../../assets/3d-2d-filters-cropped-0019-invert-in.jpg)
 
-Avant de retourner, les carreaux sont brillants et reflètent clairement la lumière de l&#39;environnement.
+Avant de retourner, les carreaux sont brillants et reflètent clairement l&#39;éclairage d&#39;environnement.
 
 ![](../../assets/invert-rough-filter.jpg.img.jpg)
 
@@ -53,14 +53,14 @@ Après l’inversion, les carreaux sont mats et n’ont pas de hautes lumières 
 
 **Paramètres de base**
 
-Chaque canal peut être inversé indépendamment à l&#39;aide d&#39;un bouton. Activez le bouton (bascule) pour inverser la couche. Si les résultats ne sont pas visibles dans la vue 3D, sélectionnez la couche au bas de la vue 2D pour voir l’impact.
+Chaque canal peut être inversé indépendamment à l&#39;aide d&#39;un bouton. Activez le bouton (bascule) pour inverser la couche. Si les résultats ne sont pas visibles dans la vue 3D, sélectionnez le canal en bas de la Vue 2D pour voir l’impact.
 
 **Masquer**
 
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer une peinture personnalisée directement dans la Vue 2D
   * **Masque personnalisé - Flou** : 0-1\
     Flouter le masque
   * **Masque personnalisé - Inverser** : activer/désactiver\

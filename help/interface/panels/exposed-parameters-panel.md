@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser le Panneau Paramètres exposés dans Substance 3D Sampler pour afficher les paramètres de filtre à des fins de modification externe.
+description: Apprenez à utiliser le Panneau Paramètres exposés dans Substance 3D Sampler pour exposer des paramètres de filtre à des fins de modification externe.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Exposed Parameters Panel
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/ezgif-com-gif-maker-7.gif)
 
-Le **Panneau Paramètres exposés** contient les paramètres exposés à partir du panneau **Propriétés**.
+Le **Panneau Paramètres exposés** contient les paramètres exposés du panneau **Propriétés**.
 
 Les points colorés permettent de visualiser le calque auquel le paramètre est connecté. Des points vides indiquent que le paramètre provient d’un calque de fusion.
 
@@ -35,4 +35,4 @@ Il existe plusieurs façons d’interagir avec les paramètres exposés :
 | Annulation de l’exposition d’un paramètre | Cliquez avec le bouton droit de la souris sur un paramètre et sélectionnez « Désexposer ». |
 | Modification du libellé d’un paramètre | Cliquez avec le bouton droit sur un paramètre et sélectionnez « Modifier », saisissez le nouveau libellé. |
 
-Vous pouvez interagir avec tous les paramètres comme vous le feriez normalement avec le panneau **Propriétés**. Les modifications seront reflétées dans la clôture 3D.
+Vous pouvez interagir avec tous les paramètres comme vous le feriez normalement avec le panneau **Propriétés**. Les modifications seront répercutées dans le viewport 3D.

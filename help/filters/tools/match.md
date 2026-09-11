@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/match.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Correspondance de Substance 3D Sampler pour faire correspondre les couleurs, les tons et l’éclairage entre différentes textures et différents calques de matériau.
+description: Utilisez l’outil Correspondance de Substance 3D Sampler pour faire correspondre les couleurs, les tons et l’éclairage entre les différents calques de texture et de matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Match
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ Outils **In:**
 
 Le **filtre de correspondance** vous permet de faire correspondre la couleur et la rugosité de votre matériau avec des paramètres choisis ou un autre matériau.
 
-Les images ci-dessous montrent le **filtre de correspondance** utilisé pour convertir un matériau en fibre de carbone en or à motifs en ajustant la couleur de base.
+Les images ci-dessous montrent le **filtre de correspondance** utilisé pour convertir un matériau en fibre de carbone en or à motifs en ajustant la base color.
 
 <table>
 <tr style="border: 0;">
@@ -61,25 +61,25 @@ Les images ci-dessous montrent le **filtre de correspondance** utilisé pour con
 **Paramètres de base**
 
 * **Mode cible** :\
-  Indiquez si la correspondance doit être effectuée avec une matière d&#39;entrée ou des paramètres personnalisés. Les paramètres disponibles dépendent du **mode cible** sélectionné.
+  Indiquez si la correspondance doit être effectuée avec un matériau d’entrée ou des paramètres personnalisés. Les paramètres disponibles dépendent du **mode cible** sélectionné.
   * **Entrée**
     * **Rayon** : 0-50\
       Ajuster le rayon de la zone correspondante
     * **Paramètres prédéfinis** :\
-      Indiquez si vous souhaitez que la couleur corresponde uniquement à la couleur, ou que la couleur et la rugosité correspondent. Cette sélection modifie les options disponibles dans **Paramètres avancés**
+      Choisissez de faire correspondre uniquement la couleur, ou la couleur et la rugosité. Cette sélection modifie les options disponibles dans **Paramètres avancés**
   * **Paramètre**
     * **Paramètres prédéfinis** :\
-      Indiquez si vous souhaitez que la couleur corresponde uniquement à la couleur, ou que la couleur et la rugosité correspondent. Cette sélection modifie les options disponibles dans **Paramètres avancés**
-    * **Couleur de base** : sélection de couleur\
+      Choisissez de faire correspondre uniquement la couleur, ou la couleur et la rugosité. Cette sélection modifie les options disponibles dans **Paramètres avancés**
+    * **Base color** : sélection de couleur\
       Sélection de la couleur à assortir
     * **Rugosité** : 0-1\
-      Définition de la rugosité pour qu’elle corresponde
+      Définition de la rugosité pour la faire correspondre
 
 **Paramètres avancés**
 
 * **Mosaïque d&#39;entrée** : basculer\
   Activez cette option si les carreaux d’entrée améliorent la correspondance sur les bords du matériau
 * **Couleur De Base - Correspondance À La Cible** : 0-1\
-  Réglage de l’intensité de la correspondance des couleurs de base
+  Réglage de la force de la correspondance des couleurs de base
 * **Rugosité - Correspondance à la cible** : 0-1\
-  Régler l’intensité de la correspondance de la rugosité
+  Ajuster la force de la correspondance de rugosité

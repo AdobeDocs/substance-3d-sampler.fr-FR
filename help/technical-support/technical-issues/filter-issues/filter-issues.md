@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/technical-support/technical-issues/filter-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues.html"
 breadcrumb-title: ''
 description: Accédez aux guides de dépannage pour résoudre les problèmes de filtre Substance 3D Sampler afin de résoudre les filtres manquants et les problèmes liés aux filtres.
 helpx_creative_field: ""
@@ -20,5 +20,5 @@ ht-degree: 0%
 
 # Problèmes de filtre
 
-* [Image vers matériau et Delighter sont manquants](image-to-material-and-delighter-are-missing.md)
-* [Résultats de la transformation de l’image en matière violette](image-to-material-visual-artefacts.md)
+* [L’image au Matériau et Delighter sont absentes](image-to-material-and-delighter-are-missing.md)
+* [Image en Matériau violet](image-to-material-visual-artefacts.md)

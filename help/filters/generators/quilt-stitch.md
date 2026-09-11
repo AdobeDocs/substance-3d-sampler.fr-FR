@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
-description: Utilisez le générateur de points de couture dans Substance 3D Sampler pour créer des motifs et des textures de couture de tissu matelassé pour les matériaux.
+description: Utilisez le générateur de points de couture dans Substance 3D Sampler pour créer des motifs de tissu matelassé et des textures de couture pour les matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Quilt Stitch
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ Générateurs De **Entrée :**
 
 ## Description
 
-Avec ce filtre, simulez un motif de surface composée assemblé dans vos matériaux.
+Émulez un motif de surface composée dans vos matériaux avec ce filtre.
 
 *Avant et après l’application du **filtre Point de surface composée**.*
 
@@ -65,16 +65,16 @@ Avec ce filtre, simulez un motif de surface composée assemblé dans vos matéri
 * **Sélection de motif** :\
   Sélectionnez le style de motif pour la couture/surface composée à suivre
 * **Quantité** : 1-5\
-  Contrôle de la quantité de mosaïque du motif
+  Contrôle de la répétition du motif
 * **Rotation** :\
   Faire pivoter le motif
 * **Topstitch** : activer/désactiver\
   Activez cette option pour ajouter un point de coupe et voir la section de paramètre pertinente
-* **Couture** : basculer\
-  Activer pour ajouter une couture et voir la section de paramètre pertinente
+* **Seam** : activer/désactiver\
+  Activez cette option pour ajouter un seam et voir la section des paramètres pertinents
 * **Surface composée** : basculer\
   Activez cette option pour ajouter une surface composée et voir la section de paramètre pertinente
-* **Peinture des contours** : activer/désactiver\
+* **Peinture Edge** : basculer\
   Activez cette option pour peindre le bord entre les sections matelassées et voir la section de paramètre pertinente
 * **Avancé** : activer/désactiver\
   Activer pour afficher les paramètres **avancés**
@@ -91,19 +91,19 @@ Avec ce filtre, simulez un motif de surface composée assemblé dans vos matéri
   Ajustez la taille du point de dessus dans chaque dimension (largeur, longueur et height)
 * **Intensité de la ponction** : 0-1\
   Ajuster le retrait dans la surface composée causé par la couture du dessus
-* **Rugosité du point de suture** : 0-1\
-  Régler la rugosité du filetage
+* **Rugosité Topstitch** : 0-1\
+  Ajuster la rugosité du lien
 * **Topstitch Métallique** : 0-1\
-  Ajuster la valeur métallique du filetage
+  Ajuster la valeur métallique du lien
 
-**Couture**
+**Seam**
 
-* **Sélection** **Sélection** :\
-  Sélectionner le style de couture à utiliser
-* **Intensité de la couture** : 0-1\
-  Modifier les intensités height et normale de la couture
-* **Intensité de l&#39;étirement** : 0-1\
-  Ajustez l&#39;impact de l&#39;étirement du tissu sur la couture. Cet effet est assez subtil.
+* **Sélection** **Seam** :\
+  Sélectionner le style de seam à utiliser
+* **Intensité du Seam** : 0-1\
+  Modifier les intensités normale et height du seam
+* **Intensité du Étire** : 0-1\
+  Ajustez l’impact de la étire du tissu sur le seam. Cet effet est assez subtil.
 
 **Surface composée**
 
@@ -112,18 +112,18 @@ Avec ce filtre, simulez un motif de surface composée assemblé dans vos matéri
 * **Intensité de la surface composée** :\
   Régler l’intensité normale et l’intensité height de l’effet de matelassage
 
-**Peinture des contours**
+**Peinture Edge**
 
 * **Sélection des contours** :\
-  Indiquez si la douleur doit supplanter ou non les détails heights et normaux du matériau sous-jacent
+  Indiquez si la douleur doit supplanter les détails heights et normaux du matériau sous-jacent ou non
 * **Couleur des contours** : sélection de la couleur\
-  Sélection de la couleur de peinture
-* **Rugosité des bords** : 0-1
-* **Bord métallique** : 0-1
+  Sélectionner la couleur de peinture
+* **rugosité Edge** : 0-1
+* **Edge Métallique** : 0-1
 
 **Avancé**
 
 * **Height du Matériau de base** : 0-1\
-  Ajustez l&#39;intensité de la texture height à partir du matériau sous-jacent
+  Ajuster la force de la map height à partir du matériau sous-jacent
 * **Intensité normale** : 0-1\
-  Ajustez l&#39;intensité des modifications de texture normales en fonction du filtre **Point de surface composée**. Cela n’a aucune incidence sur la normalité du matériau sous-jacent.
+  Ajustez la force des modifications de map normal en fonction du filtre **Point de surface composée**. Cela n’a aucune incidence sur la normalité du matériau sous-jacent.

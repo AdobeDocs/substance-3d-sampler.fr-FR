@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/properties-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/properties-panel.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser le panneau Propriétés de Substance 3D Sampler pour afficher et modifier les paramètres de filtre et les propriétés du matériau.
+description: Apprenez à utiliser le panneau Propriétés de Substance 3D Sampler pour afficher et modifier les paramètres de filtre et les propriétés de matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Properties panel
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 Le **panneau Propriétés** affiche les paramètres et les propriétés des calques que vous sélectionnez dans le **panneau Calques**. La meilleure façon de découvrir ce que font les paramètres est de jouer avec eux et de voir quel impact ils ont sur votre actif.
 
-Les paramètres qui apparaissent dans le panneau **Propriétés** dépendent de ce que vous avez sélectionné dans le **panneau Calques**. Parfois, un calque peut avoir plusieurs ensembles de propriétés personnalisables, par exemple un calque Matériau qui n’est pas au bas de la pile aura des propriétés de fusion. Chaque icône de la pile de calques correspond à un ensemble différent de propriétés et de paramètres. Pour un calque Matériau ayant à la fois des propriétés de matériau et des propriétés de fusion, ce calque comporte deux icônes.
+Les paramètres qui apparaissent dans le panneau **Propriétés** dépendent de ce que vous avez sélectionné dans le **panneau Calques**. Parfois, un calque peut avoir plusieurs ensembles de propriétés personnalisables. Par exemple, un calque de matériau qui n’est pas au bas de la pile aura des propriétés de fusion. Chaque icône de la pile de calques est un ensemble différent de propriétés et de paramètres. Pour un calque de matériau avec à la fois des propriétés de matériau et des propriétés de fusion, ce calque contient deux icônes.
 
 <table>
 <tr style="border: 0;">
@@ -35,7 +35,7 @@ Les paramètres qui apparaissent dans le panneau **Propriétés** dépendent de 
 </td>
 <td style="border: 0;" valign="top">
 
-Dans cette image du **panneau Calques**, chaque icône de la pile de calques dispose d&#39;un jeu de paramètres différent pour contrôler l&#39;apparence de votre matériau. Par exemple, le calque Argile possède à la fois l’icône Matériau et l’icône Fusion, chacune d’elles ayant un jeu distinct de paramètres. Le calque Peinture à la roulette possède également des icônes de matériau et de fusion, mais comme il est survolé, il possède également un bouton de visibilité.
+Dans cette image du **panneau Calques**, chaque icône de la pile de calques dispose d&#39;un jeu de paramètres différent pour contrôler l&#39;apparence de votre matériau. Par exemple, le calque Argile comporte à la fois l’icône de matériau et l’icône de fusion, chacune d’elles possédant un jeu de paramètres distinct. Le Calque de peinture déroulant comporte également des icônes de matériau et de fusion, mais comme il est survolé, il comporte également un bouton de visibilité.
 
 </td>
 </tr>
@@ -47,6 +47,6 @@ La section **Appliqué à** du panneau **Propriétés** vous permet de contrôle
 
 ![La section Appliqué à... du canal des propriétés vous permet de contrôler les canaux affectés par le filtre actuel.](../../assets/6.0_AppliedTo.png)
 
-Par défaut, tous les canaux sont activés pour la majorité des matières et des filtres. Certains filtres, tels que Luminosité ou Vibrance, n’affectent qu’une seule couche. Lorsque les filtres n’affectent qu’une seule couche, la couche affectée apparaît en regard du nom du calque.
+Par défaut, tous les canaux sont activés pour la majorité des matériaux et des filtres. Certains filtres, tels que Luminosité ou Vibrance, n’ont d’impact que sur un canal unique. Lorsque les filtres affectent uniquement un canal unique, la couche affectée apparaît en regard du nom du calque.
 
 ![Capture d’écran du panneau Calques avec les légendes de canal soulignées.](../../assets/6.0_LayerChannelSpecifier.png)

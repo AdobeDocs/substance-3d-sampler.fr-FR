@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Pièce de panorama de Substance 3D Sampler pour corriger et réparer des zones dans des images d’environnement HDRI panoramiques.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Description
 
-Correction des zones problématiques de la lumière de votre environnement. L’option Correction en panorama conserve la transformation et l’inclinaison pour faire correspondre naturellement la correction à la surface d’arrière-plan.
+Corrigez les zones problématiques de votre éclairage d&#39;environnement. L’option Correction en panorama conserve la transformation et l’inclinaison pour faire correspondre naturellement la correction à la surface d’arrière-plan.
 
 Les images ci-dessous montrent le <b>patch de panorama </b> en action. Dans ce cas, il s&#39;agit de remplacer le centre d&#39;un grand nuage par un ciel ouvert.
 
@@ -48,10 +48,10 @@ Les images ci-dessous montrent le <b>patch de panorama </b> en action. Dans ce c
 * **Rayon de correction** : 0-1\
   Ajustez la taille du patch.
 * **Contraste de correctif :** 0-1\
-  Réglez la dureté des bords du patch.
+  Ajustez la dureté des contours du patch.
 * **Rotation du correctif** : 0-1\
   Faites pivoter la zone corrigée.
 
 ## Guide d’utilisation
 
-Ajoutez le **filtre Correctif de panorama** en haut de la pile de calques, puis utilisez les poignées de la **vue 2D** pour ajuster les emplacements de la source et du correctif.
+Ajoutez le **filtre Correctif de panorama** en haut de la pile de calques, puis utilisez les poignées de la **Vue 2D** pour ajuster les emplacements de la source et du correctif.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/exposure.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure.html"
 breadcrumb-title: ''
 description: Utilisez l’outil Exposition de Substance 3D Sampler pour régler les niveaux d’exposition des images d’environnement HDRI afin d’obtenir un bon équilibre de l’éclairage.
 helpx_creative_field: ""
@@ -33,13 +33,13 @@ ht-degree: 3%
 
 ## Description
 
-Modifiez l’exposition de la lumière ambiante.
+Modifiez l’exposition de votre éclairage d&#39;environnement.
 
-Les images ci-dessous montrent comment le **filtre Exposition** peut être utilisé pour régler les éclairages de votre environnement.
+Les images ci-dessous montrent comment utiliser le **filtre Exposition** pour ajuster vos éclairages d&#39;environnement.
 
 ![](../../assets/3d-2d-filters-cropped-0030-exposure-out.jpg)
 
-L&#39;image ci-dessus montre la luminosité de l&#39;environnement avant l&#39;ajout du **filtre d&#39;exposition**.
+L&#39;image ci-dessus montre l&#39;éclairage d&#39;environnement avant l&#39;ajout du **filtre d&#39;exposition**.
 
 ![](../../assets/3d-2d-filters-cropped-0031-exposiure-in.jpg)
 
@@ -54,4 +54,4 @@ Avec le **filtre Exposition**, l&#39;exposition de l&#39;environnement a été a
 **Paramètres de base**
 
 * **Exposition (EV)** : -8 à 8\
-  Réglez l’exposition de la lumière ambiante. EV est l’acronyme de Exposure Value. Il s’agit d’un terme photographique utilisé pour représenter la combinaison de la vitesse d’obturation et de l’ouverture.
+  Réglez l’exposition de votre éclairage d&#39;environnement. EV est l’acronyme de Exposure Value. Il s’agit d’un terme photographique qui associe la vitesse d’obturation et l’ouverture.

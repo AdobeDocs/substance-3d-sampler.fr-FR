@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/stonewall.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/stonewall.html"
 breadcrumb-title: ''
 description: Utilisez le générateur Stonewall de Substance 3D Sampler pour créer des motifs de mur en pierre et des textures de maçonnerie réalistes pour les matériaux.
 helpx_creative_field: ""
@@ -60,11 +60,11 @@ Utilisez le filtre Stonewall pour incorporer rapidement votre matériau dans un 
 * **Couleur du mortier** : sélection de la couleur\
   Régler la couleur du mortier entre les pierres
 * **Quantité Grime** : 0-1\
-  Modification de la quantité de crasse et de dirt appliquée à la matière
+  Modification de la quantité de crasse et de dirt appliquée au matériau
 * **Couleur quadrichromique** : sélection de la couleur\
   Sélectionner la couleur de la craie
 
 **Paramètres avancés**
 
 * **Intensité normale** : 0-3\
-  Contrôlez l&#39;intensité des normales de l&#39;ensemble du matériau.
+  Contrôlez la force des normales pour l’ensemble du matériau.

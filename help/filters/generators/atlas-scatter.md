@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
-description: Utilisez le générateur d’Atlas scatter de Substance 3D Sampler pour dispersion des éléments à partir d’atlas de textures sur des surfaces de matériau.
+description: Utilisez le générateur d’Atlas scatters de Substance 3D Sampler pour effectuer la dispersion d’éléments à partir d’atlas de textures sur des surfaces de matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Atlas Scatter
 helpx_experience_level: ""
@@ -39,7 +39,7 @@ Les images ci-dessous montrent le **filtre d&#39;Atlas scatter** en action.
 
 ![](../../assets/3d-2d-filters-cropped-0037-atlas-scatter-in.jpg)
 
-Avant d&#39;utiliser le **filtre Atlas scatter**, nous avons un matériau de boue de base, pas très excitant.
+Avant d&#39;utiliser le filtre **Atlas scatter**, nous disposons d&#39;un matériau de boue de base, pas très excitant.
 
 ![](../../assets/3d-2d-filters-cropped-0036-atlas-scatter-out.jpg)
 
@@ -54,15 +54,15 @@ En ajoutant le **filtre Atlas scatter** avec un atlas de galets, le matériau de
 **Paramètres de base**
 
 * **X Quantité** : 1-64\
-  Nombre d’instances sur l’axe X
+  Nombre d’instances à l’axe X
 * **Quantité Y** : 1-64\
-  Nombre d’instances sur l’axe Y
-* **Mode de fusion** :\
+  Nombre d’instances dans l’axe Y
+* **Mode Fusion** :\
   Méthode de fusion avec les calques sous-jacents
 * **Échelle** : 0-5\
   Échelle des instances
 * **Position aléatoire** : 0-2\
-  Augmente ou diminue le décalage aléatoire des instances par rapport aux positions de la grille
+  Augmente ou diminue le décalage aléatoire des instances à partir des positions de grille
 * **Échelle D&#39;Height** : 0-1\
   Régler l’height des instances
 * **Se conformer à l&#39;arrière-plan** : 0-1\
@@ -111,22 +111,22 @@ En ajoutant le **filtre Atlas scatter** avec un atlas de galets, le matériau de
 * **Rotation Aléatoire** : 0-1\
   Ajouter une valeur aléatoire à la rotation de chaque instance
 * **Rotation à partir de la grande Pente** :\
-  Rotation d’instances en fonction de la pente de la matière sous-jacente
+  Rotation d’instances en fonction de la pente du matériau sous-jacent
 
-**Réglages Des Matériaux Atlas**
+**Réglages Du Matériau Atlas**
 
 * **Réglage des couleurs** :\
   Réglage des valeurs TSL pour l’atlas
 * **Color Random** :\
   Ajoutez du caractère aléatoire aux valeurs HSV définies dans **Réglage des couleurs**
 * **Rugosité de l&#39;arrière-plan** : 0-1\
-  Utilisez la rugosité de l’arrière-plan au lieu de la rugosité de chaque occurrence.
-* **Réglage de la rugosité** : -1 à 1\
+  Utilisez la rugosité de l’arrière-plan au lieu de la rugosité de chaque instance.
+* **Réglage de la Rugosité** : -1 à 1\
   Ajouter ou soustraire de chaque occurrence des valeurs de rugosité.
 * **Aléatoire normal** : 0-1\
   Faire pivoter les normales de chaque occurrence d’une valeur aléatoire par occurrence
-* **Recalculer l&#39;Occlusion ambiante** : activer/désactiver\
-  Si cette option est activée, les valeurs d’Occlusion ambiante sont recalculées en fonction des valeurs d’height modifiées
+* **Ambient occlusion de recalcul** : basculer\
+  Si cette option est activée, les valeurs d’Ambient occlusion sont recalculées en fonction des valeurs d’height modifiées
 
 **Détection de forme Atlas**
 
@@ -140,18 +140,18 @@ En ajoutant le **filtre Atlas scatter** avec un atlas de galets, le matériau de
 
 Guide d’utilisation
 
-Le filtre Atlas scatter est un moyen utile de mettre en dispersion des ressources dans votre matériau, telles que des feuilles, des pierres ou des déchets. Pour utiliser le filtre Atlas scatter, vous aurez besoin d’un atlas de matières à traiter.
+Le filtre Atlas scatter est un moyen utile de mettre en dispersion des ressources dans votre matériau, telles que des feuilles, des pierres ou des déchets. Pour utiliser le filtre Atlas scatter, vous aurez besoin d’un matériau d’atlas à traiter.
 
 >[!NOTE]
 >
-> Un atlas est un matériau qui contient une collection (ou un atlas) de ressources distinctes. Par exemple, Sampler inclut par défaut les feuilles de laurier séché - il s&#39;agit d&#39;un matériau de l&#39;atlas car il contient une collection de feuilles dans un seul matériau où chaque feuille est séparée de l&#39;autre feuille. Le nœud d&#39;Atlas scatter utilise un algorithme pour traiter chaque feuille du matériau de l&#39;atlas comme un élément séparé.
+> Un matériau atlas est un matériau qui contient une collection (ou un atlas) de ressources distinctes. Par exemple, Sampler inclut par défaut les feuilles de laurier séché. Il s’agit d’un matériau d’atlas, car il contient une collection de feuilles dans un seul matériau où chaque feuille est séparée de l’autre feuille. Le nœud d&#39;Atlas scatter utilise un algorithme pour traiter chaque feuille du matériau d&#39;atlas comme un élément séparé.
 
 Pour utiliser le filtre Atlas scatter :
 
 1. Ajout du filtre Atlas scatter à la pile de calques
 1. Sous le calque Atlas scatter, un emplacement Entrée apparaît
-1. Faites glisser votre matière atlas dans l’emplacement d’entrée Atlas scatter
+1. Faites glisser votre matériau atlas dans l’emplacement d’entrée Atlas scatter
 
 Vous pouvez ajuster les paramètres de dispersion dans le **panneau Propriétés** en sélectionnant le calque d&#39;Atlas scatter.
 
-Vous pouvez ajuster les paramètres du matériau de l&#39;atlas dans le **panneau Propriétés** en sélectionnant le matériau dans l&#39;emplacement d&#39;entrée.
+Vous pouvez ajuster les paramètres du matériau atlas dans le **panneau Propriétés** en sélectionnant le matériau dans l&#39;emplacement d&#39;entrée.

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser les filtres Usure et Finition dans Substance 3D Sampler pour ajouter des effets de vieillissement, de vieillissement et de finition de surface aux matériaux.
+description: Apprenez à utiliser les filtres Usure et finition de Substance 3D Sampler pour appliquer des effets d’altération, de vieillissement et de finition de surface à des matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 # Usure et finition
 
-Les filtres d’usure et de finition de Sampler vous permettent de modifier rapidement l’aspect de votre matière. Utilisez des filtres tels que **Rouille** et **Dirt** pour donner à une surface métallique polie l&#39;air vieille et jetée, ou utilisez **Eau** et **Snow** pour voir votre matériau à différentes saisons. Les filtres Usure et Finition sont divers et beaucoup sont hautement personnalisables.
+Les filtres d’usure et de finition de Sampler vous permettent de modifier rapidement l’aspect de votre matériau. Utilisez des filtres tels que **Rouille** et **Dirt** pour qu&#39;une surface en métal poli semble vieille et jetée, ou utilisez **Eau** et **Snow** pour voir votre matériau à différentes saisons. Les filtres Usure et Finition sont divers et beaucoup sont hautement personnalisables.
 
 Les filtres suivants se trouvent dans la catégorie Usure et finition :
 

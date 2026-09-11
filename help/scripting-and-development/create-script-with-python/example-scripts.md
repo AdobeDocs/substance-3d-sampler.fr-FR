@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/scripting-and-development/create-a-script-with-python/example-scripts.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-script-with-python/example-scripts.html"
 breadcrumb-title: ''
 description: Accédez à des exemples de scripts Python pour Substance 3D Sampler pour apprendre à utiliser l’API et à automatiser les workflows de création de matériaux.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ Les scripts ci-dessous peuvent être utilisés pour comprendre le fonctionnement
 
 ## Tout exporter
 
-Exportez des matériaux avec différents paramètres prédéfinis d’exportation.
+Exportez le matériau avec divers paramètres prédéfinis d’exportation.
 
 ### export\_all.py
 
@@ -227,11 +227,11 @@ for layer in my_asset_layers:
 ```
 
 
-## Modèle de pile de calques
+## modèle de pile de calques
 
 Ce script ajoute automatiquement un ensemble de filtres (définis dans le script) au matériau actif.
 
-### layer\_stack\_template.py
+### layer\_pile\_template.py
 
 ```
 import substance_sampler as ssa 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/default-presets/unity-standard.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-standard.html"
 breadcrumb-title: ''
-description: Découvrez comment exporter des matériaux à partir de Substance 3D Sampler à l’aide du paramètre prédéfini Unity Standard pour assurer la compatibilité avec le moteur de jeu Unity.
+description: Découvrez comment exporter des matériaux depuis Substance 3D Sampler à l’aide du paramètre prédéfini Unity Standard pour la compatibilité des moteurs de jeu Unity.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Unity Standard
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Unity Standard | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Albédo :**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong> : couleur de base</li><li data-preserve-html="true"><strong>A</strong> : Opacité</li></ul>**Métallique :**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : métallique</li><li data-preserve-html="true"><strong>A</strong> : Smoothness</li></ul>**Normal** (OpenGL)**Height &#x200B;**&#x200B;**Occlusion**&#x200B;**émissive** |
+| Unity Standard | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Albédo :**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong> : Base color</li><li data-preserve-html="true"><strong>A</strong> : Opacité</li></ul>**Métallique :**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Métallique</li><li data-preserve-html="true"><strong>A</strong> : Smoothness</li></ul>**Normal** (OpenGL)**Height ****Occlusion****Emissive** |

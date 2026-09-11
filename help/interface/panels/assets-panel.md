@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser le panneau Actifs de Substance 3D Sampler pour parcourir, organiser et consulter vos ressources matérielles et vos ressources.
+description: Apprenez à utiliser le panneau Actifs de Substance 3D Sampler pour parcourir, organiser et consulter vos ressources et actifs matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Assets panel
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../../assets/Assets-panel-gen.png.img.png)
 
-Le panneau **Actifs** contient des actifs que vous pouvez utiliser pour créer vos créations. Sampler comprend une collection de matières, de filtres et de générateurs de textures pour vous aider à démarrer.
+Le panneau **Actifs** contient des actifs que vous pouvez utiliser pour créer vos créations. Sampler comprend une collection de matériaux, de filtres et de générateurs de textures pour vous aider à démarrer.
 
 Le panneau **Actifs** comporte quelques commandes pour vous aider à organiser et à trouver des actifs :
 
@@ -37,7 +37,7 @@ Pour ajouter vos propres ressources au panneau Ressources, cliquez sur **+** en 
 
 ## Activation de canaux supplémentaires
 
-Lorsque vous faites glisser et déposez des matériaux du panneau Actifs vers votre pile de calques, vous pouvez être invité à activer des couches supplémentaires. Il est proposé lorsque le matériel génère un canal qui n’est actuellement pas activé dans votre ressource. Vous pouvez l&#39;activer si vous voulez profiter de toute la complexité du matériau, comme certains effets d&#39;anisotropie ou le revêtement.
+Lorsque vous glissez-déposez des matériaux du panneau Actifs vers votre pile de calques, il peut vous être proposé d’activer des canaux supplémentaires. Il est proposé lorsque le matériau émet un canal qui n’est actuellement pas activé dans votre ressource. Vous pouvez l&#39;activer si vous voulez profiter de toute la complexité du matériau, comme certains effets d&#39;anisotropie ou le revêtement.
 
 Fenêtre contextuelle d&#39;activation de ![canal lorsqu&#39;un matériau est ajouté à la pile de calques](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
 

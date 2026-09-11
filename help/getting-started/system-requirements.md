@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: Vérifiez la configuration requise pour Substance 3D Sampler pour vous assurer que votre matériel et vos logiciels sont compatibles.
 helpx_creative_field: ''
@@ -88,14 +88,14 @@ Vous trouverez ci-dessous une liste du matériel et des systèmes pris en charge
 
 * Les GPU intégrés ne sont pas pris en charge sur les processeurs x86-64 (Intel, AMD).
 * L’utilisation de Sampler en association avec un logiciel tiers qui intercepte les appels Sampler aux pilotes graphiques n’est pas prise en charge. Ces logiciels comprennent :
-  * Injecteurs de post-traitement tels que les nuanciers qui appliquent un étalonnage des couleurs, des effets de caméra, ...
+  * Injecteurs de post-traitement tels que des nuanciers qui appliquent un étalonnage des couleurs, des effets de caméra, ...
   * Incrustations à l’écran telles que les réticules personnalisés, les métriques de performance GPU, les habillages pour la diffusion vidéo...
 
 ## Versions minimales du pilote GPU
 
 Vous trouverez ci-dessous une liste des versions minimales du pilote GPU requises pour que l’application s’exécute sans problème. Cette liste est susceptible d’être modifiée à mesure que de nouvelles versions sont publiées.
 
-Pour télécharger de nouveaux pilotes, voir : [Le GPU a des pilotes obsolètes](https://experienceleague.adobe.com/fr/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
+Pour télécharger de nouveaux pilotes, voir : [Le GPU a des pilotes obsolètes](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
 
 | SE | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |

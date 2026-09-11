@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/surface-relief.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
 description: Utilisez le générateur de Reliefs de surface de Substance 3D Sampler pour créer des motifs de surface en relief et reliefs dans les matériaux.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ Générateurs De **Entrée :**
 
 ## Description
 
-Utilisez le filtre Relief de surface pour ajouter du bruit à votre matière. Cela peut aider à séparer les grandes formes ou ajouter un intérêt visuel.
+Utilisez le filtre Relief de surface pour ajouter du bruit à votre matériau. Cela peut aider à séparer les grandes formes ou ajouter un intérêt visuel.
 
 </td>
 </tr>
@@ -48,36 +48,36 @@ Utilisez le filtre Relief de surface pour ajouter du bruit à votre matière. Ce
 * <b>Intensité</b> : 0-1\
   Modification de l’amplitude du bruit
 * <b>Intensité du flou</b> : 0-1\
-  Intensité du flou appliqué au bruit
+  Force du flou appliqué au bruit
 * <b>Imperfection De La Surface </b> : Générateur D’Images/De Pinceaux/De Textures\
-  Utilisez une image ou un générateur de texture à utiliser comme imperfection de surface.
+  Utilisez une image ou un générateur de Textures à utiliser comme imperfection de surface.
 
-<b>Paramètres de bruit</b>
+<b>Paramètres de Bruit</b>
 
-* <b>Clamp</b> : 0-1\
-  Limitation du bruit à une certaine plage
+* <b>Verrouiller</b> : 0-1\
+  Verrouiller le bruit à une certaine plage
 * <b>Contraste</b> : 0-1\
   Modifier le contraste du bruit
 * <b>Inverser</b> : activer/désactiver\
-  Inverser la courbe d&#39;height du bruit
+  Inverser la map height du bruit
 
-<b>Transformation</b>
+<b>Transformer</b>
 
-* <b>Mosaïque</b> : 1-16\
-  Contrairement aux <b>paramètres de base > échelle</b>, la fonctionnalité <b>Mosaïque</b> gère le nombre d&#39;instances du bruit.
+* <b>Répétition</b> : 1-16\
+  Contrairement aux <b>paramètres de base > échelle</b>, la <b>Répétition</b> gère le nombre d&#39;instances du bruit.
 * <b>Miroir</b> :\
-  Symétrie du bruit sur un axe ou les deux
+  Appliquez une symétrie au bruit sur un axe ou sur les deux
 * <b>Décalage</b> :\
-  Repositionnement du bruit sur les axes X et Y
+  Repositionner le bruit aux axes X et Y
 * <b>Rotation</b> :\
-  Faites pivoter le bruit. L’angle de rotation s’accroche pour vous assurer que la juxtaposition est toujours possible.
+  Faites pivoter le bruit. L&#39;angle de rotation contraint à assurer que la répétition est toujours possible.
 
 <b>Masquer</b>
 
 * <b>Utiliser un masque personnalisé</b> : activer/désactiver\
   Activez cette option pour afficher les commandes de masque personnalisées :
-  * <b>Masque</b> : générateur d&#39;image/pinceau/texture\
-    Importez une image à utiliser comme masque ou utilisez le pinceau pour peindre directement dans la <b>vue 2D</b>
+  * <b>Masque</b> : générateur d&#39;images/de pinceaux/de Textures\
+    Importez une image à utiliser comme masque ou utilisez le pinceau pour effectuer une peinture directement dans la <b>Vue 2D</b>
   * <b>Masque personnalisé - Flou</b> : 0-1\
     Flouter le masque
   * <b>Masque personnalisé - Inverser</b> : activer/désactiver
@@ -85,15 +85,15 @@ Utilisez le filtre Relief de surface pour ajouter du bruit à votre matière. Ce
 <b>Paramètres avancés</b>
 
 * <b>Intensité de l&#39;Height</b> : 0-1\
-  Contrôle du mélange de la courbe de hauteur du bruit avec la courbe de hauteur des matériaux sous-jacents
+  Contrôle de la fusion de la courbe de hauteur des bruits avec la courbe de hauteur des matériaux sous-jacente
 * <b>Height - Remplacer la base</b> : basculer\
   Activer/désactiver le remplacement de l’height de base
 * <b>Intensité normale</b> : 0-1\
-  Régler l&#39;intensité de la courbe de transfert normale du bruit
+  Ajuster la force de la map normal du bruit
 * <b>Normal - Remplacer la base</b> : activer/désactiver\
-  Indique si le mappage normal de base doit être remplacé ou non
+  Indique si la map normal de base doit être remplacée ou non
 * <b>Direction normale</b> :\
   Modifier les axes à utiliser pour la génération normale
 * <b>Normal - Direction de la rotation</b>
-* <b>Occlusion ambiante - Intensité</b>
-* <b>Occlusion ambiante - Rayon</b>
+* <b>Ambient occlusion - Intensité</b>
+* <b>Ambient occlusion - Rayon</b>

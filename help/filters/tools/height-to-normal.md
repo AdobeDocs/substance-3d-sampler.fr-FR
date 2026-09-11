@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/height-to-normal.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-normal.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Height à la normale de Substance 3D Sampler pour convertir les calques d’height en calques de normales pour les workflows de création de matériaux.
+description: Utilisez l’outil Height à la normale de Substance 3D Sampler pour convertir des maps height en maps normal pour les workflows de création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Height to Normal
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ Dans les images ci-dessous, vous pouvez voir le filtre **Height à la normale** 
 
 ![](../../assets/h2n-in.jpg)
 
-Dans l&#39;image ci-dessus, il n&#39;y a pas de données normales du matériau. Seule la carte d&#39;height est disponible et affichée dans la **vue 2D**.
+Dans l’image ci-dessus, il n’y a pas de données normales provenant du matériau. Seule la map height est disponible et affichée dans la **Vue 2D**.
 
 ![](../../assets/h2n-out.jpg)
 
-Avec le filtre **Height à la normale**, les données normales sont générées à partir de la carte d&#39;height affichée dans l&#39;image supérieure. La lumière rebondit de manière plus réaliste sur le matériau dans la deuxième image grâce à la carte de normales générée.
+Avec le filtre **Height à la normale**, les données normales sont générées à partir de la map height affichée dans l&#39;image supérieure. La lumière rebondit de manière plus réaliste sur le matériau de la deuxième image grâce à la map normal générée.
 
 </td>
 </tr>
@@ -59,19 +59,19 @@ Avec le filtre **Height à la normale**, les données normales sont générées 
     * **Taille de la surface (cm)** : 0-500\
       Définir la taille de l’espace UV en unités universelles
     * **Profondeur Height (cm)** : 0-10\
-      Définissez la distance représentée par la carte d’height. Si la courbe d&#39;height représente une petite distance, une grande différence dans les valeurs de courbe d&#39;height peut avoir un faible impact sur l&#39;angle normal. Si la courbe d&#39;height représente une grande distance, une petite différence dans les valeurs de courbe d&#39;height peut représenter un grand angle sur la courbe de normales.
+      Définissez la distance représentée par la map height. Si la map height représente une petite distance, une grande différence dans les valeurs de map height peut avoir un impact faible sur l&#39;angle normal. Si la map height représente une grande distance, une petite différence dans les valeurs de map height peut représenter un grand angle sur la map normal.
   * **Si Utiliser les unités universelles est désactivé :**
     * **Intensité** : 0-3\
       Réglage de la pente des angles normaux
 * **Combiner la normale inférieure** : 0-1\
-  Ajoutez le mappage normal existant aux résultats de ce filtre.
+  Ajoutez la map normal existante aux résultats de ce filtre.
 
 **Masquer**
 
 * **Masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer une peinture personnalisée directement dans la Vue 2D
   * **Masque personnalisé - Flou** : 0-1\
     Flouter le masque
   * **Masque personnalisé - Inverser** : activer/désactiver\

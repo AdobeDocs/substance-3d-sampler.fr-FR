@@ -42,10 +42,10 @@ Plus d&#39;informations [ici](../pipeline-and-integrations/substance-connector.m
 
 <b>Fixe :</b>
 
-* [Paramètres exposés] L’exposition des valeurs d’entrée .sbsar ne fonctionne pas
-* [Calques] La couleur de base devient rouge avec les images en niveaux de gris
-* [Rendu] Les images en niveaux de gris utilisées dans les couches de couleur ont un espace colorimétrique incorrect
+* [Paramètres exposés] Exposer des valeurs d’entrée .sbsar ne fonctionne pas
+* [Calques] La Base color devient rouge avec des images en niveaux de gris
+* [Rendu] Les Images en niveaux de gris utilisées dans les couches de couleur ont un espace colorimétrique incorrect
 * [Scripts] Parfois, l’utilisation d’un paramètre prédéfini d’exportation n’exporte pas les canaux attendus
-* [Contenu] Dirt : l’application d’un Dirt sur l’image par-dessus le matériau génère une couleur noire normale.
-* [Contenu] Estampage : l’échelle d’un motif dans le filtre estampage n’est pas linéaire entre 0 et 1
+* [Contenu] Dirt : l’application d’un filtre Dirt au-dessus de l’image dans un Matériau génère une couleur noire normale.
+* [Contenu] Embossage : la mise à l’échelle d’un motif dans le filtre embossage n’est pas linéaire entre 0 et 1
 * [Contenu] Mosaïque - Amélioration de la cohérence normale et de l’height

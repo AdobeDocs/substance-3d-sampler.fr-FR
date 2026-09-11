@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/channel-switch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Permutation de couches de Substance 3D Sampler pour réorganiser et intervertir les couches de couleur dans les textures simples afin de créer du contenu.
+description: Utilisez l’outil Changement de couche de Substance 3D Sampler pour réorganiser et intervertir les couches de couleur dans les cartes de texture en vue de la création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channel Switch
 helpx_experience_level: ""
@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ## Description
 
-Permutez les canaux des textures de sortie du matériau.
+Permutez les canaux des cartes de sortie du matériau.
 
 </td>
 </tr>
@@ -41,16 +41,16 @@ Permutez les canaux des textures de sortie du matériau.
 
 **Paramètres de base**
 
-* **Dessiner un tissage personnalisé :** dessinez les tissages sur votre clôture 2D.
+* **Dessiner un tissage personnalisé :** dessinez les tissages sur votre viewport 2D.
 * **Canal d&#39;entrée :** sélectionnez le canal que le filtre va déplacer.
 * **Canal de sortie :** sélectionnez Quel canal est la destination du canal d&#39;entrée.
 * **Opacité :** 0-1\
   Réglez l’opacité des informations de couche par rapport aux informations de couche existantes. En d’autres termes, cette option contrôle l’opacité du masque utilisé pour appliquer le nouveau fond de couche.
-* **Mode de fusion**&#x200B;**&#x200B; :** sélectionnez le mode de fusion pour la couche de couleur de base. La modification du mode de fusion peut modifier sensiblement l’aspect de la couche.
+* **Mode de fusion**** :** sélectionnez le mode de fusion pour la couche de couleur de base. La modification du mode de fusion peut modifier sensiblement l’aspect de la couche.
 
 **Avancé**
 
-* **Entrée matière :** sélectionnez la matière à utiliser comme entrée.
+* **Entrée de Matériau :** sélectionnez le matériau à utiliser comme entrée.
 
 **Masquer**
 
