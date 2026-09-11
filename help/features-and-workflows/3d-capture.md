@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/3d-capture.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser la Capture 3D dans Substance 3D Sampler pour créer des matériaux à partir d’objets réels à l’aide de techniques de photogrammétrie.
+description: Apprenez à utiliser Capture 3D dans Substance 3D Sampler pour créer des matériaux à partir d’objets du monde réel à l’aide de techniques de photogrammétrie.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > 3D Capture
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## Qu&#39;est-ce que la photogrammétrie ?
 
-Sampler utilise la photogrammétrie pour transformer des images en un filet avec des textures. La photogrammétrie est la science de la prise de mesures à partir d&#39;images. Il est utilisé pour extraire des informations de photographies, pour créer des modèles et des textures 3D. Le processus implique de prendre plusieurs photos d’un objet sous différents angles, puis de traiter les images pour extraire des informations sur la forme et l’emplacement des éléments dans les images.
+Sampler utilise la photogrammétrie pour transformer des images dans un maillage avec des textures. La photogrammétrie est la science de la prise de mesures à partir d&#39;images. Il est utilisé pour extraire des informations de photographies, pour créer des modèles 3D et des textures. Le processus implique de prendre plusieurs photos d’un objet sous différents angles, puis de traiter les images pour extraire des informations sur la forme et l’emplacement des éléments dans les images.
 
 L&#39;objectif est de faire correspondre les caractéristiques correspondantes entre les images pour établir les positions relatives de la caméra pour chaque image. À partir des fonctions correspondantes, un modèle 3D de l’objet est reconstruit. La dernière étape consiste à projeter les textures sur le modèle 3D.
 
@@ -45,7 +45,7 @@ Nous recommandons :
 Mac
 
 * Les appareils Apple Silicon sont fortement recommandés (M1 ou M2)
-* GPU Intel et AMD avec au moins 4 Go de VRAM et prise en charge du lancer de rayons
+* GPU Intel et AMD avec au moins 4 Go de prise en charge VRAM et raytracing
 
 ## Démarrage d’une nouvelle Capture 3D
 
@@ -55,7 +55,7 @@ Mac
 
 ## Préparation du jeu de données
 
-Faites glisser et déposez vos photos ou cliquez pour parcourir l’explorateur de votre système d’exploitation.
+Faites glisser et déposez vos photos ou cliquez pour parcourir votre explorateur de système d’exploitation.
 
 >[!NOTE]
 >
@@ -69,7 +69,7 @@ Pour les utilisateurs d’iPhone, le format .HEIC n’est pas encore pris en cha
 
 Sur MacOS, vous pouvez utiliser les [actions rapides](https://support.apple.com/en-gb/guide/mac-help/mchl97ff9142/mac) pour convertir vos images.
 
-Pour les formats RAW de l’appareil photo, nous vous recommandons d’utiliser Lightroom pour convertir vos photos au format .jpeg.
+Pour les formats RAW caméras, nous vous recommandons d’utiliser Lightroom pour convertir vos photos au format .jpeg.
 
 >[!NOTE]
 >
@@ -108,7 +108,7 @@ Vous pouvez générer automatiquement des masques par photos à l’aide de notr
 
 ## Alignement
 
-L’alignement consiste à traiter toutes les images pour extraire et faire correspondre les caractéristiques correspondantes afin d’établir les positions relatives de la caméra pour chaque image.
+L’alignement consiste à traiter toutes les images pour extraire et faire correspondre les caractéristiques afin d’établir les positions relatives de la caméra pour chaque image.
 
 ## Paramètres
 
@@ -119,7 +119,7 @@ Précision
 Il existe deux options : faible et élevé.
 
 * Faible : conseillé pour la plupart des jeux de données.
-* Élevé : augmentez le nombre de points. Il est conseillé de faire correspondre plus de photos dans les cas où le sujet n&#39;a pas une texture suffisante ou si les photos sont petites. Ce paramètre ralentit le traitement. Nous vous recommandons d’essayer d’abord l’option basse.
+* Élevé : augmentez le nombre de points, il est conseillé de faire correspondre plus de photos dans les cas où le sujet a une texture insuffisante ou les photos sont petites. Ce paramètre ralentit le traitement. Nous vous recommandons d’essayer d’abord l’option basse.
 
 Ordre des photos
 
@@ -130,9 +130,9 @@ Cela peut être calculé à l’aide de différents algorithmes de mise en corre
 * Valeur par défaut : la sélection est basée sur plusieurs critères, parmi lesquels la similarité entre les images.
 * Séquence : utilisez uniquement des images voisines sur la distance donnée, conseillées pour le traitement d’une seule séquence de photos si le mode Par défaut a échoué. L’ordre d’insertion des photos doit correspondre à celui de la séquence.
 
-## Position du nuage de points et de la caméra
+## Position du nuage de points et des caméras
 
-Le résultat de l’étape d’alignement est un nuage de points dispersé avec toutes les fonctionnalités détectées et la position de toutes les caméras.
+L’étape d’alignement produit un nuage de points fragmenté avec toutes les fonctions détectées et la position de toutes les caméras.
 
 Si le contour de l’image est vert, l’image a été correctement alignée.
 
@@ -140,9 +140,9 @@ Si le contour de l’image est orange, l’image n’a pas été correctement al
 
 ![](../assets/3d-capture-alignment-results.png)
 
-Vous pouvez cliquer sur l’image dans le panneau de gauche pour cadrer le nuage de points sur l’appareil photo associé.
+Vous pouvez cliquer sur l’image dans le panneau de gauche pour effectuer un cadre du nuage de points sur la caméra associée.
 
-Vous pouvez cliquer sur une caméra pour recadrer le nuage de points dessus.
+Vous pouvez cliquer sur une caméra pour effectuer un cadre du nuage de points qu’elle contient.
 
 ## Reconstruction
 
@@ -156,7 +156,7 @@ Détails de la géométrie Cette option spécifie le niveau de précision dans l
 
 Avant de générer le modèle 3D, vous pouvez définir la région à reconstruire autour du nuage de points avec le cadre de sélection.
 
-Vous pouvez déplacer, mettre à l’échelle et faire pivoter la boîte sur l’axe 3.
+Vous pouvez translater, mettre à l’échelle et faire pivoter la boîte à l’axe 3.
 
 En appuyant sur Maj pendant la mise à l’échelle, vous allez mettre la zone à l’échelle à partir du centre.
 
@@ -177,18 +177,18 @@ En appuyant sur Maj pendant la mise à l’échelle, vous allez mettre la zone �
 
 ## Post-traitement
 
-Le post-traitement vous aide à adapter et à optimiser votre maillage et vos textures en fonction de vos besoins et de la façon dont vous souhaitez les utiliser.
+Le post-traitement vous aide à adapter et à optimiser votre maillage et vos textures en fonction de vos besoins et de la manière dont vous souhaitez les utiliser.
 
-Le résultat de la reconstruction peut générer un maillage avec des millions de polygones et jusqu’à 16K textures. Souvent, cette fonctionnalité n’est pas optimisée pour le rendu, le temps réel ou l’expérience AR.
+Le résultat de la reconstruction peut générer un maillage avec des millions de polygones et jusqu&#39;à 16K textures. Souvent, cette fonctionnalité n’est pas optimisée pour le rendu, le temps réel ou l’expérience AR.
 
 Vous devrez post-traiter le résultat pour réduire le nombre de polygones sans perdre de détails.
 
 L&#39;étape de post-traitement enchaîne automatiquement 4 étapes:
 
 * Décimation : réduisez le nombre de polygones en définissant le nombre de faces souhaité
-* Déballer UV : définit automatiquement les coutures, déballer et emballer les UV du filet décimé
-* Reprojection : reprojetez la texture de couleur du filet de photogrammétrie sur le filet décimé
-* Cuisson : cuire les détails de la normale, de l’height et de l’AO du filet de photogrammétrie sur le filet décimé. Cela permettra de transférer tous les détails de maillage perdus lors de la décimation dans les textures plaquées.
+* UV : définit automatiquement les seams, déplie et emballe les UV du maillage décimé
+* Reprojection : reprojetez la texture des couleurs du maillage de photogrammétrie sur le maillage décimé
+* Baking : Bakez les détails de la normale, de l’height et de l’AO du maillage de photogrammétrie sur le maillage décimé. Cela assurera le transfert de tous les détails de maillage perdus lors de la décimation dans des cartes de texture.
 
 ![](../assets/3d-capture-original-version-post-processing.png)
 
@@ -196,7 +196,7 @@ L&#39;étape de post-traitement enchaîne automatiquement 4 étapes:
 
 Pour itérer et tester facilement différentes options de post-traitement, vous pouvez créer plusieurs versions et sélectionner celle à ajouter à votre projet.
 
-Pour vous aider, vous pouvez visualiser le filet dans différents modes.
+Pour vous aider, vous pouvez visualiser le maillage dans différents modes.
 
 Mode solide
 
@@ -206,7 +206,7 @@ mode structure filaire
 
 ![](../assets/3d-capture-post-processing-wireframe.png)
 
-Mode Grille UV
+mode UV
 
 ![](../assets/3d-capture-post-processing-uv-grid.png)
 
@@ -218,17 +218,17 @@ Lorsqu’une version est ajoutée au projet, une pile de calques est créée ave
 
 La première couche est le résultat de la reconstruction.
 
-Le deuxième calque (si vous avez effectué un post-traitement) est le calque de post-traitement du maillage avec les valeurs définies dans la fenêtre capture 3D. Vous pouvez toujours modifier les paramètres à cette étape si vous souhaitez utiliser d’autres paramètres.
+Le deuxième calque (si vous avez effectué un post-traitement) est le calque de post-traitement par maillage avec les valeurs définies dans la fenêtre capture 3D. Vous pouvez toujours modifier les paramètres à cette étape si vous souhaitez utiliser d’autres paramètres.
 
-Le troisième calque est un calque de transformation de maillage pour mettre à l’échelle, traduire et faire pivoter votre objet 3D.
+Le troisième calque est un calque de transforme de maillage pour mettre à l’échelle, translater et faire pivoter votre objet 3D.
 
-À ce stade, vous pouvez ajouter les filtres utilisés pour appliquer des matières afin de modifier les textures de l’objet 3D.
+À ce stade, vous pouvez ajouter les filtres à appliquer aux matériaux pour modifier les textures de l’objet 3D.
 
 ![](../assets/main-window-texturing.png)
 
 ## Exporter
 
-Dans la fenêtre d&#39;exportation, vous pouvez définir le format de maillage et les paramètres de matière (les mêmes paramètres lorsque vous exportez une matière).
+Dans la fenêtre d’exportation, vous pouvez définir le format de maillage et les paramètres de matériau (les mêmes paramètres que lors de l’exportation d’un matériau).
 
 ![](../assets/main-window-export.png)
 
@@ -244,9 +244,9 @@ Pour que la photogrammétrie produise des résultats précis, il est important d
 
 1. Éclairage : la photogrammétrie fonctionne mieux lorsque les images sont capturées dans de bonnes conditions d’éclairage. Évitez de prendre des images dans un environnement faiblement éclairé ou à fort contraste, car il peut être difficile d’extraire avec précision les caractéristiques des images. Les meilleures conditions d’éclairage pour la photogrammétrie sont les jours nuageux ou les zones ombragées.
 1. Chevauchement : pour vous assurer qu’il y a suffisamment d’informations dans les images pour extraire avec précision les caractéristiques, il est important de capturer des images avec un chevauchement important. En règle générale, au moins 60 % des images se chevauchent, horizontalement et verticalement.
-1. Appareil photo : utilisez un appareil photo et un objectif haute résolution qui offrent une bonne qualité d’image et une bonne netteté. Évitez d’utiliser des appareils photo équipés d’un objectif grand-angle ou fish-eye, car cela peut provoquer des distorsions géométriques susceptibles d’affecter le résultat final.
-1. Orientation : lors de la prise de vue, essayez de maintenir l’appareil photo de niveau et perpendiculaire au sol. Les images prises inclinées peuvent compliquer l’extraction précise des fonctions et entraîner des résultats déformés.
-1. Étalonnage de l’appareil photo : assurez-vous que l’appareil photo est étalonné avant de prendre des images. Ce processus permet de corriger la distorsion de l&#39;objectif et d&#39;autres erreurs qui peuvent affecter la précision des résultats finaux.
+1. Caméra : utilisez une caméra et un objectif haute résolution qui offrent une bonne qualité d’image et une grande netteté. Évitez d’utiliser des caméras avec un objectif fish-eye ou un objectif grand-angle, car cela peut provoquer des distorsions géométriques qui peuvent affecter les résultats finaux.
+1. Orientation : lors de la prise de vue, veillez à ce que la caméra soit de niveau et perpendiculaire au sol. Les images prises inclinées peuvent compliquer l’extraction précise des fonctions et entraîner des résultats déformés.
+1. Étalonnage de la caméra : assurez-vous que la caméra est étalonnée avant de prendre des images. Ce processus permet de corriger la distorsion de l&#39;objectif et d&#39;autres erreurs qui peuvent affecter la précision des résultats finaux.
 
 **Comment fonctionne-t-il pour le specular et les objets réfléchissants ?**
 
@@ -259,26 +259,26 @@ La photogrammétrie peut s&#39;avérer difficile lorsque vous travaillez avec de
 
 Gardez à l&#39;esprit que les objets réfléchissants peuvent nécessiter une configuration et des traitements plus élaborés, et qu&#39;il peut ne pas être possible d&#39;obtenir des résultats parfaits dans tous les cas. C&#39;est une bonne idée d&#39;expérimenter différentes techniques.
 
-**Quelle est la recommandation entre un téléphone mobile et un appareil photo reflex numérique pour la photogrammétrie ?**
+**Quelle est la recommandation entre un téléphone mobile et une caméra de reflex numérique pour la photogrammétrie ?**
 
-Les téléphones portables et les appareils photo reflex numériques peuvent être utilisés pour la photogrammétrie, mais ils ont des points forts et des points faibles différents. Voici quelques points à prendre en compte lors du choix du type d’appareil photo à utiliser :
+Les téléphones portables et les caméras reflex numériques peuvent être utilisés pour la photogrammétrie, mais ils ont des points forts et des points faibles différents. Voici quelques points à prendre en compte lors du choix du type de caméra à utiliser :
 
-1. Résolution : les appareils photo reflex numériques ont généralement une résolution beaucoup plus élevée que les téléphones portables, ce qui peut conduire à des résultats plus détaillés et plus précis. Cependant, grâce aux récents progrès réalisés dans les appareils photo pour téléphones portables, certains appareils photo haut de gamme ont une résolution et une qualité d’image comparables à celles de certains appareils photo reflex numériques bas de gamme.
-1. Calibration de l’appareil photo : la photogrammétrie repose sur un calibrage précis de l’appareil photo, qui est généralement plus difficile à réaliser avec des appareils photo de téléphone mobile qu’avec des appareils photo reflex numériques. Certains appareils photo de téléphone portable intègrent des paramètres de calibration que vous pouvez utiliser, mais ils peuvent ne pas être aussi précis qu’un étalonnage correct d’un appareil photo reflex numérique.
-1. Autonomie de la batterie et stockage : les appareils photo pour téléphones portables ont une autonomie de batterie plus limitée que les appareils photo pour reflex numériques. Par conséquent, vous devrez prévoir de charger le téléphone ou de transporter des batteries supplémentaires pendant que vous travaillez. En outre, vous devez vous assurer que le téléphone dispose d’une capacité de stockage suffisante pour traiter des fichiers image volumineux.
-1. Coût : Les appareils photo reflex numériques sont généralement plus chers que les téléphones portables, et ils nécessitent également des accessoires supplémentaires, tels que des trépieds et des flashes externes.
-1. Portabilité : Un téléphone portable est plus portable qu&#39;un appareil photo reflex numérique, et il est plus probable que vous ayez votre téléphone avec vous lorsque vous tombez sur un objet ou une scène intéressant que vous souhaitez capturer pour la photogrammétrie.
+1. Résolution : les caméras de reflex numériques ont généralement une résolution beaucoup plus élevée que les téléphones portables, ce qui peut conduire à des résultats plus détaillés et plus précis. Cependant, avec les récents progrès dans la caméra de téléphones portables, certaines caméras haut de gamme de téléphones portables ont une résolution et une qualité d&#39;image comparables à certaines caméras DSLR bas de gamme.
+1. Calibration de la caméra : la photogrammétrie repose sur un calibrage précis de la caméra, qui est généralement plus difficile à réaliser avec des caméras de téléphone mobile qu&#39;avec des caméras de reflex numérique. Certaines caméras de téléphone portable ont des paramètres d’étalonnage intégrés que vous pouvez utiliser, mais ils peuvent ne pas être aussi précis qu’un étalonnage approprié d’une caméra de reflex numérique.
+1. Autonomie de la batterie et stockage : les caméras de téléphonie mobile ont une autonomie de batterie plus limitée que les caméras de reflex numériques. Par conséquent, vous devrez prévoir de charger le téléphone ou de transporter des batteries supplémentaires pendant que vous travaillez. En outre, vous devez vous assurer que le téléphone dispose d’une capacité de stockage suffisante pour traiter des fichiers image volumineux.
+1. Coût : Les caméras reflex numériques sont généralement plus chères que les téléphones portables, et elles nécessitent également des accessoires supplémentaires, tels que des trépieds et des flashes externes.
+1. Portabilité : Un téléphone portable est plus portable qu&#39;une caméra reflex numérique, et il est plus probable que vous ayez votre téléphone avec vous lorsque vous tombez sur un objet ou une scène intéressante que vous voulez capturer pour la photogrammétrie.
 
-En résumé, cela dépend vraiment de vos besoins spécifiques et des caractéristiques du projet. Pour les projets de faible résolution, un téléphone mobile peut suffire. Cependant, si une haute précision et une haute résolution sont nécessaires, un appareil photo reflex numérique peut être un meilleur choix. De plus, si vous prévoyez de prendre des photos sur une base régulière ou pour un projet à long terme, investir dans un appareil photo reflex numérique peut être une solution plus rentable à long terme.
+En résumé, cela dépend vraiment de vos besoins spécifiques et des caractéristiques du projet. Pour les projets de faible résolution, un téléphone mobile peut suffire. Cependant, si une haute précision et une haute résolution sont nécessaires, une caméra DSLR peut être un meilleur choix. De plus, si vous prévoyez de prendre des photos sur une base régulière ou pour un projet à long terme, investir dans une caméra de reflex numériques peut être une solution plus rentable à long terme.
 
-**Comment étalonner mon appareil photo pour limiter le flou sur mon objet ?**
+**Comment étalonner ma caméra pour limiter le flou sur mon objet ?**
 
-L’étalonnage de l’appareil photo est une étape importante du processus de photogrammétrie. Il permet de corriger la distorsion de l’objectif et d’autres erreurs qui peuvent affecter la précision des résultats finaux. Voici quelques étapes que vous pouvez suivre pour étalonner votre appareil photo et limiter le flou sur votre objet :
+L&#39;étalonnage de la caméra est une étape importante du processus de photogrammétrie qui permet de corriger la distorsion de l&#39;objectif et d&#39;autres erreurs qui peuvent affecter la précision des résultats finaux. Voici quelques étapes que vous pouvez suivre pour étalonner votre caméra et limiter le flou sur votre objet :
 
-1. Utiliser un trépied : pour maintenir la stabilité de l&#39;appareil photo et réduire le flou, il est important d&#39;utiliser un trépied lors de la capture d&#39;images pour la photogrammétrie. Cela permettra de s’assurer que la caméra est dans la même position pour chaque prise de vue et contribuera à réduire le mouvement de la caméra.
-1. Utiliser un déclencheur à distance : pour réduire davantage le mouvement de l’appareil photo, vous pouvez utiliser un déclencheur à distance ou une fonction d’retardateur sur l’appareil photo pour prendre les images. Cela permettra de minimiser les tremblements de l’appareil photo causés par l’appui sur le bouton de l’obturateur.
-1. Régler la vitesse d’obturation : pour réduire le flou causé par le mouvement de l’appareil photo, vous devez utiliser une vitesse d’obturation rapide. Une règle générale est d&#39;utiliser une vitesse d&#39;obturation au moins aussi rapide que l&#39;inverse de la distance focale de la lentille. Par exemple, si vous utilisez un objectif de 50 mm, vous devez utiliser une vitesse d’obturation d’au moins 1/50e de seconde.
-1. Utilisez une sensibilité ISO élevée : dans des conditions de faible luminosité, vous devrez peut-être utiliser une sensibilité ISO plus élevée pour maintenir une vitesse d’obturation rapide et réduire le flou. Cependant, gardez à l’esprit qu’une sensibilité ISO élevée peut également augmenter le bruit dans l’image, ce qui peut affecter la précision des résultats finaux.
+1. Utiliser un trépied : pour stabiliser la caméra et réduire le flou, il est important d’utiliser un trépied lors de la capture d’images pour la photogrammétrie. Cela permettra de s’assurer que la caméra est dans la même position pour chaque prise de vue et contribuera à minimiser le mouvement de la caméra.
+1. Utiliser un déclencheur à distance : pour réduire davantage le mouvement de la caméra, vous pouvez utiliser un déclencheur à distance ou une fonction d’retardateur sur la caméra pour prendre les images. Cela aidera à minimiser tout tremblement de la caméra causé par l’appui sur le bouton de l’obturateur.
+1. Régler la vitesse d’obturation : pour réduire le flou causé par le mouvement de la caméra, vous devez utiliser une vitesse d’obturation rapide. Une règle générale est d&#39;utiliser une vitesse d&#39;obturation au moins aussi rapide que l&#39;inverse de la distance focale de la lentille. Par exemple, si vous utilisez un objectif de 50 mm, vous devez utiliser une vitesse d’obturation d’au moins 1/50e de seconde.
+1. Utilisez une sensibilité ISO élevée : dans des conditions de faible luminosité, vous devrez peut-être utiliser une sensibilité ISO plus élevée pour maintenir une vitesse d’obturation rapide et réduire le flou. Cependant, gardez à l’esprit qu’une sensibilité ISO élevée peut également augmenter le bruit de l’image, ce qui peut affecter la précision des résultats finaux.
 1. Utiliser un flash : dans certaines situations, l’utilisation d’un flash peut aider à réduire le flou causé par une faible luminosité. Gardez à l’esprit que le flash peut également provoquer des reflets et d’autres problèmes dans certains cas. N’oubliez donc pas de tester des prises de vue Flash et non Flash pour voir lesquelles fonctionnent le mieux pour votre application spécifique.
 
 Rappelez-vous que l&#39;étalonnage est un processus itératif et peut nécessiter de multiples tentatives pour obtenir de bons résultats.

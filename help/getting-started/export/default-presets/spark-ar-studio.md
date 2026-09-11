@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
 breadcrumb-title: ''
-description: Apprenez à exporter des matériaux à partir de Substance 3D Sampler à l’aide du paramètre prédéfini Spark AR Studio pour les workflows de réalité augmentée.
+description: Découvrez comment exporter des matériaux depuis Substance 3D Sampler à l’aide du paramètre prédéfini Spark AR Studio pour les workflows de réalité augmentée.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Spark AR Studio
 helpx_experience_level: ""
@@ -24,4 +24,4 @@ ht-degree: 3%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Spark AR Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Couleur** :<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong> : couleur de base</li><li data-preserve-html="true"><strong>A</strong> : Opacité</li></ul>**ORM** :<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Occlusion ambiante</li><li data-preserve-html="true"><strong>G</strong> : Rugosité</li><li data-preserve-html="true"><strong>B</strong> : Métallique</li></ul>**Normal** (OpenGL)**Émissif** |
+| Spark AR Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Couleur** :<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong> : Base color</li><li data-preserve-html="true"><strong>A</strong> : Opacité</li></ul>**ORM** :<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Ambient occlusion</li><li data-preserve-html="true"><strong>G</strong> : Rugosité</li><li data-preserve-html="true"><strong>B</strong> : Métallique</li></ul>**Normal** (OpenGL)**Emissive** |

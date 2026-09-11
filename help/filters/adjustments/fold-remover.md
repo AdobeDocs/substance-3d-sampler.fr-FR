@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Suppression de plis de Substance 3D Sampler pour supprimer les plis et les plis des textures du tissu afin de nettoyer les surfaces des matériaux.
+description: Utilisez le filtre Suppresseur de plis de Substance 3D Sampler pour supprimer les plis et les plis des textures de tissu afin de nettoyer les surfaces de matériau.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Description
 
-Éliminez rapidement les plis et les rides des tissus.
+Supprimez rapidement les plis et les rides des matériaux en tissu.
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ ht-degree: 1%
 <b>Paramètres de base</b>
 
 * <b>Mosaïque d&#39;entrée</b> : basculer\
-  Activez ce paramètre pour vous assurer que ce filtre ne casse pas les matériaux de mosaïque.
+  Activez ce paramètre pour vous assurer que ce filtre ne rompt pas les matériaux de répétition.
 * <b>Rayon</b> : 0-50\
   Réglez le rayon pour contrôler la taille des plis que le filtre tente de réduire. Un rayon faible lisse les détails les plus fins.
 * <b>Détails locaux</b> : 0-1\

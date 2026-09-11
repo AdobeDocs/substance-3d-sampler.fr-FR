@@ -24,7 +24,7 @@ Chaque panneau de Sampler est dédié à un objectif spécifique. Par défaut, s
 
 * **Panneau Projet** : vous permet de gérer les ressources dans le projet actuellement ouvert.
 * **Panneau Actifs** : contient du contenu de démarrage et d’autres bibliothèques d’actifs que vous pouvez utiliser pour créer vos actifs.
-* **Panneau Calques** : affiche la pile de calques de l’actif sélectionné.
+* **Panneau Calques** : affiche la pile de calques de la ressource sélectionnée.
 * **Panneau Propriétés** : affiche les propriétés et les paramètres du calque actuellement sélectionné : les **panneaux Calques** et **Propriétés** sont utilisés ensemble
 
 Ces panneaux sont le plus souvent utilisés dans le processus de création de ressources.

@@ -28,7 +28,7 @@ Cette page regroupe les questions ou problèmes courants connus liés à Substan
 
 ## Problèmes de filtre
 
-* [Image vers matériau et Delighter sont manquants](filter-issues/image-to-material-and-delighter-are-missing.md)
+* [L’image au Matériau et Delighter sont absentes](filter-issues/image-to-material-and-delighter-are-missing.md)
 
 ## Problèmes d’interface
 
@@ -42,10 +42,10 @@ Cette page regroupe les questions ou problèmes courants connus liés à Substan
 
 ## Problèmes de stabilité
 
-* [Blocage lors de l’exportation d’un matériau](stability-issues/crash-when-exporting-a-material.md)
-* [Blocage lors de l’utilisation de l’image dans Material ou Delighter](stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
+* [Crash lors de l’exportation d’un matériau](stability-issues/crash-when-exporting-a-material.md)
+* [Crash lors de l’utilisation de l’image pour créer un Matériau ou un effet Délicieux](stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
 
 ## Problèmes de démarrage
 
 * [L&#39;application ne démarre pas sous Linux](startup-issues/application-doesn-t-start-on-linux.md)
-* [Blocage au démarrage - Ancienne version d’OBS](startup-issues/crash-at-start-up-old-obs-version.md)
+* [Crash au démarrage - Ancienne version OBS](startup-issues/crash-at-start-up-old-obs-version.md)

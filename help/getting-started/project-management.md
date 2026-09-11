@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/project-management.html"
 breadcrumb-title: ''
-description: Découvrez comment gérer des projets dans Substance 3D Sampler à l’aide de collections pour organiser les ressources et les matières afin de garantir des workflows efficaces.
+description: Découvrez comment gérer des projets dans Substance 3D Sampler à l’aide de collections pour organiser les actifs et les matériaux afin de garantir des workflows efficaces.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Manage your project
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Gestion des projets
 
-Dans Substance 3D Sampler, vous pouvez utiliser les collections pour gérer tous vos actifs et matières. Les projets sont un bon moyen d’organiser vos matériaux. Un projet peut être exporté ou importé pour être facilement partagé entre plusieurs ordinateurs.
+Dans Substance 3D Sampler, vous pouvez utiliser les collections pour gérer tous vos actifs et matériaux. Les projets sont un bon moyen d’organiser vos matériaux. Un projet peut être exporté ou importé pour être facilement partagé entre plusieurs ordinateurs.
 
 ## Créer un nouveau projet
 
@@ -38,7 +38,7 @@ Après avoir cliqué sur le bouton « Créer », le projet s’ouvre automatique
 
 Pour enregistrer un projet, utilisez l&#39;action de menu <b>Fichier > Enregistrer </b> ou <b>Enregistrer sous</b>. Une boîte de dialogue s’ouvre alors pour vous permettre de choisir le nom à utiliser et l’emplacement d’enregistrement des fichiers de projet.
 
-Vous pouvez également utiliser le raccourci <b>Ctrl + S</b> pour <b>Enregistrer</b> ou <b>Ctrl + Maj + S</b> pour <b>Enregistrer sous</b>.
+Vous pouvez également utiliser raccourci <b>Ctrl + S</b> pour <b>enregistrer</b> ou <b>Ctrl + Maj + S</b> pour <b>enregistrer sous</b>.
 
 Les projets enregistrés apparaissent sous la forme d&#39;un fichier nommé <b>YourProject.ssa</b>. SSA est un format de fichier d’échantillonnage qui stocke des informations sur votre projet et ses éventuelles dépendances.
 

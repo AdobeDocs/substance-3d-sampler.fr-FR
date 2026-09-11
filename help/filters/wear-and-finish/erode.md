@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/erode.html"
 breadcrumb-title: ''
-description: Utilisez le Filtre Érosion de Substance 3D Sampler pour ajouter des effets d’érosion et d’altération qui simulent la dégradation naturelle des matériaux.
+description: Utilisez le Filtre Érosion de Substance 3D Sampler pour ajouter des effets d’érosion et d’altération qui simulent la dégradation naturelle du matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Erode
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Utilisez le **Filtre Érosion** pour éliminer les points élevés de votre matériau.
+Utilisez le **Filtre Érosion** pour atténuer les hautes taches sur votre matériau.
 
 Les images ci-dessous montrent comment le **Filtre Érosion** peut être utilisé pour ajouter de l&#39;érosion à un mur de pierre.
 
@@ -73,27 +73,27 @@ Les images ci-dessous montrent comment le **Filtre Érosion** peut être utilis�
 * **Rugosité d&#39;érosion** : 0-0,63\
   Modifiez la rugosité du matériau en raison de l’érosion.
 * **Intensité de l&#39;érosion** : 0-1\
-  Réglez l’intensité de l’effet d’érosion.
+  Réglez la force de l’effet d’érosion.
 * **Intensité De L&#39;Effet De Pluie** : 0-1
 * **Rainures** : 0-1
 * **Rainures Intensité du Dust** : 0-1
 * **Rainures Intensité Scratches** : 0-1\
-  Ajustez l&#39;impact des rainures sur les normales et les cartes d&#39;height.
+  Ajustez l&#39;impact des rainures sur les normales et les maps height.
 * **Densité de grain micro** : 0-1\
   Réglez la densité des rayures de la rainure.
 * **Intensité du quartz** : 0-1\
   Réglez la visibilité des zones de quartz.
-* **Rugosité du quartz** : 0-1\
+* **Rugosité de quartz** : 0-1\
   Réglez la rugosité du quartz.
 * **Variation normale du quartz** : 0-1\
   Modifiez les normales des zones de quartz.
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
   * **Masque personnalisé - Flou** : 0-1\
     Floutez le masque.
   * **Masque personnalisé - Inverser** : activer/désactiver\
     Inversez le masque.
   * **Masque personnalisé - Opacité** : 0-1\
-    Réglez l’intensité du masque personnalisé.
+    Réglez la force du masque personnalisé.

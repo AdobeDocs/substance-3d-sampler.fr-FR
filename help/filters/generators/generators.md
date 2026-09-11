@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser les filtres de générateur dans Substance 3D Sampler pour créer des motifs procéduraux et des bases matérielles.
+description: Apprenez à utiliser les filtres du générateur dans Substance 3D Sampler pour créer des motifs procéduraux et des bases de matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators
 helpx_experience_level: ""
@@ -20,17 +20,17 @@ ht-degree: 4%
 
 # Générateurs
 
-Les générateurs sont des filtres qui apportent une modification additive à votre matière. Les générateurs entraînent souvent une modification substantielle de l’apparence de votre matériau et sont donc régulièrement utilisés pour créer les fondations d’un matériau.
+Les générateurs sont des filtres qui apportent une modification additive à votre matériau. Les générateurs modifient souvent de manière substantielle l’apparence de votre matériau et sont donc régulièrement utilisés pour créer les fondations d’un matériau.
 
 Il existe deux formes principales de générateur :
 
-* La conversion des générateurs convertit le matériau sous-jacent en une nouvelle forme, comme l&#39;utilisation du **filtre de panneau** pour convertir un matériau en acier plat en plusieurs panneaux.
-* L&#39;ajout de générateurs ajoute de nouveaux éléments au-dessus du matériau sous-jacent, tels que le **filtre d&#39;Atlas scatter** qui dispersion des objets à travers un matériau à partir d&#39;un atlas d&#39;entrée.
+* La conversion des générateurs convertit le matériau sous-jacent en un nouveau format, comme l&#39;utilisation du **filtre de panneau** pour convertir un matériau plat en acier en plusieurs panneaux.
+* L&#39;ajout de générateurs ajoute de nouveaux éléments au-dessus du matériau sous-jacent, tels que le **filtre d&#39;Atlas scatter** qui dispersion des objets sur un matériau à partir d&#39;un atlas d&#39;entrée.
 
 Les générateurs de conversion sont les suivants :
 
 * [Brickwall](brickwall.md)
-* [Carreaux de sol](floor-tiles.md)
+* [Carreaux d’Arrondi aux inférieurs](floor-tiles.md)
 * [Panneau](panel.md)
 * [Parquet](parquet.md)
 * [Pavés](pavement.md)

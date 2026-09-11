@@ -25,7 +25,7 @@ ht-degree: 0%
 * Le workflow Sampler avec HP Z Captis est disponible sur Windows uniquement pour le moment.
 
 * La déconnexion physique du périphérique pendant une analyse n’arrête pas la capture. Si le périphérique est déconnecté pendant l’acquisition, patientez 30 secondes avant de le reconnecter afin qu’il puisse se reconnecter à la session d’acquisition en cours.
-* Les cinq textures exportées aujourd’hui sont les suivantes : Couleur de base, Rugosité, Normal, Height et Opacité.
+* Les cinq mappages exportés aujourd’hui sont les suivants : Base color, Rugosité, Normal, Height et Opacité.
 * Lors de la fermeture de la fenêtre au cours d’une capture, les métadonnées renseignées sont perdues.
 * Lorsque vous cliquez sur l&#39;un des boutons « Parcourir le contenu » ou « Arrêter » pendant le transfert des données de Captis via USB, le transfert s&#39;arrête.
 

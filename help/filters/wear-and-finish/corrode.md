@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Le filtre corrode imite l&#39;effet de l&#39;acide dévorant votre matériau, laissant des trous et des dommages à la surface.
+Le filtre corrode imite l&#39;effet de l&#39;acide qui dévore votre matériau, laissant des trous et des dommages à la surface.
 
 </td>
 </tr>
@@ -46,28 +46,28 @@ Le filtre corrode imite l&#39;effet de l&#39;acide dévorant votre matériau, la
 * **Générateur aléatoire** :\
   La valeur de départ aléatoire détermine les valeurs aléatoires des autres paramètres qui utilisent le caractère aléatoire dans ce filtre.
 * **Zones affectées** :\
-  Sélectionnez l&#39;impact de la courbure de la surface sur l&#39;effet du filtre.
+  Sélectionnez l’impact de la courbure de la surface sur l’effet du filtre.
 * **Niveau De Perforation** : 0-1\
   Ajustez le nombre de trous créés.
-* **Position de courbure** : 0-1\
-  Modifiez la plage de courbure à modifier.
-* **Courbure Lisse** : 0-1\
-  Lissez la courbe de référence.
+* **Position De La Courbure** : 0-1\
+  Modifiez la plage de courbures à modifier.
+* **Courbure lisse** : 0-1\
+  Lissez la map curvature.
 * **Distance De Dommage** : 0-1\
   Contrôlez le rayon d&#39;endommagement autour des zones corrodées.
 * **Intensité des dommages** : 0-1\
   Ajustez l&#39;étendue des dommages dans les zones touchées.
 * **Intensité de l&#39;Height** : 0-1\
-  Contrôlez l&#39;impact des dommages sur la carte des heights.
+  Contrôlez l&#39;impact des dommages sur la map height.
 * **Extrusion de position** : basculer\
-  Changez la direction des dommages sur la carte d&#39;height. Lorsque cette option est désactivée, l&#39;endommagement mange la surface. Lorsque cette option est activée, l&#39;endommagement se construit vers l&#39;extérieur à partir de la surface.
+  Changez la direction des dommages sur la map height. Lorsque cette option est désactivée, l&#39;endommagement mange la surface. Lorsque cette option est activée, l&#39;endommagement se construit vers l&#39;extérieur à partir de la surface.
 
 **Masquer**
 
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
   * **Masque personnalisé - Flou** : 0-1\
     Floutez le masque.
   * **Masque personnalisé - Inverser** : activer/désactiver\
@@ -75,21 +75,21 @@ Le filtre corrode imite l&#39;effet de l&#39;acide dévorant votre matériau, la
 
 **Paramètres avancés**
 
-Certains des paramètres avancés ont un impact sur l’ensemble du matériau et non uniquement sur les zones modifiées par ce filtre.
+Certains des paramètres avancés ont une incidence sur l’ensemble du matériau et non uniquement sur les zones modifiées par celui-ci.
 
 * **Luminosité** : 0-1\
-  Réglez la luminosité ou la luminosité de l’ensemble du matériau.
+  Réglez la luminosité ou la luminosité pour le matériau complet.
 * **Contraste** : -1 à 1\
   Réglez le contraste de l’albédo pour le matériau complet.
 * **Décalage de teinte** : 0-1\
-  Décalage de la valeur de teinte des couleurs dans la matière complète.
+  Décalage de la valeur de teinte des couleurs dans le matériau entier.
 * **Saturation** : 0-1\
-  Réglez la saturation de l’ensemble de la matière.
+  Réglez la saturation pour le matériau entier.
 * **Intensité normale** : 0-1\
-  Réglez l&#39;intensité de la carte normale là où elle a été affectée par le **filtre Corrode**.
+  Réglez l&#39;intensité de la map normal là où elle a été affectée par le **filtre Corrode**.
 * **Plage d&#39;Height** : 0-1\
-  Augmentez la plage de valeurs dans la courbe d&#39;height pour l&#39;ensemble du matériau.
+  Augmentez la plage de valeurs dans la map height pour le matériau complet.
 * **Position Height** : 0-1\
-  Décalage de l’height de la matière complète.
-* **Intensité de l&#39;Occlusion ambiante** : 0-1\
-  Ajustez l&#39;intensité de l&#39;impact de l&#39;AO en raison du **filtre Corrode**.
+  Décalage de l’height du matériau complet.
+* **Intensité de l&#39;Ambient occlusion** : 0-1\
+  Ajustez la force de l&#39;impact de l&#39;AO en raison du **filtre Corrode**.

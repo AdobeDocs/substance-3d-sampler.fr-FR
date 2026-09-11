@@ -24,7 +24,7 @@ Date de publication : **2019/05/07**
 
 Ajouté :
 
-* [Moteur] Mise à jour de la Substance Engine de données compatible avec la dernière version de la Substance Designer
+* [Moteur] Mise à jour de la Substance Engine de données compatible avec la dernière version de la Substance Designer de données
 * [Licence] Mise à jour du dossier de licences pour les premières installations
 * [Calques] Rechargez à tout moment votre pile de calques pour mettre à jour vos filtres personnalisés
 
@@ -34,8 +34,8 @@ Fixe :
 
 Problèmes connus :
 
-* L’utilisation de plusieurs charmants dans un même matériau n’est pas recommandée
-* Delighter se bloque avec les anciens pilotes NVIDIA (moins de 400.x)
+* Il n’est pas recommandé d’utiliser plusieurs charmes dans un même matériau
+* Crashs Delighter avec pilotes NVIDIA plus anciens (moins de 400.x)
 * Le basculement rapide de visibilité d’une scène Delighter n’est pas recommandé
 * L’importation d’environnement personnalisée peut devenir noire
 * Les images Tif ne s’affichent pas dans le panneau Propriétés du calque d’importation d’image

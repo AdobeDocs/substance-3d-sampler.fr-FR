@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Description
 
-Redressez l&#39;horizon en déformant votre environnement dans la **vue 2D**.
+Redressez l&#39;horizon en déformant votre environnement dans la **Vue 2D**.
 
 </td>
 </tr>
@@ -44,6 +44,6 @@ Redressez l&#39;horizon en déformant votre environnement dans la **vue 2D**.
 **Paramètres de base**
 
 * **Activer la correction d&#39;horizon** : basculer\
-  Indiquez si vous souhaitez afficher l&#39;horizon corrigé ou afficher une ligne indiquant la ligne d&#39;horizon résultante. Désactivez cette option et ajustez les poignées dans la **vue 2D** pour mieux comprendre comment cet outil déforme l&#39;environnement pour ajuster l&#39;horizon.
+  Indiquez si vous souhaitez afficher l&#39;horizon corrigé ou afficher une ligne indiquant la ligne d&#39;horizon résultante. Désactivez cette option et ajustez les poignées dans la **Vue 2D** pour mieux comprendre comment cet outil déforme l&#39;environnement pour ajuster l&#39;horizon.
 * **Rotation Horizontale** : 0-1\
   Faire pivoter l’environnement. Les résultats de ce paramètre ne sont visibles que si l&#39;option **Activer la correction de l&#39;horizon** est activée.

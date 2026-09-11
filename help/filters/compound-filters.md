@@ -104,11 +104,11 @@ Un filtre composé est un fichier **.ssafilter** qui est un dossier compressé .
 
 ### Version
 
-L’utilisation d’un numéro de version vous permet de suivre vos différentes itérations. Lorsque vous ouvrez une pile de calques terminée avec une version précédente de votre filtre composé, une notification s’affiche pour vous suggérer d’effectuer la mise à niveau vers la dernière version.
+L’utilisation d’un numéro de version vous permet de garder la trace de vos différentes itérations. Lors de l’ouverture d’une pile de calques effectuée avec une version précédente de votre filtre composite, une notification s’affiche pour vous suggérer d’effectuer la mise à niveau vers la dernière version.
 
 ### Nœud
 
-Un nœud peut faire référence à un filtre interne de Substance 3D Sampler. Définissez un identificateur unique **Id** à utiliser pour définir les liens entre les nœuds et le libellé du filtre interne **InternalFilter**
+Un nœud peut faire référence à un filtre interne de Substance 3D Sampler. Définissez un identifiant unique **Id** à utiliser pour définir les liens entre les nœuds et le libellé du filtre interne **InternalFilter**
 
 ```JSON
 { 
@@ -117,7 +117,7 @@ Un nœud peut faire référence à un filtre interne de Substance 3D Sampler. D�
 }
 ```
 
-Un nœud peut faire référence à un fichier SBSAR qui ne se trouve pas dans Substance 3D Sampler. Définissez un identifiant unique **Id** à utiliser pour définir les liens entre les nœuds et le nom de fichier **Fichier** du fichier SBSAR. Le fichier SBSAR doit se trouver dans un dossier **resources** à côté du fichier .alchfilter.
+Un nœud peut faire référence à un Fichier sbsar qui ne se trouve pas dans Substance 3D Sampler. Définissez un identifiant unique **Id** à utiliser pour définir les liens entre les nœuds et le nom de fichier **Fichier** du Fichier sbsar. Le Fichier sbsar doit se trouver dans un dossier **resources** à côté du fichier .alchfilter.
 
 ```JSON
 { 
@@ -143,10 +143,10 @@ Chaque élément possède 3 attributs :
   * définissez l&#39;entrée du filtre composé, l&#39;ID de nœud est **FilterInput**
   * Définissez la sortie de votre calque composé, l&#39;ID de nœud est **FilterOutput**
 * Utilisation : déclarez l’utilisation que vous souhaitez utiliser. Il existe 3 options :
-  * Utilisation unique à la fois et déclarer lien par lien (baseColor, normal, height, ambiguOcclusion, rugosité, métallique, diffuse, specular, brillance, spécularLevel, opacité, émissif, scan1, ...)
+  * Utilisation unique à la fois et déclarer un lien par lien (baseColor, normal, height, ambianteOcclusion, rugosité, métallique, diffusion, specular, brillance, spécularLevel, opacity, emissive, scan1, ...)
   * Vous pouvez également spécifier une liste [« baseColor », « normal »]. Le premier élément de la liste **De** correspondra au premier élément de la liste **À**. etc.
   * Utilisez **\*** pour permettre à Substance 3D Sampler d&#39;effectuer la correspondance entre les utilisations identiques de tous les nœuds De et Au (il n&#39;est pas possible de combiner **\*** avec un autre lien, alors que des liens uniques et des liens de liste sont possibles entre les mêmes nœuds)
-* Groupe : si un nœud a plusieurs fois la même utilisation, vous pouvez utiliser l’attribut Groupe pour sélectionner une utilisation spécifique. c&#39;est-à-dire : pour les filtres de fusion, pour obtenir la baseColor du matériau inférieur, utilisez *Material1* et pour obtenir la baseColor du matériau supérieur, utilisez *Material2*
+* Groupe : si un nœud a plusieurs fois la même utilisation, vous pouvez utiliser l’attribut Groupe pour sélectionner une utilisation spécifique. Exemple : pour les filtres de Fusion, pour obtenir la baseColor du matériau inférieur, utilisez *Matériau 1* et pour obtenir la baseColor du matériau supérieur, utilisez *Matériau 2*
 
 ```JSON
 Link between two nodes  

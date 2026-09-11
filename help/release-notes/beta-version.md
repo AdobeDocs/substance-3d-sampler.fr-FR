@@ -27,9 +27,9 @@ Cette page contient les journaux de modifications des versions bêta de Sampler.
 >Les versions bêta de Sampler ne sont pas toujours disponibles. Pour savoir quand les futures versions bêta seront publiées, suivez les réseaux sociaux de Substance 3D.
 
 
-## 4.4.0 Beta - Texture
+## 4.4.0 Beta - Du texte à la Texture
 
-Nous présentons l’outil Texte en texture optimisé par l’Adobe Firefly, une nouvelle façon pour les artistes d’obtenir des images de texture à l’aide d’une simple description. Cette nouvelle fonctionnalité élargit la palette d’outils de l’artiste au-delà de l’importation de photographies personnalisées ou libres de droits en offrant un moyen de générer des textures directement dans Sampler. Toutes les images de texte à texture sont carrées et mosaïquées avec une perspective appropriée, prêtes pour le workflow de création de matériaux.
+Nous présentons l’outil Texte en Texture optimisé par l’Adobe Firefly, une nouvelle façon pour les artistes de se procurer des images de texture à l’aide d’une simple description. Cette nouvelle fonctionnalité élargit la palette d’outils de l’artiste au-delà de l’importation de photos personnalisées ou libres de droits en offrant un moyen de générer des textures directement dans Sampler. Toutes les images de texte à Texture sont carrées et juxtaposables avec une perspective appropriée, prêtes pour le workflow de création de matériau.
 
 ![](../assets/wood-ui.png)
 
@@ -41,7 +41,7 @@ Nous présentons l’outil Texte en texture optimisé par l’Adobe Firefly, une
 
 * [Application] Icône d’application incorrecte dans la barre des tâches Windows
 * [Application] Les panneaux apparaissent devant les fenêtres contextuelles
-* [IA générative] Blocages possibles lors de la réception de résultats inattendus du service
+* [IA générative] crashs possibles lors de la réception de résultats inattendus du service
 
 <b>Fondue Beta 4.4.0</b>
 

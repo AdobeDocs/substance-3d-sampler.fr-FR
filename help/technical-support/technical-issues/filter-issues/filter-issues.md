@@ -20,5 +20,5 @@ ht-degree: 0%
 
 # Problèmes de filtre
 
-* [Image vers matériau et Delighter sont manquants](image-to-material-and-delighter-are-missing.md)
-* [Résultats de la transformation de l’image en matière violette](image-to-material-visual-artefacts.md)
+* [L’image au Matériau et Delighter sont absentes](image-to-material-and-delighter-are-missing.md)
+* [Image en Matériau violet](image-to-material-visual-artefacts.md)

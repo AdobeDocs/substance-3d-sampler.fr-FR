@@ -26,17 +26,17 @@ Dans le panneau Métadonnées, vous pouvez accéder aux métadonnées de votre r
 
 <b>Nom</b> : nom de la ressource.
 
-<b>Description</b> : description de votre ressource ou description intégrée dans la matière de la Substance
+<b>Description</b> : description de votre ressource ou description intégrée dans le matériau de Substance
 
 <b>Catégorie</b> : catégorie de votre ressource ou catégorie intégrée dans le matériau de Substance
 
-<b>Auteur</b> : auteur de votre ressource ou auteur intégré dans le matériel de Substance. Par défaut, le nom de l’auteur est le nom de votre compte de système d’exploitation.
+<b>Auteur</b> : auteur de votre ressource ou auteur intégré dans le matériau de Substance. Par défaut, le nom de l’auteur est le nom de votre compte de système d’exploitation.
 
 <b>Date de création</b> : date de création de votre ressource dans Sampler ou date d’importation dans Sampler. (Ce champ ne peut pas être modifié)
 
 <b>Date de mise à jour</b> : date de la dernière mise à jour de votre ressource. (Ce champ ne peut pas être modifié)
 
-<b>Étiquettes</b> : étiquettes de votre ressource ou étiquettes intégrées dans le matériau de Substance.
+<b>Balises</b> : balises de votre ressource ou balises intégrées dans le matériau de Substance.
 
 <b>Taille physique</b> : taille X, Y et Z de votre ressource.
 
@@ -44,7 +44,7 @@ Dans le panneau Métadonnées, vous pouvez accéder aux métadonnées de votre r
 
 ## Métadonnées personnalisées
 
-Toutes les métadonnées personnalisées seront incluses dans le fichier de matériaux (SBSAR) afin d’assurer un workflow plus efficace pour le partage de matériaux numériques entre les applications.
+Toutes les métadonnées personnalisées seront incluses dans le fichier de matériau (SBSAR) afin d’assurer un workflow plus efficace pour le partage de matériaux numériques entre les applications.
 
 ![](../../assets/Metadata-panel-Custom.png){width="350px"}
 

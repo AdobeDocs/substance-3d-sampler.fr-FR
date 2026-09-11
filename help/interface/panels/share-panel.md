@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/share-panel.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser le panneau Exportation de Substance 3D Sampler pour exporter des matériaux sous forme de fichiers ou les envoyer directement à d’autres applications.
+description: Apprenez à utiliser le panneau Exporter de Substance 3D Sampler pour exporter des matériaux sous forme de fichiers ou les envoyer directement à d’autres applications.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Export panel
 helpx_experience_level: ""
@@ -29,29 +29,29 @@ Les options Envoyer vers... vous permettent d’envoyer directement votre fichie
 Actuellement, Sampler prend en charge l’envoi à :
 
 * **Substance 3D Painter** : importez des matériaux et des environnements que vous pouvez utiliser lors de la texturation de vos actifs.
-* **Substance 3D Stager** : importe les éclairages de l’environnement pour changer l’ambiance de votre scène. Disponible uniquement avec les éclairages de l’environnement, désactivé pour les matériaux.
+* **Substance 3D Stager** : importe des éclairages d&#39;environnement pour changer l&#39;ambiance de votre scène. Disponible uniquement avec les éclairages d&#39;environnement, désactivé pour les matériaux.
 
-Les matériaux sont toujours envoyés comme SBSAR, les environnements comme EXR.
+Les matériaux sont toujours envoyés en SBSAR, les environnements en EXR.
 
 ## Exporter
 
-Cliquez sur **Exporter sous...** pour exporter la ressource sur laquelle vous travaillez actuellement. Choisissez de modifier les paramètres généraux ou les paramètres de matière dans le menu de gauche.
+Cliquez sur **Exporter sous...** pour exporter la ressource sur laquelle vous travaillez actuellement. Choisissez de modifier les paramètres généraux ou les paramètres de Matériau dans le menu de gauche.
 
 ### Paramètres généraux
 
-Lorsque les paramètres généraux sont sélectionnés, vous pouvez modifier le nom de la matière et l’emplacement d’enregistrement. Vous pouvez également choisir de créer ou non un sous-dossier pour le matériau. Cela peut être utile lors de l’exportation dans un format d’image qui crée plusieurs fichiers.
+Lorsque l’option Paramètres généraux est sélectionnée, vous pouvez modifier le nom du matériau et l’emplacement d’enregistrement. Vous pouvez également choisir de créer ou non un sous-dossier pour le matériau. Cela peut être utile lors de l’exportation dans un format d’image qui crée plusieurs fichiers.
 
 ### Paramètres de matériau
 
-Lorsque les paramètres de matière sont sélectionnés, vous pouvez modifier différents paramètres pour contrôler la manière dont la matière sera exportée :
+Lorsque les paramètres de Matériau sont sélectionnés, vous pouvez modifier différents paramètres pour contrôler la façon dont le matériau sera exporté :
 
 | Paramètre | Description |
 | --- | --- |
-| Format | Choisissez d’exporter l’image sous forme de fichier SBS, SBSAR ou sous forme de collection d’images dans un format d’image spécifique |
+| Format | Choisissez d’exporter l’image sous forme de fichier SBS ou SBSAR, ou sous forme de collection d’images dans un format d’image spécifique |
 | Paramètre prédéfini | Sélectionnez un paramètre prédéfini pour organiser automatiquement votre exportation pour une application spécifique. [Plus d&#39;informations sur les paramètres prédéfinis sont disponibles ici](../../getting-started/export/default-presets/default-presets.md). Les paramètres prédéfinis ne sont disponibles que lorsqu’un format d’image est sélectionné. |
 | Compression | Choisir si la compression privilégie la vitesse ou l&#39;efficacité <br> <ul> <li> **Auto** : permet à Sampler de choisir. <li> **Idéal** : optimisez l’efficacité de la compression pour les fichiers de petite taille. <li> **Aucune** : l’absence de compression signifie une ouverture et une fermeture plus rapides des fichiers exportés, mais des fichiers plus volumineux. </ul> |
 | Résolution | Modifiez la résolution de votre exportation. Cette option s&#39;affiche différemment en fonction du format sélectionné <br> <ul> <li> **SBSAR/SBS** : sélectionnez une largeur et un height par défaut pour le matériau. Elles peuvent être mises à jour ultérieurement. <li> **Format d&#39;image** : choisissez entre **Sortie des calques** qui exporte chaque mappage à la taille définie par la pile de calques, ou **Remplacer tout** qui vous permet de spécifier une largeur et un height pour l&#39;exportation. |
-| Modèle de matériau | Indiquez si vous souhaitez exporter en tant que matériau Adobe Standard ou en tant que matériau OpenPBR. L’option à sélectionner doit dépendre des autres applications que vous utilisez dans votre pipeline. Différents canaux seront disponibles en fonction du Modèle de matériau. |
+| Modèle de matériau | Indiquez si vous souhaitez exporter en tant qu’Adobe Standard Material ou en tant qu’OpenPBR. L’option à sélectionner doit dépendre des autres applications que vous utilisez dans votre pipeline. Différents canaux seront disponibles en fonction du Modèle de matériau. |
 | Canaux | Activez/désactivez les canaux à exporter dans le cadre de votre ressource. |
 
 >[!NOTE]

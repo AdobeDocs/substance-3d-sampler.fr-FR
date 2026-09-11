@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## Description
 
-Convertissez votre matière en métal avec un certain nombre de finitions et de styles.
+Convertissez votre matériau en métal avec un certain nombre de finitions et de styles.
 
-*Une matière métallique brute est convertie en surface métallique brossée avec le filtre **Metal Finish***.
+*Un matériau en métal brut est converti en une surface métallique brossée avec le filtre **Metal Finish***.
 
 <table>
 <tr style="border: 0;">
@@ -62,8 +62,8 @@ Convertissez votre matière en métal avec un certain nombre de finitions et de 
 
 * **Générateur aléatoire** :\
   La valeur de départ aléatoire détermine les valeurs aléatoires des autres paramètres qui utilisent le caractère aléatoire dans ce filtre.
-* **Modification uniquement métallique** : activer/désactiver\
-  Lorsqu’il est activé, ce filtre limite ses modifications à la couche métallique.
+* **Modification Métallique uniquement** : basculer\
+  Lorsqu’il est activé, ce filtre limite ses modifications au canal métallique.
 * **Mode colorimétrique Metal** :\
   Sélectionnez une couleur basée sur un métal existant ou choisissez la vôtre. Avec l&#39;option **Couleur personnalisée** sélectionnée, le contrôle suivant s&#39;affiche :
   * **Couleur métallique** : sélection de couleur\
@@ -75,15 +75,15 @@ Convertissez votre matière en métal avec un certain nombre de finitions et de 
   * **Échelle** : 0-1\
     Modifiez l’échelle du motif pilotant la finition choisie.
   * **Rugosité** : 0-1\
-    Contrôlez la valeur de la rugosité du métal.
+    Contrôlez la valeur de rugosité du métal.
   * **Échelle Beads** : 0-1\
     Disponible pour **Sandblasted**. Définissez la taille des perles utilisées pour créer l’effet sablage.
   * **Poli** : 0-1\
-    Disponible pour **Cast**. Réglez la quantité de polissage qui lisse les parties supérieures du matériau.
+    Disponible pour **Convertir**. Réglez la quantité de polissage qui lisse les parties supérieures du matériau.
   * **Motif** :\
     Disponible pour **Grinded**. Définissez le motif utilisé par le broyeur.
   * **Détails du Relief** : 0-1\
-    Disponible pour **Raw**. Réglez l’intensité normale.
+    Disponible pour **Raw**. Réglez la force normale.
   * **Orientation** : 0-1\
     Disponible pour **Formé**. Modifiez la direction de l’effet de pinceau.
   * **Longueur du pinceau** : 0-1\
@@ -96,7 +96,7 @@ Convertissez votre matière en métal avec un certain nombre de finitions et de 
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
   * **Masque personnalisé - Flou** : 0-1\
     Floutez le masque.
   * **Masque personnalisé - Inverser** : activer/désactiver\
@@ -104,12 +104,12 @@ Convertissez votre matière en métal avec un certain nombre de finitions et de 
 
 **Paramètres avancés**
 
-* **Couleur de base** : activer/désactiver\
-  Indique si la couche de couleur de base est affectée par le filtre.
+* **Base color** : activer/désactiver\
+  Définissez si le canal de base color est affecté par le filtre.
 * **Métallique** : activer/désactiver\
-  Indiquez si le canal métallique est affecté par le filtre.
+  Définissez si la couche métallique est affectée par le filtre.
 * **Rugosité** : activer/désactiver\
-  Définissez si la couche de rugosité est affectée par le filtre.
+  Définissez si le canal de rugosité est affecté par le filtre.
 * **Specular level** : activer/désactiver\
   Détermine si la couche de specular level est affectée par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
   * **Specular level** **- Valeur** : 0-1\
@@ -122,18 +122,18 @@ Convertissez votre matière en métal avec un certain nombre de finitions et de 
 * **Normal** : activer/désactiver\
   Indique si le canal normal est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
   * **Intensité normale** : 0-1\
-    Réglez l’intensité de la modification normale à l’aide du filtre.
+    Réglez la force de la modification normale à l’aide du filtre.
 * **Height** : activer/désactiver\
   Définissez si le canal d’height est affecté par le filtre.
-* **Émissif** : activer/désactiver\
-  Définissez si le canal émissif est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
-  * **Émissif - Couleur** : sélection de couleur\
-    Définissez la couleur du canal émissif.
-* **Occlusion ambiante** : activer/désactiver\
-  Définissez si le canal d’occlusion ambiante est affecté par le filtre. Si cette option est activée, les commandes supplémentaires suivantes apparaissent :
-  * **Occlusion ambiante - Intensité** : 0-1\
-    Réglez l’intensité de l’AO généré.
-  * **Occlusion ambiante** **- Rayon** : 0-1\
+* **Emissive** : activer/désactiver\
+  Définissez si le canal d’emissive est affecté par le filtre. Si cette option est activée, une commande supplémentaire apparaît :
+  * **Emissive - Couleur** : sélection de la couleur\
+    Définissez la couleur de la couche emissive.
+* **Ambient occlusion** : activer/désactiver\
+  Définissez si le canal d’ambient occlusion est affecté par le filtre. Si cette option est activée, les commandes supplémentaires suivantes apparaissent :
+  * **Ambient occlusion - Intensité** : 0-1\
+    Réglez la force de l’AO généré.
+  * **Ambient occlusion** **- Rayon** : 0-1\
     Réglez le rayon de l’effet AOP.
 * **Opacité** : activer/désactiver\
   Définissez si la couche d’opacité est affectée par le filtre. Si cette option est activée, une commande supplémentaire apparaît :

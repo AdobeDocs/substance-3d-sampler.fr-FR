@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/home.html"
 breadcrumb-title: ''
-description: Commencez avec Substance 3D Sampler à créer des matériaux à partir d’images, à modifier les éclairages de l’environnement et à créer des bibliothèques de matériaux.
+description: Commencez avec Substance 3D Sampler à créer des matériaux à partir d’images, à modifier des éclairages d'environnement et à créer des bibliothèques de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler
 helpx_experience_level: ""
@@ -26,9 +26,9 @@ ht-degree: 12%
 
 <b>Substance 3D Sampler </b> vous permet de créer des jumeaux numériques de vos ressources physiques.
 
-Grâce à ce <b>logiciel de numérisation tout-en-un</b> accessible, capturez, traitez et améliorez vos matériaux, modèles et éclairages à l&#39;aide de puissants outils.
+Grâce à ce <b>logiciel de numérisation tout-en-un</b> accessible, capturez, traitez et améliorez vos matériaux, vos maquettes et vos éclairages à l&#39;aide d&#39;outils puissants.
 
-Associez différentes technologies et méthodes de création pour obtenir des matériaux numériques précis et les exporter pour les utiliser dans d’autres applications 3D de Substance ou tierces.
+Associez différentes technologies et méthodes de création pour créer des matériaux numériques précis, puis exportez-les pour les utiliser dans d’autres applications 3D de Substance ou tierces.
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
@@ -56,7 +56,7 @@ Associez différentes technologies et méthodes de création pour obtenir des ma
 * [Actions rapides](features-and-workflows/quick-actions.md)
 * [HP Z Captis](pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
 * [Signaler un bogue](getting-started/report-a-bug.md)
-* [Gestion de projet](getting-started/project-management.md) : utilisez les collections pour gérer vos actifs et vos matières.
+* [Gestion de projet](getting-started/project-management.md) : utilisez les collections pour gérer vos actifs et vos matériaux.
 * [Exporter](getting-started/export/export.md)
 
 </td>
@@ -65,7 +65,7 @@ Associez différentes technologies et méthodes de création pour obtenir des ma
 ### Interface
 
 * [Écran d’accueil](interface/the-home-screen.md)
-* [Fenêtre d’affichage 2D et 3D](interface/2d-and-3d-viewport.md)
+* [viewport 2D et 3D](interface/2d-and-3d-viewport.md)
 * [Barres latérales](interface/sidebars.md)
 * [Panneaux](interface/panels/panels.md)
 * [Outils et widgets](interface/tools-and-widgets/tools-and-widgets.md)
@@ -76,7 +76,7 @@ Associez différentes technologies et méthodes de création pour obtenir des ma
 
 ### Fonctionnalités et workflows
 
-* [Image vers matériau (optimisé par l’IA)](filters/tools/image-to-material.md)
+* [Image en Matériau (optimisé par l’IA)](filters/tools/image-to-material.md)
 * [Workflow de Taille physique de bout en bout](features-and-workflows/end-to-end-physical-size-workflow.md)
 * [Exportation d’actifs paramétriques](features-and-workflows/export-parametric-assets.md)
 * [Script](scripting-and-development/scripting-and-development.md)

@@ -29,7 +29,7 @@ ht-degree: 0%
 ## Paramètres exposés
 
 Modifiez les matériaux paramétriques dans les logiciels prenant en charge les fichiers SBSAR, tels que CLO, UE5, Blender, Photoshop et Illustrator, entre autres.\
-Cela est désormais possible grâce à la nouvelle capacité de Sampler à exposer les paramètres des actifs, ce qui vous permet d’accélérer les itérations et de vous débarrasser des va-et-vient entre Sampler et d’autres logiciels.
+Cela est désormais possible grâce à la nouvelle capacité de Sampler à exposer aux paramètres des actifs, ce qui vous permet d’accélérer l’itération et de vous débarrasser des va-et-vient entre Sampler et d’autres logiciels.
 
 Exposez les paramètres de votre matériau en cliquant simplement sur une épingle.
 
@@ -45,11 +45,11 @@ Découvrez comment créer votre premier plug-in ou script [ici](../scripting-and
 ## Propriétés physiques CLO
 
 Vous pouvez maintenant créer des textiles qui se comportent de manière réaliste avec des simulations physiques. Pour ce faire, vous devez saisir les propriétés physiques du tissu, telles que la flexion, le cisaillement et le frottement.\
-Avec cette mise à jour, le SBSAR contiendra les informations physiques dans ses métadonnées, qui sont utilisées par CLO pour s&#39;assurer que le matériau réagit de manière réaliste.
+Grâce à cette mise à jour, le SBSAR contiendra les informations physiques dans ses métadonnées, qui sont utilisées par CLO pour s&#39;assurer que le matériau réagisse de manière réaliste.
 
-## Image vers matériau (optimisé par l’IA)
+## Image en Matériau (optimisé par l’IA)
 
-Image vers matériau (optimisé par l’IA) est désormais disponible sur MacOS et s’exécute en mode natif sur les appareils Apple Silicon.
+L’option Image vers le Matériau (optimisée par l’IA) est désormais disponible sur MacOS et s’exécute en mode natif sur les appareils Apple Silicon.
 
 ## Notes de mise à jour
 
@@ -60,14 +60,14 @@ Image vers matériau (optimisé par l’IA) est désormais disponible sur MacOS 
 **Ajouté :**
 
 [Paramètres exposés] Nouveau Panneau Paramètres exposés\
-[Paramètres exposés] Nouveau bouton au survol des paramètres pour exposer et exposer les paramètres du panneau Propriétés\
-[Paramètres exposés] Nouveau menu contextuel par clic droit sur les paramètres pour exposer et exposer les paramètres à partir du panneau Propriétés\
-[Paramètres exposés] Les paramètres exposés sont répertoriés dans le Panneau Paramètres exposés\
+[Paramètres exposés] Nouveau bouton au survol des paramètres pour exposer aux paramètres du panneau Propriétés et les afficher une fois\
+[Paramètres exposés] Nouveau menu contextuel par clic droit sur les paramètres pour exposer et afficher les paramètres du panneau Propriétés\
+[Paramètres exposés] Les Paramètres exposés sont répertoriés dans le Panneau Paramètres exposés\
 [Paramètres exposés] Des points et des disques de couleur sont ajoutés à plusieurs endroits pour identifier facilement les paramètres exposés\
 [Paramètres exposés] Les étiquettes de paramètres peuvent être modifiées dans le Panneau Paramètres exposés\
 [Paramètres exposés] Afficher un avertissement pour les paramètres non exportables\
 [Paramètres exposés] Affiche un avertissement si vous déplacez un calque avec des paramètres de fusion exposés à un endroit où ils deviennent masqués\
-[Paramètres exposés] Les paramètres exposés sont exportés aux formats SBS et SBSAR\
+[Paramètres exposés] Les Paramètres exposés sont exportés aux formats SBS et SBSAR\
 [Métadonnées] Prise en charge des modèles de métadonnées personnalisés\
 [Métadonnées] Nouveau modèle de métadonnées de propriétés physiques CLO\
 [Métadonnées] Ajoutez des icônes au survol pour ajouter/supprimer des métadonnées personnalisées\
@@ -91,24 +91,24 @@ Image vers matériau (optimisé par l’IA) est désormais disponible sur MacOS 
 [Journaux] Nouvelle barre d’actions pour effacer, copier/coller et exporter les journaux\
 [Propriétés] Nouveau bouton au survol des paramètres pour réinitialiser la valeur des paramètres\
 [Propriétés] Nouveau menu contextuel par clic droit sur les paramètres pour réinitialiser la valeur du paramètre\
-[Contenu] Image vers matériau (optimisé par l’IA) fonctionne désormais sur MacOS\
-[Engine] Mettez à jour le moteur de Substance vers la version 8.6.0
+[Contenu] La fonctionnalité Image vers Matériau (optimisée par l’IA) fonctionne désormais sur MacOS\
+[Moteur] Mettre à jour le moteur de Substance vers la version 8.6.0
 
 **Fixe :**
 
-[Application] L’application peut se bloquer à la fermeture lorsqu’une génération de vignette est en cours\
-[Application] L’application peut se bloquer lors de l’utilisation de « Enregistrer sous » à la sortie\
+[Application] L’application a pu effectuer un crash à la fermeture lorsqu’une génération de vignettes était en cours\
+[Application] L&#39;application peut se mettre en crash lors de l&#39;utilisation de « Enregistrer sous » à la sortie\
 [Application] L’application peut se bloquer lors de l’arrêt de MacOS\
 [Application] L’enregistrement avec la boîte de dialogue Couleur ouverte n’enregistre pas ses modifications\
 [Export] La convention de dénomination d&#39;utilisation est incorrecte lors de l&#39;exportation\
-[Calques] Déposer un matériau sur un filtre peut provoquer un blocage\
+[Calques] Le fait de déposer un matériau au-dessus d’un autre peut provoquer un crash\
 [Calques] La mise à jour d’une pile de calques obsolète peut mettre à jour des piles de calques non associées\
 [Métadonnées] Les champs vides sont exportés\
 [Métadonnées] Lorsqu’il n’existe qu’un seul élément de métadonnées, l’interface utilisateur vous permet d’essayer de le réorganiser\
-[Projet] Le calcul ne se termine jamais après la duplication d&#39;une matière\
+[Projet] Le calcul ne se termine jamais après la duplication d&#39;un matériau\
 [Projet] L’actif du projet est dupliqué après l’enregistrement initial du projet\
-[Projet] Calculs inutiles lors du changement de ressource\
-[Rendu] Certaines piles de calques ne s’affichent pas correctement après avoir supprimé un calque\
+[Projet] calculs inutiles lors du changement de ressource\
+[Rendu] Certaines piles de calques ne s’affichent pas correctement après la suppression d’un calque\
 [Sécurité] Correctif CVE-2015-20107\
 [UI] Les sorties 2D peuvent être floues selon la taille de la fenêtre\
 [UI] L’aperçu des ressources peut rester ouvert en haut lorsque l’application perd le focus\
@@ -118,4 +118,4 @@ Image vers matériau (optimisé par l’IA) est désormais disponible sur MacOS 
 
 [Sélecteur de couleurs] Le choix d’une couleur sur un deuxième moniteur avec une résolution différente peut ne pas fonctionner\
 [Contenu] Le widget Lumière de forme ne fonctionne pas en mode projection sphérique\
-[Interopérabilité] Le matériel avec displacement envoyé à Stager perdra les contrôles de displacement
+[Interopérabilité] Le Matériau avec displacement envoyé à Stager perdra les contrôles de displacement

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
 breadcrumb-title: ''
-description: Découvrez comment utiliser l’option Envoyer vers de Substance dans Substance 3D Sampler pour envoyer des ressources directement à d’autres applications via le connecteur.
+description: Découvrez comment utiliser l’option Envoyer vers de Substance dans Substance 3D Sampler pour envoyer des ressources directement à d’autres applications via le Connecteur.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Envoyer vers n’importe quelle application
 
-À partir de la version 4.5 de Sampler, vous pouvez désormais envoyer vos ressources de Sampler directement vers n’importe quelle application où le connecteur a été implémenté.\
+À partir de la version 4.5 de Sampler, vous pouvez désormais envoyer vos ressources de Sampler directement vers n’importe quelle application où le Connecteur a été implémenté.\
 Cela permet d’envoyer des ressources de Sampler vers des applications tierces en un clic, afin d’éviter d’avoir à passer par le processus manuel d’exportation et d’importation et de gagner du temps.
 
-Aujourd’hui, le Send-to est disponible dans Blender, Unreal Engine, Unity, 3ds Max et Maya via les plug-ins de Substance.
+Aujourd’hui, le Send-to est disponible dans Blender, Unreal Moteur, Unity, 3ds Max et Maya via les plug-ins de Substance.
 
 ## Versions d’application prises en charge
 
@@ -31,7 +31,7 @@ Pour pouvoir utiliser l’outil Envoyer vers, il est nécessaire d’avoir la bo
 
 Voici les versions minimales dont vous avez besoin pour pouvoir utiliser l’option Envoyer à :
 
-* <b>Plug-In Unreal Engine</b>
+* <b>Plug-in de Moteur irréel</b>
   * Tout ce qui suit UE5.4 est entièrement pris en charge.
   * *Publié sur la marketplace UE*
 

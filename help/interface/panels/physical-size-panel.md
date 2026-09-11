@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/panels/physical-size-panel.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser le panneau Taille physique de Substance 3D Sampler pour définir les dimensions réelles des matériaux et des textures.
+description: Apprenez à utiliser le panneau Taille physique de Substance 3D Sampler pour définir des dimensions réelles pour des matériaux et des textures.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Physical Size Panel
 helpx_experience_level: ""
@@ -71,14 +71,14 @@ L’outil Mesure vous permet d’étalonner la taille physique en indiquant la d
 
 Ces outils vous permettent de définir l’aspect de la surface de votre matériau.
 
-**Échelle physique :** activez ou désactivez l&#39;échelle physique. L’échelle physique correspond à la circonférence du filet le long des trois axes.\
-Mettez votre matière à l’échelle avec des valeurs physiques. Manipulation de la largeur (X), de l’Height (Y) et de la Profondeur (Z).\
-**Mosaïque de texture :** définissez la mosaïque de votre matière
+**Échelle physique :** activez ou désactivez l&#39;échelle physique. L’échelle physique est la circonférence du maillage le long des trois axes.\
+Mettez votre matériau à l’échelle avec des valeurs physiques. Manipulation de la largeur (X), de l’Height (Y) et de la Profondeur (Z).\
+**répétition de Texture :** définissez la répétition de votre matériau
 
 ### Matériau de sortie
 
 Vous aide à visualiser la sortie de votre matériau avec son aspect réel.
 
 **Affichage avec rapport physique :**\
-L&#39;affichage dans la fenêtre 2D respecte le rapport physique.\
-**Échelle de l&#39;Height :** définie/calculée à partir de la fenêtre d&#39;affichage 3D en fonction de l&#39;échelle physique.
+L’affichage dans le viewport 2D respecte le rapport physique.\
+**Échelle d&#39;Height :** définie/calculée à partir du viewport 3D en fonction de l&#39;échelle physique.

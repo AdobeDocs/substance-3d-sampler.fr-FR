@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/hue-saturation.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Teinte/Saturation de Substance 3D Sampler pour régler les valeurs de teinte, de saturation et de luminosité des textures et des matières.
+description: Utilisez le filtre Teinte/Saturation de Substance 3D Sampler pour régler les valeurs de teinte, de saturation et de luminosité des textures et des matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > HueSaturation
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Le filtre Teinte/Saturation vous permet de régler la couleur de votre couleur de base et des couches de diffusion. Vous pouvez également utiliser un masque pour modifier spécifiquement les couleurs de certaines parties de votre image uniquement.
+Le filtre Teinte/Saturation vous permet de régler la couleur de votre base color et des couches de diffusion. Vous pouvez également utiliser un masque pour modifier spécifiquement les couleurs de certaines parties de votre image uniquement.
 
 Les images ci-dessous montrent le **filtre Teinte/Saturation** utilisé pour régler la teinte d&#39;un matériau de mosaïque.
 
@@ -61,7 +61,7 @@ Les images ci-dessous montrent le **filtre Teinte/Saturation** utilisé pour ré
 **Paramètres de base**
 
 * **Teinte** : -1 à 1\
-  Réglez la teinte de votre image. Cela est utile pour corriger les couleurs dans le workflow Image vers matériau.
+  Réglage de la teinte de votre image : cette option est utile pour corriger les couleurs dans le flux de production Image par Matériau.
 * **Saturation** : -1 à 1\
   Réglez la saturation pour faire ressortir les couleurs ou diminuer leur intensité.
 * **Luminosité** : -1 à 1\
@@ -74,7 +74,7 @@ Les images ci-dessous montrent le **filtre Teinte/Saturation** utilisé pour ré
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer une peinture personnalisée directement dans la Vue 2D
   * **Masque personnalisé - Flou** : 0-1\
     Flouter le masque
   * **Masque personnalisé - Inverser** : activer/désactiver\

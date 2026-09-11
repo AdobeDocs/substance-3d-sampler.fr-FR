@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/water.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Eau de Substance 3D Sampler pour ajouter des effets d’eau, de l’humidité et de l’humidité à vos matériaux et textures.
+description: Utilisez le filtre Eau de Substance 3D Sampler pour ajouter des effets d’eau, d’humidité et d’humidité à vos matériaux et textures.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Water
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Utilisez le **Filtre Érosion** pour éliminer les points élevés de votre matériau.
+Utilisez le **Filtre Érosion** pour atténuer les hautes taches sur votre matériau.
 
 ![](../../assets/water-compare.png)
 
@@ -54,11 +54,11 @@ Utilisez le **Filtre Érosion** pour éliminer les points élevés de votre mat�
 * **Humidité des bords** : 0-1\
   Ajustez à quelle distance au-dessus de la ligne de flottaison le matériau semble humide.
 * **Activer le Dirt sur l&#39;eau** : activer/désactiver\
-  Ajoutez du dirt au-dessus de l’eau en modifiant légèrement la carte de rugosité. La section **Dirt** s&#39;affiche uniquement si ce paramètre est activé.
+  Ajoutez du dirt au-dessus de l&#39;eau en modifiant légèrement la carte de rugosité. La section **Dirt** s&#39;affiche uniquement si ce paramètre est activé.
 * **Masque personnalisé** : activer/désactiver\
   Lorsque cette option est activée, la commande supplémentaire suivante apparaît :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque personnalisé ou utilisez le pinceau pour peindre un masque directement dans la **vue 2D**.
+    Sélectionnez une image à utiliser comme masque personnalisé ou utilisez le pinceau pour appliquer une peinture directement dans la **Vue 2D**.
 
 **Dirt**
 
@@ -67,11 +67,11 @@ Cette section apparaît uniquement si l&#39;option **Paramètres de base > Activ
 * **Quantité de Dirt** : 0-1\
   Ajustez la quantité de dirt flottant à la surface de l&#39;eau.
 * **Intensité de la Distorsion** : 0-1\
-  Contrôlez la quantité de distorsion du dirt de surface en fonction de l&#39;intersection entre l&#39;eau et le reste du matériau.
+  Contrôlez la distorsion du dirt de surface en fonction de l&#39;intersection entre l&#39;eau et le reste du matériau.
 * **Intensité de la bordure du Dirt** : 0-1\
-  Gérez l’intensité du dirt de surface près des bordures du masque de dirt.
+  Gérez la force du dirt de surface près des bordures du masque de dirt.
 * **Distance de la bordure du Dirt** : 0-1\
-  Permet de définir la distance de la bordure du dirt par rapport à l&#39;intersection entre les zones sèches et humides du matériau.
+  Permet de définir la distance entre la bordure du dirt et l&#39;intersection entre les zones sèches et humides du matériau.
 * **Précision de la bordure** : 0-1\
   Réglez la précision de la bordure du dirt.
 * **Déformation de la bordure** : 0-1\
@@ -82,7 +82,7 @@ Cette section apparaît uniquement si l&#39;option **Paramètres de base > Activ
 * **Distance d&#39;humidité des bords** : 0-1\
   Contrôlez la distance d’extension de l’humidité des bords dans les zones sèches.
 * **Niveau de flou de Profondeur** : 0-1\
-  Réglez la quantité de flou appliquée à la couleur de base pour les zones sous-marines.
+  Réglez l’intensité du flou appliqué à la base color pour les zones sous-marines.
 * **Opacité du flou de Profondeur** : 0-1\
   Réglez la transparence de l’eau.
 * **Couleur de la boue** : sélection de la couleur\

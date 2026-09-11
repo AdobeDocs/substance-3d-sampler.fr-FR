@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/sharpen.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Netteté de Substance 3D Sampler pour améliorer la netteté de l’image et les détails des textures et des calques Matériau.
+description: Utilisez le filtre Netteté de Substance 3D Sampler pour améliorer la netteté et les détails de l’image dans les calques de texture et de matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Sharpen
 helpx_experience_level: ""
@@ -59,7 +59,7 @@ Utilisez les paramètres prédéfinis pour modifier rapidement les paramètres e
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer une peinture personnalisée directement dans la Vue 2D
   * **Masque personnalisé - Flou** : 0-1\
     Flouter le masque
   * **Masque personnalisé - Inverser** : activer/désactiver\

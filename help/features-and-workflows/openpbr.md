@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ![Texte optionnel](../../help/assets/OpenPBR_1820x1024.jpg)
 
-OpenPBR est un ombrage de surface physique libre conçu pour fournir une description cohérente et prévisible des matériaux à travers différents outils 3D, systèmes de rendu et pipelines. Il définit un modèle de matériau unique et complet capable de représenter une large gamme de surfaces réelles, tout en restant suffisamment flexible pour prendre en charge des aspects plus stylisés ou axés sur l’artiste à l’aide de paramètres physiquement significatifs.
+OpenPBR est un ombrage de surface physique libre conçu pour fournir une description cohérente et prévisible des matériaux dans différents outils 3D, systèmes de rendu et tuyaux. Il définit un modèle de matériau unique et complet capable de représenter une large gamme de surfaces réelles, tout en restant suffisamment flexible pour prendre en charge des aspects plus stylisés ou axés sur l’artiste à l’aide de paramètres physiquement significatifs.
 
-Dans Substance 3D Sampler, il est possible de basculer un matériau du modèle de matériau ASM vers OpenPBR en accédant aux paramètres de couche.
+Dans Substance 3D Sampler, il est possible de basculer un matériau du modèle de matériau ASM vers l’OpenPBR en accédant aux paramètres de canal.
 
 Il est également possible d&#39;exporter un matériau ASM vers l&#39;OpenPBR ou inversement.
 
 >[!TIP]
 >
-> Reportez-vous à la [documentation sur les matériaux avancés](create-advanced-materials/advanced-materials.md) pour obtenir de l&#39;aide au niveau de la prise en main de canaux tels que [fuzz](create-advanced-materials/fuzz.md), [subsurface](create-advanced-materials/subsurface.md) et [revêtement](create-advanced-materials/coating.md).
+> Reportez-vous à la [documentation sur les matériaux avancés](create-advanced-materials/advanced-materials.md) pour obtenir de l&#39;aide sur la prise en main de canaux tels que [fuzz](create-advanced-materials/fuzz.md), [subsurface](create-advanced-materials/subsurface.md) et [coating](create-advanced-materials/coating.md).

@@ -33,9 +33,9 @@ ht-degree: 1%
 
 ## Description
 
-Réglez la température de la lumière de votre environnement.
+Réglez la température de vos éclairages d&#39;environnement.
 
-Les images ci-dessous montrent comment utiliser le **filtre de Color temperature adjustment** pour rendre la lumière de l&#39;environnement plus chaude ou plus froide.
+Les images ci-dessous montrent comment utiliser le **filtre Color temperature adjustment** pour rendre la lumière d&#39;un éclairage d&#39;environnement plus chaude ou plus froide.
 
 <table>
 <tr style="border: 0;">
@@ -70,7 +70,7 @@ Les images ci-dessous montrent comment utiliser le **filtre de Color temperature
 * **Masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer une peinture personnalisée directement dans la Vue 2D
   * **Masque personnalisé - Flou** : 0-1\
     Flouter le masque
   * **Masque personnalisé - Inverser** : activer/désactiver\

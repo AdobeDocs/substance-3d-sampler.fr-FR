@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/upscale.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Upscale de Substance 3D Sampler pour augmenter la résolution de la texture à l’aide de la technologie d’upscaling optimisée par l’IA.
+description: Utilisez l’outil Upscale dans Substance 3D Sampler pour augmenter la résolution des textures à l’aide de la technologie d’upscaling optimisée par l’IA.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ Outils **In:**
 
 ## Description
 
-Le filtre <b>Upscale </b>utilise l’IA pour suréchantillonner les canaux PBR (Couleur de base, Rugosité, Normal, Métallique, Height) à partir des calques situés en dessous.
+Le filtre <b>Upscale </b>utilise l’IA pour suréchantillonner les canaux PBR (BaseColor, Rugosité, Normal, Métallique, Height) à partir des calques situés en dessous.
 
 <table>
 <tr style="border: 0;">
@@ -79,7 +79,7 @@ Dans cet exemple, nous commençons par une image de 1 024 x 1 024 px, mais le r�
 
 ![](../../assets/SAPR_Upscale_screen_001.png)
 
-Dans l&#39;image ci-dessus, une image basse résolution est traitée par [Image vers matériau (optimisé par l&#39;IA)](image-to-material.md).
+Dans l&#39;image ci-dessus, une image basse résolution est traitée par [Image vers Matériau (optimisée par l&#39;IA)](image-to-material.md).
 
 ![](../../assets/SAPR_Upscale_Screen_003.png)
 

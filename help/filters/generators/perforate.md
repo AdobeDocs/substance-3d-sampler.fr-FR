@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/generators/perforate.html"
 breadcrumb-title: ''
-description: Utilisez le générateur de perforations de Substance 3D Sampler pour créer des motifs et des réseaux de trous perforés dans les matériaux et les textures.
+description: Utilisez le générateur de perforations de Substance 3D Sampler pour créer des réseaux de trous et de motifs perforés dans des matériaux et des textures.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Perforate
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ Générateurs De **Entrée :**
 
 ## Description
 
-Utilisez le filtre Perforation pour ajouter des trous à votre matière.
+Utilisez le filtre Perforation pour ajouter des trous à votre matériau.
 
 *Avant et après l&#39;application du **filtre Perforé**.*
 
@@ -65,7 +65,7 @@ Utilisez le filtre Perforation pour ajouter des trous à votre matière.
 * **Sélection de motif** :\
   Sélectionnez la forme des trous ou choisissez Motif personnalisé pour créer le vôtre.
 * **Position de la perforation** :\
-  Indiquez si les normales et l’height doivent reculer dans le matériau ou se démarquer de celui-ci
+  Indiquez si les normales et l’height doivent reculer dans le matériau ou se démarquer du matériau
 * **Taille Du Chanfrein De Perforation** : 0-1\
   Modification de la taille du chanfrein sur les arêtes des trous
 * **Taille du trou** : 0-1\
@@ -79,7 +79,7 @@ Utilisez le filtre Perforation pour ajouter des trous à votre matière.
   * **Inverser la carte d&#39;échelle** : activer/désactiver\
     Inverser les valeurs de la carte d’échelle
   * **Mappage d&#39;échelle personnalisé** : image/pinceau\
-    Importez une image à utiliser comme échelle ou utilisez le pinceau pour peindre une échelle directement dans la **vue 2D** **vue**
+    Importez une image à utiliser comme échelle ou utilisez le pinceau pour effectuer une peinture à l&#39;échelle directement dans la **vue 2D** **vue**
 
 **Masquer**
 
@@ -91,7 +91,7 @@ Cette section est uniquement visible si l&#39;option **Paramètres de base > Uti
 * **Seuil de masque** : 0-1\
   Modifiez le seuil du masque. Utilisez les valeurs **Flou de masque** et **Seuil du masque** ensemble pour affiner les bords de votre masque.
 * **Masque personnalisé** : image/pinceau\
-  Importez une image à utiliser comme masque ou peignez votre propre masque directement dans la **vue 2D**
+  Importez une image à utiliser comme masque ou peinture votre propre masque directement dans la **Vue 2D**
 
 **Perforation**
 
@@ -109,9 +109,9 @@ Cette section est uniquement visible si l&#39;option **Paramètres de base > Uti
   Régler la transparence de la couleur de la zone chanfreinée des perforations
 * **Couleur de perforation** : sélection de la couleur\
   Sélectionner la couleur de la zone chanfreinée de chaque perforation
-* **Rugosité de la perforation** : 0-1\
+* **Rugosité de perforation** : 0-1\
   Modifier la valeur de rugosité des perforations
-* **Perforation métallique** : 0-1\
+* **Perforation Métallique** : 0-1\
   Modifier la valeur métallique des perforations
 
 **Paramètres avancés**
@@ -121,6 +121,6 @@ Cette section est uniquement visible si l&#39;option **Paramètres de base > Uti
 * **Décalage de teinte** : 0-1
 * **Saturation** : 0-1
 * **Intensité normale** : -1 à 1\
-  Régler l&#39;intensité de chaque normale de perforation
+  Ajuster la force de chaque normale de perforation
 * **Intensité de l&#39;Height** : 0-1\
-  Régler l&#39;intensité de chaque carte d&#39;height de perforations
+  Ajuster la force de chaque map height de perforation

@@ -39,7 +39,7 @@ Les images ci-dessous montrent l&#39;**Atlas splitter** en action.
 
 ![](../../assets/3d-2d-filters-cropped-0039-atlas-splittter-in.jpg)
 
-L’image ci-dessus montre un matériau atlas ajouté à la pile de calques. utilisez l&#39;**Atlas splitter** pour sélectionner des éléments spécifiques dans l&#39;atlas.
+L’image ci-dessus montre un matériau d’atlas ajouté à la pile de calques. utilisez l&#39;**Atlas splitter** pour sélectionner des éléments spécifiques dans l&#39;atlas.
 
 ![](../../assets/3d-2d-filters-cropped-0038-atlas-splitter-out.jpg)
 
@@ -53,14 +53,14 @@ Avec l&#39;**Atlas splitter** ajouté à la pile de calques, il est possible de 
 
 **Paramètres de base**
 
-* **Mode Grille** : basculer\
-  Basculer entre le mode Grille et le mode Individuel des éléments. Si cette option est activée, les paramètres supplémentaires suivants apparaissent :
-  * **Opacité de la grille** : 0-1\
+* **Vue Grille** : basculer\
+  Basculer entre les vues grille et individuelle des éléments. Si cette option est activée, les paramètres supplémentaires suivants apparaissent :
+  * **Opacité de la Grille** : 0-1\
     Modifier l’opacité de la grille
-  * **Opacité de la sélection de grille** : 0-1\
+  * **Opacité de la sélection de Grille** : 0-1\
     Modifier l’opacité de la bordure autour de l’élément sélectionné
   * **Mise à l&#39;échelle automatique** : basculement\
-    Indiquez si les éléments d’atlas doivent être mis à l’échelle pour remplir chaque carré de grille ou non.
+    Indiquez si les éléments atlas doivent être mis à l’échelle pour remplir chaque carré de grille ou non.
 * **Recadrage automatique** : basculer\
   Indiquez si le recadrage de la forme sélectionnée doit être ajusté. Si cette option est activée, une option supplémentaire s’affiche :
   * **Mode de recadrage automatique** :\
@@ -73,15 +73,15 @@ Avec l&#39;**Atlas splitter** ajouté à la pile de calques, il est possible de 
 **Paramètres avancés**
 
 * **Tolérance de petite forme** : 0-1\
-  Ajustez la taille minimale des formes à prélever par l&#39;**Atlas splitter**. Ceci est utile pour filtrer les artefacts
+  Ajustez la taille minimale des formes à prélever par l&#39;**Atlas splitter**. Ceci est utile pour les artefacts de filtrage
 * **Rotation automatique** : activer/désactiver\
   Si cette option est activée, les éléments pivotent automatiquement pour avoir des orientations similaires.
 * **Réduire le masque d&#39;opacité** : 0-4\
   Réglez l’échelle du masque d’opacité. Notez que l’augmentation de cette valeur peut diminuer la qualité du masque d’opacité.
 * **Précision de la détection de forme** :\
   Sélectionnez l’algorithme de détection de forme à utiliser.
-* **Largeur de dilatation** : 0-32\
-  Modifier la dilatation : cette opération extrude les couleurs des bordures d’élément dans la zone masquée pour éviter les problèmes de transparence au bord des éléments de l’atlas. Affichez la couche de couleur de base dans la **vue 2D** pour voir les résultats.
+* **Largeur De Dilatation** : 0-32\
+  Modifier la dilatation : permet d’extruder les couleurs des bordures d’éléments dans la zone masquée pour éviter les problèmes de transparence au niveau des éléments de l’atlas. Affichez le canal de base color dans la **Vue 2D** pour voir les résultats.
 * **Couleur d&#39;arrière-plan personnalisée** : activer/désactiver\
   Si cette option est activée, une commande apparaît pour modifier la couleur d’arrière-plan de la couche normale :
   * **Couleur normale** : sélection de la couleur\

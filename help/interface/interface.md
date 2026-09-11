@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface.html"
 breadcrumb-title: ''
-description: Découvrez l’interface de Substance 3D Sampler, notamment les fenêtres, les encadrés et les panneaux, pour naviguer dans l’application et l’utiliser efficacement.
+description: Découvrez l’interface de Substance 3D Sampler, notamment les viewports, les encadrés et les panneaux, pour naviguer dans l’application et l’utiliser efficacement.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Interface
 
-L’espace de travail de Sampler se compose des fenêtres 2D et 3D, des barres latérales gauche et droite et d’un ensemble de panneaux. Chaque panneau étant dédié à un objectif spécifique, différents panneaux sont utiles pendant différentes parties du processus créatif.
+L’espace de travail de Sampler se compose des viewports 2D et 3D, des barres latérales gauche et droite et d’une collection de panneaux. Chaque panneau étant dédié à un objectif spécifique, différents panneaux sont utiles pendant différentes parties du processus créatif.
 
 <table>
 <tr style="border: 0;">
@@ -47,7 +47,7 @@ B. Dans la **barre latérale gauche**, vous pouvez :
 * Ouvrez le panneau **Paramètres de canal**.
 
 C. Les panneaux <b>Projet</b> et <b>Actifs.</b>
-D. Les <b>fenêtres 2D </b> et <b>3D</b> affichent la ressource sur laquelle vous travaillez actuellement.\
+D. Les <b>Viewports 2D </b> et <b>3D</b> affichent la ressource sur laquelle vous travaillez actuellement.\
 E. Les panneaux <b>Calques</b> et <b>Propriétés.</b>
 F. Dans la **barre latérale de droite**, vous pouvez accéder aux panneaux suivants :
 
@@ -56,7 +56,7 @@ F. Dans la **barre latérale de droite**, vous pouvez accéder aux panneaux suiv
 * Métadonnées
 * Exporter
 
-Les <b>menus de l&#39;application</b> sont traités plus en détail ci-dessous. Les **[panneaux](panels/panels.md)**, la **[fenêtre d&#39;affichage](2d-and-3d-viewport.md)** et les **[encadrés](sidebars.md)** ont chacun leurs propres articles.
+Les <b>menus de l&#39;application</b> sont traités plus en détail ci-dessous. Les **[panneaux](panels/panels.md)**, le **[Viewport](2d-and-3d-viewport.md)** et les **[encadrés](sidebars.md)** ont chacun leurs propres articles.
 
 ## Personnalisation de l’espace de travail
 
@@ -66,7 +66,7 @@ L’espace de travail de Sampler est entièrement personnalisable, vous permetta
 
 Cliquez et faites glisser le titre d’un panneau pour commencer à le déplacer.
 
-Vous pouvez ancrer un panneau sur les bords de la fenêtre d’affichage ou d’autres panneaux : faites glisser le panneau sur le bord où vous souhaitez l’ancrer pour faire apparaître un repère de surbrillance bleu. Lorsque la ligne apparaît, déposez le panneau pour l’ancrer.
+Vous pouvez ancrer un panneau sur les bords du viewport ou d’autres panneaux : faites glisser le panneau sur le bord où vous souhaitez l’ancrer pour faire apparaître un repère de surbrillance bleu. Lorsque la ligne apparaît, déposez le panneau pour l’ancrer.
 
 ## Ouverture et fermeture de panneaux
 
@@ -124,8 +124,8 @@ Utilisez le menu <b>Aide</b>pour en savoir plus sur Sampler ou découvrir commen
 | Forum | Ouvrez les forums pour participer à la conversation avec d’autres membres de la communauté Substance 3D Sampler, ou envoyez vos propres publications et suggestions. |
 | Signaler un bogue | Signalez un problème avec Sampler. |
 | Exporter le journal | Cela peut être utile pour résoudre les problèmes qui peuvent survenir lors de l’utilisation de Sampler. |
-| Ressources Substance 3D | Ouvrez la Substance Source pour accéder à une immense bibliothèque de matériaux et d’autres ressources créées et organisées par l’équipe Substance 3D. |
-| Ressources de la communauté Substance 3D | Ouvrez la Substance share pour accéder à une bibliothèque de matières et d’autres ressources créées par les membres de la communauté Substance 3D. |
+| Ressources Substance 3D | Ouvrez la Substance Source pour accéder à une immense bibliothèque de matériaux et d’autres ressources créés et organisés par l’équipe Substance 3D. |
+| Ressources de la communauté Substance 3D | Ouvrez la Substance share pour accéder à une bibliothèque de matériaux et à d’autres ressources créées par des membres de la communauté Substance 3D. |
 | Informations sur le matériel | Consultez les informations sur le matériel de vos appareils. |
 | À propos de Sampler | Consultez les informations concernant votre version installée de Sampler. |
 

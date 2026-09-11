@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/interface/the-home-screen.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser l’écran d’accueil de Substance 3D Sampler pour accéder aux projets récents, créer de nouvelles matières et démarrer rapidement.
+description: Apprenez à utiliser l’écran d’accueil de Substance 3D Sampler pour accéder aux projets récents, créer de nouveaux matériaux et démarrer rapidement.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > The Home Screen
 helpx_experience_level: ""

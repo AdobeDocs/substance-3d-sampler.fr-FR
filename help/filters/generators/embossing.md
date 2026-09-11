@@ -33,7 +33,7 @@ Générateurs De **Entrée :**
 
 ## Description
 
-Estampez du texte ou des motifs sur vos matières.
+Embossage de texte ou de motifs sur vos matériaux.
 
 </td>
 </tr>
@@ -43,31 +43,31 @@ Estampez du texte ou des motifs sur vos matières.
 
 **Paramètres de base**
 
-* **Taille de l&#39;estampage** : 0-1\
+* **Taille de l&#39;Embossage** : 0-1\
   Modification de la taille de chaque instance
-* **Distance d&#39;estampage** : 0-1\
+* **Distance Embossage** : 0-1\
   Modification du thickness des lignes en relief
 * **Sélection de motif** :\
-  Sélectionnez le motif à estamper. À partir de là, vous pouvez choisir d’estamper du texte ou un motif personnalisé.
+  Sélectionnez le motif à mettre en embossage. À partir de là, vous pouvez sélectionner du texte en embossage ou un motif personnalisé.
 * **Mosaïque de motif X** : 1-64\
   Modification du nombre d’instances sur l’axe X
 * **Mosaïque Y** : 1-64\
   Modification du nombre d’instances sur l’axe Y
 
-**Estampage**
+**Embossage**
 
-* **Utiliser l&#39;estampage de bordure** : activer/désactiver\
-  Indique si la bordure du motif choisi doit être estampée
-* **Inversion de l&#39;estampage de bordure** : basculer\
-  Inverser l’height de l’estampage de bordure
-* **Intensité de l’estampage de la bordure** : 0-1\
-  Modification de l’intensité de l’effet d’estampage
-* **Utiliser le remplissage en relief** : activer/désactiver\
-  Indique si le remplissage du motif choisi doit être estampé
-* **Inversion du remplissage de l&#39;estampage** : basculer\
-  Inverser l’height de l’effet d’estampage de remplissage
-* **Intensité de l’estampage du remplissage** : 0-1\
-  Modification de l’intensité de l’effet d’estampage
+* **Utiliser l&#39;Embossage de la bordure** : activer/désactiver\
+  Activer/désactiver l’embossage de la bordure du motif choisi
+* **Inversion de la bordure en Embossage** : basculer\
+  Inverser l&#39;height de la bordure embossage
+* **Intensité de l&#39;Embossage de la bordure** : 0-1\
+  Modification de la force de l’effet embossage
+* **Utiliser l&#39;Embossage du remplissage** : activer/désactiver\
+  Indique si le remplissage du motif choisi doit être embossage
+* **Inverser le fond en Embossage** : activer/désactiver\
+  Inverser l’height de l’effet embossage de remplissage
+* **Intensité du remplissage en Embossage** : 0-1\
+  Modification de la force de l’effet embossage
 
 **Motif**
 
@@ -84,12 +84,12 @@ Estampez du texte ou des motifs sur vos matières.
   Faire pivoter le motif
 * **Décalage du motif** : 0-1\
   Décale chaque ligne du motif de la ligne précédente.
-* **Utiliser la rugosité du motif** : activer/désactiver\
-  Activez cette option pour remplacer la rugosité du matériau sous-jacent par une valeur de rugosité personnalisée partout où l’effet d’estampage apparaît.\
-  Lorsque cette option est activée, une commande **Rugosité du motif** apparaît pour définir la rugosité.
-* **Utiliser un motif métallique** : activer/désactiver\
-  Activez cette option pour remplacer les valeurs métalliques du matériau sous-jacent par une valeur métallique personnalisée partout où l’effet d’estampage apparaît.\
-  Lorsque cette option est activée, une commande **Motif métallique** apparaît pour définir la rugosité.
+* **Utiliser la Rugosité de motif** : activer/désactiver\
+  Activez cette option pour remplacer la rugosité de matériau sous-jacente par une valeur de rugosité personnalisée partout où l’effet embossage apparaît.\
+  Lorsque cette option est activée, un contrôle **Rugosité de motif** apparaît pour définir la rugosité.
+* **Utiliser le motif Métallique** : activer/désactiver\
+  Activez cette option pour remplacer les valeurs métallique du matériau sous-jacent par une valeur métallique personnalisée partout où l’effet embossage apparaît.\
+  Lorsque cette option est activée, une commande **Motif Métallique** apparaît pour définir la rugosité.
 
 **Texte** : cette section apparaît uniquement si **Sélection de motif** sous **Paramètres de base** est définie sur **Texte**
 
@@ -103,8 +103,8 @@ Estampez du texte ou des motifs sur vos matières.
 **Gomme**
 
 * **Gomme normale** : 0-1
-* **Occlusion ambiante de la gomme** : 0-1
-* **Opacité De La Gomme** : 0-1
+* **Ambient occlusion de la Gomme** : 0-1
+* **Opacité de la Gomme** : 0-1
 
 **Paramètres avancés**
 
@@ -120,4 +120,4 @@ Ces paramètres vous permettent d’ajuster les valeurs pour l’ensemble du mat
 
 Ajoutez le filtre Estampage en haut de la pile de calques, puis commencez à régler les paramètres.
 
-Les paramètres les plus importants sont généralement **Paramètres de base > Sélection de motif** pour modifier le motif que le filtre utilisera et **Motif > Utiliser une mosaïque de motifs** pour activer et désactiver la mosaïque.
+Les paramètres les plus importants sont généralement **Paramètres de base > Sélection de motif** pour modifier le motif que le filtre utilisera et **Motif > Utiliser la mosaïque de motifs** pour activer et désactiver la répétition.

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/quick-actions.html"
 breadcrumb-title: ''
-description: Apprenez à utiliser les actions rapides dans Substance 3D Sampler pour effectuer efficacement des tâches courantes d’édition de matériaux à l’aide des outils de raccourci.
+description: Apprenez à utiliser les actions rapides dans Substance 3D Sampler pour effectuer efficacement des tâches de modification de matériau courantes avec les outils de raccourci.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 29%
 
 ![](../assets/Quactooltip.png)
 
-Les actions rapides sont un système qui vous permet de créer une ressource ou d’ajouter de nombreux calques dans la pile en quelques clics. Utilisez les actions rapides pour créer une ressource, créer un projet ou ajouter les calques dont vous avez besoin à votre pile existante.
+Les actions rapides sont un système qui vous permet de créer une ressource ou d’ajouter de nombreux calques dans la pile en quelques clics. Utilisez les actions rapides pour créer un fichier, un projet ou ajouter les calques dont vous avez besoin à votre pile existante.
 
 Les actions rapides se trouvent à plusieurs endroits dans Sampler :
 
@@ -32,13 +32,13 @@ Les actions rapides se trouvent à plusieurs endroits dans Sampler :
 
 | Nom de l’action rapide | Description | Calques |
 | --- | --- | --- |
-| Convertir une image en matériau | Créez un matériau avec tous les canaux nécessaires à partir d’une seule image. | Image d’entrée pour matériau AI Égaliser |
+| Convertir une image en matériau | Créez un matériau avec tous les canaux nécessaires à partir d’une seule image. | Image d&#39;entrée vers Matériau AI Equalize |
 | Conv. images multiangles en matériau | Créez un matériau en fusionnant les photos d’une surface prise sous différents angles de lumière | mot de Multiangle vers matériau d’entrée Égaliser |
 | Importer des textures | Créez un matériau à partir de maps de texture. | Entrée |
 | Importer une image | Créez un matériau vide et ajoutez une seule image en tant que calque. | Entrée |
 | Convertir une image en broderie | Appliquez un filtre procédural pour donner à une image l’aspect d’un écusson brodé. | Broderie en entrée |
 | Créer un matériau en tissu | Créez un matériau en tissu avec un filtre procédural. | ClothWeave |
-| Ajuster une image | Choisissez des filtres pour affiner et préparer une image à utiliser dans un matériau. | Remplacement de la couleur de la luminosité/de la teinte/saturation du carreau de recadrage d&#39;entrée |
+| Ajuster une image | Choisissez des filtres pour affiner et préparer une image à utiliser dans un matériau. | Remplacement de la couleur de la Répétition de recadrage en entrée Luminosité/Contraste Teinte/Saturation |
 | Créer un matériau vide | Créez un matériau sans canal. | Sans |
 
 ## Comment utiliser l’action rapide
@@ -63,7 +63,7 @@ Choisissez une action rapide ou importez des fichiers et découvrez les actions 
 
 <b>À Partir Du Panneau Action Rapide</b>
 
-Cliquez sur une action rapide pour l’ajouter à la pile ou créez une nouvelle ressource en fonction du type d’action rapide :
+Cliquez sur une action rapide pour l’ajouter à la pile ou pour créer une ressource en fonction du type d’action rapide :
 
 * <b>Appliquer :</b> applique l&#39;action rapide à la pile active.
 * <b>Configuration :</b> ouvre la fenêtre de configuration pour préorganiser l&#39;action rapide avant de l&#39;ajouter à la pile.

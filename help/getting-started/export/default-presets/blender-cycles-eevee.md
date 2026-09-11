@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
 breadcrumb-title: ''
-description: Découvrez comment exporter des matériaux à partir de Substance 3D Sampler à l’aide du paramètre prédéfini Cycles de mélangeur/Cheveux pour la compatibilité de Blender.
+description: Découvrez comment exporter des matériaux à partir de Substance 3D Sampler à l’aide du paramètre prédéfini Cycles/Ever de Blender pour la compatibilité.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Blender CyclesEevee
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Cycles mélangeurs/Eve | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Rugosité&#x200B;**&#x200B;**métallique**&#x200B;**métallique &#x200B;**&#x200B;**normale**&#x200B;**Displacement &#x200B;**&#x200B;**émissive**&#x200B;**Alpha** en couleur de base2&rbrace; |
+| Cycles mélangeurs/Eve | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Couleur de base &#x200B;**&#x200B;**Rugosité**&#x200B;**Métallique &#x200B;**&#x200B;**normale**&#x200B;**Displacement &#x200B;**&#x200B;**Emissive**&#x200B;**Alpha** |

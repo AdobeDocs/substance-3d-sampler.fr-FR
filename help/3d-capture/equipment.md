@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/3d-capture/equipment.html"
 breadcrumb-title: ''
-description: Découvrez l’équipement de Capture 3D recommandé pour Substance 3D Sampler afin d’obtenir une numérisation de haute qualité des matériaux et des objets.
+description: Découvrez les équipements de Capture 3D recommandés pour Substance 3D Sampler afin d’obtenir une numérisation de matériau et d’objet de haute qualité.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -36,19 +36,19 @@ L&#39;accent sera mis sur la prise de vue d&#39;objets plus petits à l&#39;int�
 
 ## Caméra
 
-En ce qui concerne votre appareil photo, un <b>appareil photo reflex numérique</b> est essentiel pour améliorer la qualité et mieux contrôler les photos. Certains smartphones haut de gamme peuvent s&#39;en approcher, mais il est difficile de les étendre et de les connecter à d&#39;autres équipements photographiques.
+En ce qui concerne votre caméra, une <b>caméra DSLR</b> est essentielle pour améliorer la qualité et mieux contrôler les photos. Certains smartphones haut de gamme peuvent s&#39;en approcher, mais il est difficile de les étendre et de les connecter à d&#39;autres équipements photographiques.
 
 Tout reflex numérique qui prend en charge le <b>mode manuel</b>, les objectifs échangeables, peut prendre en charge un <b>flash externe</b> et a une résolution de <b>12 Mp ou plus</b> est un bon choix.
 
 ## Trépied
 
-Pour photographier des sujets plus petits, il est idéal de maintenir l’appareil photo à une position définie et de faire pivoter l’objet. Pour cela, un trépied et une plaque tournante de produit sont nécessaires. Le grand avantage d&#39;une telle configuration statique est qu&#39;elle permet de retourner un objet plus petit à l&#39;envers et de capturer également le dessous.
+Pour photographier des sujets plus petits, il est idéal de maintenir la caméra à une position définie et de faire pivoter l’objet. Pour cela, un trépied et une plaque tournante de produit sont nécessaires. Le grand avantage d&#39;une telle configuration statique est qu&#39;elle permet de retourner un objet plus petit à l&#39;envers et de capturer également le dessous.
 
 Un trépied est nécessaire, et bien qu&#39;il n&#39;ait pas à être compliqué, les trépieds en plastique bon marché pourraient rendre les choses compliquées s&#39;ils doivent être ajustés souvent. Un grand trépied de studio lourd est trop lourd pour une configuration de photogrammétrie. Un trépied métallique de milieu de gamme <b>facilement réglable en height</b>, avec une tête métallique<b> de bonne qualité</b>, pourrait donc être idéal.
 
 ## Platine Tournante
 
-En ce qui concerne le plateau tournant, un simple, manuel fera pour de nombreux cas, mais un plateau tournant automatique qui peut déclencher votre appareil photo automatiquement peut rendre les choses plus simples et plus rapides. Les platines manuelles sont très bon marché et sont pratiques lorsqu&#39;elles sont sur un budget. Les modèles motorisés permettent de faire des virages précis de manière répétable, et si le plateau peut déclencher l&#39;appareil photo, il peut être beaucoup plus rapide à utiliser qu&#39;un modèle manuel.
+En ce qui concerne le plateau tournant, un simple, manuel fera pour de nombreux cas, mais un plateau tournant automatisé qui peut déclencher votre caméra automatiquement peut rendre les choses plus simples et plus rapides. Les platines manuelles sont très bon marché et sont pratiques lorsqu&#39;elles sont sur un budget. Les modèles motorisés permettent de faire des virages précis de façon répétable, et si le plateau peut déclencher la caméra, il peut être beaucoup plus rapide à utiliser qu&#39;un modèle manuel.
 
 ## Lumière et arrière-plan
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/default-presets.html"
 breadcrumb-title: ''
-description: Découvrez les paramètres prédéfinis d’exportation par défaut dans Substance 3D Sampler pour diverses applications logicielles et moteurs de rendu.
+description: Découvrez les paramètres prédéfinis d’exportation par défaut dans Substance 3D Sampler pour divers moteurs de rendu et applications logicielles.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Paramètres prédéfinis par défaut
 
-Sampler comprend une liste de paramètres prédéfinis d’exportation qui regroupent et nomment vos textures bitmap en fonction du logiciel dans lequel vous souhaitez les importer.
+Sampler comprend une liste de paramètres prédéfinis d’exportation qui regroupent et nomment vos textures bitmap en fonction du logiciel dans lequel vous souhaitez importer.
 
 * [Arnold 5](arnold-5.md)
 * [Cycles mélangeurs/Eve](blender-cycles-eevee.md)
@@ -33,6 +33,6 @@ Sampler comprend une liste de paramètres prédéfinis d’exportation qui regro
 * [Specular Unity HDRP](unity-hdrp-specular.md)
 * [Unity Standard](unity-standard.md)
 * [Unity Specular](unity-specular.md)
-* [Unreal Engine 4](unreal-engine-4.md)
+* [Moteur irréel 4](unreal-engine-4.md)
 * [Redshift](redshift.md)
 * [V-Ray Next](v-ray-next.md)

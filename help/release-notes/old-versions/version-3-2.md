@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
 breadcrumb-title: ''
-description: Consultez les notes de mise à jour de Substance 3D Sampler version 3.2 pour en savoir plus sur le workflow de numérisation des matériaux, les nouveaux filtres et les métadonnées personnalisées.
+description: Consultez les notes de mise à jour de Substance 3D Sampler version 3.2 pour en savoir plus sur le workflow de numérisation de matériau, les nouveaux filtres et les métadonnées personnalisées.
 helpx_creative_field: ""
 helpx_description: Sampler > Release Notes > Old Versions > Version 3.2
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Version 3.2
 
-**Substance 3D Sampler 3.2** introduit un flux de travail de numérisation de matière de bout en bout qui capture et traite la taille physique de matière, de nouveaux filtres tels que Tissu tissé et Commutateur de couche, ainsi que la possibilité de créer des métadonnées personnalisées.
+**Substance 3D Sampler 3.2** introduit un workflow de numérisation de matériau de bout en bout qui capture et traite la taille physique du matériau, de nouveaux filtres tels que Tissu tissé et Commutateur de couche, ainsi que la possibilité de créer des métadonnées personnalisées.
 
 Date de publication : 25 *janvier 2022*
 
@@ -28,7 +28,7 @@ Date de publication : 25 *janvier 2022*
 
 ### Taille physique
 
-Cette version introduit un nouveau workflow d’analyse des matériaux qui capture et traite la taille physique des matériaux.
+Une nouvelle procédure d&#39;analyse de matériau qui capture et traite la taille physique des matériaux est introduite dans cette version.
 
 Faites correspondre la [taille physique](../../features-and-workflows/end-to-end-physical-size-workflow.md) réelle de vos échantillons/images dans un contexte numérique pour créer des matériaux physiquement précis dans n&#39;importe quel logiciel.
 
@@ -55,13 +55,13 @@ Un tout nouveau générateur est ajouté à cette version. L’outil Tissu tiss�
 
 ### Métadonnées personnalisées
 
-Ajoutez des métadonnées personnalisées à vos matières. Toutes les métadonnées personnalisées seront incluses dans le fichier de matériaux (SBSAR) afin d’assurer un workflow plus efficace pour le partage de matériaux numériques entre les applications.
+Ajoutez des métadonnées personnalisées à vos matériaux. Toutes les métadonnées personnalisées seront incluses dans le fichier de matériau (SBSAR) afin d’assurer un workflow plus efficace pour le partage de matériaux numériques entre les applications.
 
 ![](../../assets/custommetadata.png){width="264px"}
 
 ### Commutateur de canal
 
-Avec l’option Couches, vous pouvez désormais changer les couches des textures de sortie du matériau.
+Avec l’option Permutation de canaux, vous pouvez désormais permuter les canaux des cartes de sortie du matériau.
 
 ![](../../assets/screenshot-2022-02-15-at-15-53-00.png){width="300px"}
 
@@ -69,11 +69,11 @@ Avec l’option Couches, vous pouvez désormais changer les couches des textures
 
 De nouvelles fonctionnalités d’exportation ont été ajoutées à cette version.
 
-* Définition du paramètre de compression du fichier .sbsar
+* Définition du paramètre de compression .fichier sbsar
 
   ![](../../assets/compressionsbsar.png){width="400px"}
-* Définition du type de graphique lors de l’exportation d’un fichier .sbs(ar)
-* Conserver le rapport physique pour EXR, JPEG, PNG, TARGA, TIFF
+* Définition du type de graphe lors de l’exportation d’un fichier .sbs(ar)
+* Conserver le ratio physique pour EXR, JPEG, PNG, TARGA, TIFF
 
   ![](../../assets/screenshot-2022-02-16-at-15-28-09.png){width="400px"}
 
@@ -86,32 +86,32 @@ De nouvelles fonctionnalités d’exportation ont été ajoutées à cette versi
 **Ajouté :**
 
 * [Taille physique] Nouveau panneau Taille physique
-* [Taille physique] Ajout d&#39;options de Taille physique à la fenêtre Modèle de création de matières
+* [Taille physique] Ajout d’options de Taille physique à la fenêtre Modèle de création de Matériau
 * [Taille physique] Ajouter un outil de mesure de Taille physique
 * [Taille physique] Ajouter un outil de mesure automatique de Taille physique
 * [Taille physique] Ajout d’un outil de diagnostic de Taille physique
 * [Taille physique] Permet de définir la valeur z de la Taille physique
-* [Taille physique] Widget déroulant pour définir le niveau de zoom dans la vue 2D
+* [Taille physique] Widget déroulant pour définir le niveau de zoom dans la Vue 2D
 * [Taille physique] Nouvelle option « Afficher avec rapport physique » dans le menu déroulant du niveau de zoom
 * [Taille physique] Nouvelle option « Adapter à la taille physique » dans le menu déroulant du niveau de zoom
-* [Taille physique] Afficher la Taille physique dans la vue 2D
-* [Taille physique] Afficher la Taille physique dans la clôture 3D
-* [Taille physique] Dans la boîte de dialogue d’importation d’image, affichez la profondeur de taille physique si un mappage d’height est importé
+* [Taille physique] Afficher la Taille physique dans la Vue 2D
+* [Taille physique] Afficher la Taille physique dans le viewport 3D
+* [Taille physique] Dans la boîte de dialogue d’importation d’image, affichez la profondeur de taille physique si une map height est importée
 * [Taille physique] Afficher la Taille physique dans le menu contextuel de la ressource
 * [Taille physique] Définissez l’unité de longueur dans les Préférences
-* [Taille physique] Exportation de textures respectant le rapport physique
+* [Taille physique] textures d&#39;exportation concernant le rapport physique
 * [Métadonnées] Possibilité d’ajouter des métadonnées personnalisées à une ressource créée par l’utilisateur
 * [Exporter] Exporter des métadonnées personnalisées vers des fichiers .sbs(ar)
 * [Exporter] Exportez les métadonnées de description, de catégorie, d’auteur et de balises vers des fichiers .sbs(ar)
 * [Exporter] Exportez la Taille physique vers des fichiers .sbs(ar)
-* [Export] Définition du paramètre de compression du fichier .sbsar
+* [Export] Définition du paramètre de compression .fichier sbsar
 * [Exporter] Exportez la vignette de la ressource vers des fichiers .sbs(ar)
-* [Exporter] Définition du type de graphique lors de l’exportation d’un fichier .sbs(ar)
-* [Application] Realtime Engine 2021 n’est plus disponible
-* [Application] La fonction Annuler/Rétablir prend désormais en charge les modifications des curseurs Limites (U,V) et Échelle height
+* [Export] Définir le type de graphe lors de l&#39;exportation d&#39;un fichier .sbs(ar)
+* [Application] Realtime Moteur 2021 n’est plus disponible
+* [Application] La fonction Annuler/Rétablir prend désormais en charge les modifications des curseurs de Répétition (U,V) et d’échelle height
 * [Rendu] Générer le cache disque lorsque l’actif créé est enregistré
 * [Actifs] Utilisez Ctrl+clic pour activer plusieurs filtres de type d’actif dans le panneau Ressources
-* [UI] Possibilité de verrouiller les curseurs de mosaïque (U,V)
+* [UI] Possibilité de verrouiller les curseurs de Répétition (U,V)
 * [UI] Ajoutez un menu contextuel avec « Copier », « Couper », « Coller », « Copier tout » et « Couper tout » dans les champs de texte
 * [UI] Unité de longueur (mètres, pouces, parsecs, ...) prise en charge dans les libellés et les champs de texte
 * [UI] L’utilisateur peut définir la précision décimale utilisée pour afficher les nombres
@@ -121,32 +121,32 @@ De nouvelles fonctionnalités d’exportation ont été ajoutées à cette versi
 * [Contenu] Nouveau filtre de changement de canal
 * [Contenu] Tous les filtres concernés connaissent désormais la Taille physique
 * [Contenu] Nouvelles icônes de finition du bois
-* [Contenu] Tous les filtres sont désormais compatibles avec les canaux ASM (Adobe Standard Materials)
+* [Contenu] Tous les filtres sont désormais compatibles avec les canaux Adobe Standard Material (ASM)
 * [Contenu] Les filtres peuvent désormais avoir une variante « environnement »
 
 **Fixe :**
 
-* [Vue 2D] Le canal reste dans la liste lorsqu’il est supprimé
+* [vue 2D] Le canal reste dans la liste lorsqu’il est supprimé
 * [Application] Impossible de dupliquer une ressource chargée à partir de l&#39;explorateur de fichiers du système d&#39;exploitation
-* [Application] Blocage à la sortie
-* [Application] Blocage parfois lorsque vous cliquez sur « Ressources de démarrage » dans le panneau Ressources
-* [Application] Blocage lors de la suppression d’un matériau
+* crash [Application] à la sortie
+* [Application] Crash parfois lorsque vous cliquez sur « Ressources de démarrage » dans le panneau Ressources
+* crash [Application] lors de la suppression d’un matériau
 * [Application] La variable d’environnement « SUBSTANCE\_DISABLE\_SPECIFIC\_FEATURES » est toujours active lorsqu’elle est définie sur « 0 » ou « ».
-* [Application] Blocage lors de l’enregistrement d’un projet avec plusieurs matériaux
-* [Application] L’importation d’une image peut entraîner un blocage
+* [Application] Blocage lors de l’enregistrement d’un projet comportant plusieurs matériaux
+* [Application] L’importation d’une image peut entraîner un crash
 * [Application] Ressources de démarrage manquantes au premier lancement
-* [Export] L’exportation d’une ressource entraîne parfois un blocage
+* [Exporter] L’exportation d’une ressource entraîne parfois un crash
 * [Calques] Impossible d’importer des images lorsque le panneau Calques est fermé ou invisible
 * [Calques] La modification de la langue entraîne le recalcul de l’actif actuel
 * [Calques] La modification de l’utilisation d’une image importée ne met pas à jour la variante de filtre à utiliser
-* [Calques] L’effet Image vers matériau (IA) n’est parfois pas calculé lors de l’ajustement des calques situés en dessous
-* [Calques] Image vers matériau (AI) est parfois recalculé lorsque cela n’est pas nécessaire
+* [Calques] L’option Image vers Matériau (IA) n’est parfois pas calculée lors de l’ajustement des calques situés en dessous
+* [Calques] L’option Image vers Matériau (IA) est parfois recalculée lorsque cela n’est pas nécessaire
 * [Calques] Aucune mise à jour n’est suggérée lorsqu’un filtre personnalisé est mis à jour sur le disque
 * [Calques] Le format de pixel de la couche normale est parfois incorrect
 * [Calques] Certains calques sont toujours calculés, même lorsqu’ils ne sont pas visibles
-* [Calques] Les outils d’affichage 2D peuvent être rompus lors du basculement de la visibilité d’un calque
-* [Calques] L’interface utilisateur se fige lors de l’utilisation de Image vers matériau (AI)
-* [Calques] Le fait de basculer la visibilité du calque du filtre Transformation rompt l’outil d’affichage 2D et peut entraîner un blocage
+* [Calques] Les outils Vue 2D peuvent être rompus lors du basculement de la visibilité d’un calque
+* [Calques] L’interface utilisateur se bloque lors de l’utilisation de l’option Image vers Matériau (AI)
+* [Calques] Le fait de basculer la visibilité du calque de Transforme casse l’outil Vue 2D et peut entraîner un crash
 * [Calques] Trop de nouveaux calculs lors de la suppression d’un calque de la pile de calques
 * [Calques] Lorsqu’un filtre composé contient une entrée/sortie inhabituelle ou personnalisée, Sampler ne la calcule pas
 * [Performances] Le panneau Actifs est lent à s’ouvrir
@@ -154,10 +154,10 @@ De nouvelles fonctionnalités d’exportation ont été ajoutées à cette versi
 * [Performance] Le chargement des ressources du projet prend trop de temps
 * [Performance] Le cache de rendu sur le disque ne peut pas être utilisé
 * [Performances] Le basculement entre les calques est lent
-* [Performance] Le réglage d’un matériau ou d’un filtre est lent
-* [Projet] L’enregistrement d’un projet en quittant peut entraîner un blocage
+* [Performances] L’ajustement d’un matériau est lent
+* [Projet] L’enregistrement d’un projet en quittant peut entraîner un crash
 * [Rendu] La suppression d’une image peut supprimer toutes les sorties
-* [Rendu] Le temps de rendu affiché dans la clôture est incorrect lors de l’ajustement
+* [Rendu] L’heure de rendu affichée dans le viewport est incorrecte lors des ajustements
 * [UI] Impossible de faire défiler verticalement dans la fenêtre contextuelle d’exportation si nécessaire
 * [UI] Il est possible d’ouvrir la fenêtre contextuelle d’exportation lorsque rien ne doit être exporté
 * [UI] Certaines fenêtres ne défilent pas si leur contenu déborde

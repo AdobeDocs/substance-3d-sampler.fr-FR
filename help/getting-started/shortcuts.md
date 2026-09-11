@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/shortcuts.html"
 breadcrumb-title: ''
-description: Accédez aux raccourcis clavier de Substance 3D Sampler pour accélérer votre workflow et améliorer l’efficacité de la création de matières.
+description: Accédez aux raccourcis clavier de Substance 3D Sampler pour accélérer votre workflow et améliorer l’efficacité de la création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Shortcuts
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 16%
 
 # Raccourcis
 
-Cette page répertorie tous les raccourcis clavier disponibles et leurs actions.
+Cette page répertorie tous les raccourci clavier disponibles et leurs actions.
 
 ## Raccourcis globaux
 
@@ -31,21 +31,21 @@ Cette page répertorie tous les raccourcis clavier disponibles et leurs actions.
 | Enregistrer | Ctrl + S | ⌘ + S |
 | Enregistrer sous | Ctrl + Maj + S | ⌘ + Maj + S |
 | Exporter | Ctrl + E | ⌘ + E |
-| Vue 3D uniquement | 3 | 3 |
-| Vue 2D uniquement | 2 | 2 |
+| vue 3D uniquement | 3 | 3 |
+| vue 2D uniquement | 2 | 2 |
 
-## Raccourcis de vue 3D
+## Raccourcis vue 3D
 
 | *Action* | *Windows* | *MacOS* |
 | --- | --- | --- |
 | Rotation de la caméra | Alt + Souris gauche ou Souris gauche | Option + Souris gauche ou Souris gauche |
-| Panoramique de l’appareil photo | Alt + Souris au milieu ou Souris au milieu | Option + Milieu souris ou Milieu souris |
-| Zoom de l’appareil photo | Alt + Souris à droite ou Molette de la souris | Option + Souris à droite ou Molette de la souris |
+| Caméra | Alt + Souris au milieu ou Souris au milieu | Option + Milieu souris ou Milieu souris |
+| Zoom caméra | Alt + Souris à droite ou Molette de la souris | Option + Souris à droite ou Molette de la souris |
 | Mise au point | F | F |
 | Rotation de l&#39;environnement | Maj + Souris + Touche droite | Maj + Souris + Touche droite |
 | Visibilité de l&#39;environnement | 1 | 1 |
 
-## Raccourcis de la vue 2D
+## Raccourcis vue 2D
 
 <table data-preserve-html="true" style="width: 50.061%;">
 <colgroup><col style="width: 39.9838%;"/><col style="width: 30.5565%;"/><col style="width: 29.5004%;"/></colgroup><tbody><tr><th><i>Action</i></th>
@@ -130,7 +130,7 @@ Cette page répertorie tous les raccourcis clavier disponibles et leurs actions.
 </tr><tr><td>Transformation centrée + Conserver le rapport</td>
 <td>Maj+CTRL+Souris vers la gauche</td>
 <td>Maj + <span class="NormalTextRun SCXW1728708 BCX0">⌘</span> + Souris gauche</td>
-</tr><tr><td colspan="3" data-highlight-colour="grey" title="Couleur d’arrière-plan : Gris"><b>Tampon de duplication</b></td>
+</tr><tr><td colspan="3" data-highlight-colour="grey" title="Couleur d’arrière-plan : Gris"><b>Tampon clone</b></td>
 </tr><tr><td>Nouvelle source</td>
 <td>CTRL + Souris à gauche</td>
 <td><span class="NormalTextRun SCXW1728708 BCX0">⌘</span> + Souris gauche</td>
@@ -141,13 +141,13 @@ Cette page répertorie tous les raccourcis clavier disponibles et leurs actions.
 </td>
 <td><p>Option + Souris à gauche</p>
 </td>
-</tr><tr><td><p>Panoramique de l’appareil photo</p>
+</tr><tr><td><p>Caméra</p>
 </td>
 <td><p>Alt + Milieu de la souris</p>
 <span class="EOP SCXW209008232 BCX0"></span></td>
 <td><p>Option + milieu de la souris</p>
 </td>
-</tr><tr><td><p>Zoom de l’appareil photo</p>
+</tr><tr><td><p>Zoom caméra</p>
 </td>
 <td><p>Alt + Souris à droite</p>
 <p> </p>

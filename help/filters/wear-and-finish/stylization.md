@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/stylization.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Stylisation de Substance 3D Sampler pour appliquer des effets artistiques et des looks stylisés à vos matières et textures.
+description: Utilisez le filtre Stylisation de Substance 3D Sampler pour appliquer des effets artistiques et des looks stylisés à vos matériaux et textures.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 1%
 
 ## Description
 
-Utilisez le <b>filtre de stylisation</b> pour modifier l&#39;aspect de votre matière afin de simplifier les détails avec différents effets.
+Utilisez le <b>filtre de stylisation</b> pour modifier l&#39;aspect de votre matériau afin de simplifier les détails avec différents effets.
 
-Les images ci-dessous montrent le matériau de l’écorce avant et après l’application du filtre Esthétiques.
+Les images ci-dessous montrent le matériau d’écorce avant et après l’application du filtre Esthétiques.
 
 ![](../../assets/stylization-regular-bark.png)
 
@@ -57,11 +57,11 @@ Les images ci-dessous montrent le matériau de l’écorce avant et après l’a
 
 <b>Pictural</b>
 
-    Ce paramètre prédéfini applique au matériau un effet de coups de pinceau flous et doux
+    Ce paramètre prédéfini applique au matériau un effet de coups de pinceau flou et flou
 
 <b>Peint À La Main</b>
 
-    Ce paramètre prédéfini applique plus de contraste que les précédents. Il imite les coups de pinceau manuels de gouache ou de peinture à l’huile
+    Ce paramètre prédéfini offre plus de contraste que les précédents. Il imite les coups de pinceau manuels de gouache ou de peinture à l’huile
 
 ## Paramètres de base
 
@@ -69,25 +69,25 @@ Les images ci-dessous montrent le matériau de l’écorce avant et après l’a
   Valeur de départ aléatoire sur laquelle tous les autres paramètres aléatoires de ce filtre sont basés.
 
 * <b>Intensité globale du filtre</b> : 0-1 \
-  Réglez le degré d’application des effets de ce filtre sur le matériau d’origine. Définissez sur 1 pour appliquer l’effet complet.
+  Réglez le degré d’application des effets de ce filtre sur votre matériau d’origine. Définissez sur 1 pour appliquer l’effet complet.
 
 * <b>Contraste</b> : 0-1 \
-  Modifiez le niveau de contraste qui s’applique à votre matière
+  Modifier le niveau de contraste qui s’applique à votre matériau
 
 * <b>Intensité de la stylisation de couleur</b> : 0-1 \
   Réglez l’impact de l’effet de stylisation du filtre sur la couleur du matériau
 
-* <b>Intensité de la stylisation de la rugosité</b> : 0-1 \
-  Réglez l’effet de stylisation du filtre sur la rugosité de la matière
+* <b>Intensité de la stylisation de Rugosité</b> : 0-1 \
+  Réglez l’impact de l’effet de stylisation du filtre sur la rugosité du matériau
 
-* <b>Intensité de la stylisation métallique</b> : 0-1 \
-  Réglez l’impact de l’effet de stylisation du filtre sur la métallurgie de votre matériau
+* <b>Intensité de la stylisation Métallique</b> : 0-1 \
+  Réglez l’impact de l’effet de stylisation du filtre sur la métallurgie du matériau
 
 * <b>Intensité de la stylisation d&#39;Height</b> : 0-1 \
-  Réglez l’impact de l’effet de stylisation du filtre sur l’height de votre matière
+  Ajustez l’impact de l’effet de stylisation du filtre sur l’height de votre matériau
 
 * <b>Intensité de la stylisation normale</b> : 0-1 \
-  Réglez l’impact de l’effet de stylisation du filtre sur la normalité de votre matière
+  Réglez l’impact de l’effet de stylisation du filtre sur la normalité de votre matériau
 
 ## Couleur de base
 
@@ -110,48 +110,48 @@ Les images ci-dessous montrent le matériau de l’écorce avant et après l’a
   Réglez l’intensité de la couleur qui apparaît dans les zones creusées du matériau, couleur définie dans la case Couleur de cavité
 
 * <b>Couleur de la cavité</b> : couleur \
-  Définit la couleur qui sera appliquée dans les zones enfoncées du matériau
+  Définit la couleur à appliquer aux zones creusées du matériau
 
 * <b>Plage de cavité</b> : 0-1 \
-  Définit la largeur des zones enfoncées dans le matériau.
+  Définit la largeur des zones creusées dans le matériau.
 
 * <b>Flou de cavité</b> : 0-1\
   Ajustez le niveau de flou dans les zones situées au bord des cavités du matériau
 
-* <b>Intensité de la courbure</b> : 0-1 \
-  Modifiez la visibilité du point le plus haut des matériaux, coloré avec la couleur définie dans le paramètre « Courbure Color »
+* <b>Intensité de la Courbure</b> : 0-1 \
+  Modifiez la visibilité du point le plus haut des matériaux, coloré avec la couleur définie dans le paramètre « Couleur de Courbure »
 
-* <b>Courbure Coloriser l&#39;intensité</b> : 0-1 \
-  Réglez l’opacité de la couleur définie dans le paramètre Couleur de courbure
+* <b>Coloriser l&#39;intensité de la Courbure</b> : 0-1 \
+  Réglez l’opacité de la couleur définie dans le paramètre Couleur de Courbure
 
-* <b>Couleur de courbure</b> : couleur \
+* <b>Couleur de la Courbure</b> : couleur \
   Définissez la couleur qui sera appliquée sur les points les plus élevés du matériau
 
-* <b>Flou de courbure</b> : 0-1 \
-  Réglez le niveau de flou autour des zones colorées par le paramètre « Courbure de couleur »
+* <b>Flou de Courbure</b> : 0-1 \
+  Ajustez le niveau de flou autour des zones colorées par le paramètre « Couleur de la Courbure »
 
 ## Grunge
 
 * <b>Intensité de l&#39;Usure/salissures</b> : 0-1 \
-  Ajoute une texture usure/salissures au-dessus de la matière. La carte usure/salissures peut être choisie ci-dessous.
+  Ajoute un mappage usure/salissures au-dessus du matériau. La carte usure/salissures peut être choisie ci-dessous.
 
 * <b>Couleur Usure/salissures</b> : color \
   Choisir la couleur qui sera utilisée pour appliquer la carte d&#39;usure/salissures choisie
 
-* <b>Rugosité de l&#39;Usure/salissures</b> : 0-1 \
-  Ajustez le niveau ou la rugosité qui sera appliqué à la texture usure/salissures ajoutée
+* <b>Rugosité Usure/salissures</b> : 0-1 \
+  Ajuster le niveau ou la rugosité qui sera appliquée au mappage usure/salissures ajouté
 
-* <b>Usure/salissures métallique</b> : 0-1 \
+* <b>Usure/salissures Métallique</b> : 0-1 \
   Ajustez le niveau de métal qui sera appliqué à la texture usure/salissures ajoutée
 
-* <b>Variation de la rugosité de l&#39;Usure/salissures</b> : 0-1 \
-  Choisissez le niveau de variation de la rugosité appliquée à la texture usure/salissures ajoutée
+* <b>Variation de Rugosité d&#39;Usure/salissures</b> : 0-1 \
+  Choisir le niveau de variation de la rugosité appliquée à la carte usure/salissures ajoutée
 
-* <b>Intensité de la variation de la rugosité de l&#39;Usure/salissures</b> : 0-1 \
+* <b>Intensité de la variation de Rugosité d&#39;Usure/salissures</b> : 0-1 \
   Choisissez le niveau de variation de l’intensité de la variation appliquée à la courbe d’usure/salissures ajoutée
 
 * <b>Usure/salissures</b> : image \
-  Choisissez une image ou un générateur de textures disponible dans la bibliothèque de ressources de Sampler pour l’utiliser comme texture usure/salissures
+  Choisissez une image ou un générateur de Textures disponible dans la bibliothèque d’actifs de Sampler pour l’utiliser comme mappage usure/salissures
 
 ## Paramètres techniques
 
@@ -162,13 +162,13 @@ Les images ci-dessous montrent le matériau de l’écorce avant et après l’a
   Réglage du rayon de l’effet de netteté globale
 
 * <b>Recalculer la normale</b> : activer/désactiver \
-  Autoriser Sampler à recalculer la normale après les modifications qui ont été appliquées à la matière
+  Autoriser Sampler à recalculer la normale après les modifications qui ont été appliquées au matériau
 
 * <b>Intensité normale</b> : 0-1 \
-  Régler l&#39;intensité de la texture Normale
+  Régler l’intensité de la Map normal
 
 * <b>Adoucissement normal</b> : 0-1\
-  Adoucissez la normale pour un aspect plus lisse de votre matière
+  Adoucissez la normalité pour un aspect plus lisse de votre matériau
 
-* <b>Intensité de l&#39;Occlusion ambiante</b> : 0-1\
+* <b>Intensité de l&#39;Ambient occlusion</b> : 0-1\
   Régler le niveau de contraste sur la carte AO

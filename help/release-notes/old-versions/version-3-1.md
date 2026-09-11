@@ -46,7 +46,7 @@ Une nouvelle fonction de modification offre une grande souplesse de mise à jour
 
 ### Nouvelle interface utilisateur de recadrage
 
-Sampler dispose désormais d’un widget Recadrage approprié et repensé pour définir facilement la zone recadrée. Vous n’obtiendrez pas non plus de résultats étirés lors du recadrage d’images non carrées en textures carrées.
+Sampler dispose désormais d’un widget Recadrage approprié et repensé pour définir facilement la zone recadrée. Vous obtiendrez également des résultats non étirés lors du recadrage d&#39;images non carrées en textures carrées.
 
 ![](../../assets/crop-9.jpg){width="500px"}
 
@@ -56,9 +56,9 @@ Modifiez vos préférences pour définir le [format normal](../../interface/pref
 
 ![](../../assets/7-normal-format-preferences.jpg){width="250px"}
 
-### Exportation des propriétés de matériau dans SBSAR
+### Propriétés de matériau Exporter dans SBSAR
 
-Tous les paramètres de matière des paramètres du Shader (échelle normale, échelle d&#39;height, niveau d&#39;height,...) sera exporté dans le fichier SBSAR pour être lu dans Substance 3D Stager pour une correspondance parfaite des matériaux.
+Tous les paramètres matériaux des réglages Shader (échelle normale, échelle height, niveau height,...) sera exporté dans le Fichier sbsar pour être lu dans Substance 3D Stager pour une correspondance de matériau parfaite.
 
 ![](../../assets/material-consistency-sa-sg.jpg){width="500px"}
 
@@ -85,40 +85,40 @@ Tous les paramètres de matière des paramètres du Shader (échelle normale, é
 * [UI] Nouvelle interface utilisateur du curseur Niveaux de gris
 * [Application] Ajout d’une sélection de format normal dans les préférences
 * [Application] Le format normal des calques d’importation d’images suit le format normal par défaut défini dans les préférences
-* [Application] Dans la vue 2D, la normale s’affiche selon le format normal défini dans les préférences
+* [Application] Dans la Vue 2D, la normale s’affiche selon le format défini dans les préférences
 * [Application] La normale est exportée dans le format normal défini dans les préférences
-* [Export] Ajouter un paramètre de format normal aux exportations de fichiers SBS et SBSAR
-* [Exporter] Ajout de paramètres de nuanceur aux exportations de fichiers SBS et SBSAR
-* [Export] Définition de la résolution par défaut des graphiques SBS exportés
+* [Export] Ajout d’un paramètre de format normal aux exportations SBS et Fichier sbsar
+* [Export] Ajout de paramètres shader aux exportations SBS et Fichier sbsar
+* [Export] Définition de la résolution par défaut des graphes SBS exportés
 * [Compound Filters] Assemblage de filtres SSA avec 7z
 * [Filtres composés] Ajout de métadonnées de catégorie dans les filtres composés
 * [Filtres composés] Les filtres composés peuvent comporter une vignette incorporée
 * [Compound Filters] Extension Compound Filters ajoutée (.ssafilter) à la boîte de dialogue Obtenir le contenu du fichier
 * [Filtres composés] Importez des filtres composés (.ssafilter) dans le panneau Actifs
-* [Moteur] Mettre à jour le moteur Substance vers la version 8.2.0
+* [Moteur] Mise à jour de Substance moteur vers la version 8.2.0
 
 **Fixe :**
 
 * [Application] Les dossiers locaux connectés peuvent se bloquer
-* [Application] Blocage à la sortie
-* [Application] Blocage lors du lancement de deux instances de Sampler
+* crash [Application] à la sortie
+* crash [Application] lors du lancement de deux instances de Sampler
 * [Contenu] Le filtre de recadrage a un ajustement aléatoire de la valeur initiale
 * [Contenu] Certains matériaux de Substance ne sont parfois pas mis à niveau
-* [Export] Blocage lors de l’exportation avec un nouveau paramètre prédéfini personnalisé
+* [Exporter] Crash lors de l’exportation avec un nouveau paramètre prédéfini personnalisé
 * [Export] Taille estimée du package manquante dans la fenêtre contextuelle d’exportation
-* [Export] Correction de la fuite de mémoire lors de l’exportation de fichiers SBS et SBSAR
+* [Export] Corriger une fuite de mémoire lors de l’exportation de fichiers SBS et SBSAR
 * [Filtres composés] Les filtres composés peuvent avoir des entrées en double
-* [Filtres composés] Blocage si un filtre a des références non satisfaites
-* [Filtres composés] Blocage lors de la réorganisation d’une pile de calques contenant un filtre composé
+* [Compound Filters] Crash si un filtre a des références non satisfaites
+* [Filtres composés] Crash lors de la réorganisation d’une pile de calques contenant un filtre composé
 * [Filtres composés] Le rendu se bloque parfois
 * [Image importée] L’importation d’une image déclenche plusieurs rendus
-* [Calques] Blocage lors de l’annulation/la restauration
-* [Calques] Blocage lors de l’ajout d’un Matériau de base
-* [Calques] Blocage lors de l’utilisation d’une image non valide comme éclairage d’environnement
-* [Calques] Correction de l’importation en double lors de l’insertion d’un filtre avec plusieurs graphiques
+* [Calques] Crash lors de l’annulation/la restauration
+* [Calques] Crash lors de l’ajout d’un Matériau de base
+* crash [Calques] lors de l’utilisation d’une image non valide comme éclairage d&#39;environnement
+* [Calques] Correction de l’importation en double lors de l’insertion d’un filtre à plusieurs graphes
 * [Calques] La réorganisation des calques ne fonctionne pas toujours
-* [Projet] Blocage lors du chargement d’un fichier de projet incomplet
-* [Projet] Blocage lors de l’ouverture d’un projet corrompu
+* crash [Projet] lors du chargement d’un fichier de projet incomplet
+* crash [Projet] lors de l’ouverture d’un projet corrompu
 * [Projet] Certaines ressources peuvent disparaître d’un projet
 * [Propriétés] Correction des paramètres prédéfinis de filtre manquants
 * [UI] Impossible de définir les paramètres d&#39;angle
@@ -130,6 +130,6 @@ Tous les paramètres de matière des paramètres du Shader (échelle normale, é
 
 **Problèmes Connus :**
 
-* [Realtime Engine 2021] Un calcul lourd peut bloquer l’application
-* [Realtime Engine 2021] Realtime Engine 2021 se bloquera sur un ordinateur Windows sur lequel le processeur AMD et le GPU Nvidia sont installés
+* [Realtime Moteur 2021] Le calcul lourd peut effectuer un crash de l’application
+* [Realtime Moteur 2021] Realtime Moteur 2021 effectuera le crash sur un ordinateur Windows sur lequel le processeur AMD et le GPU Nvidia sont installés
 * [Sélecteur de couleurs] Le choix d’une couleur sur un deuxième moniteur avec une résolution différente peut ne pas fonctionner

@@ -39,11 +39,11 @@ Vous pouvez voir ci-dessous ce que fait le **filtre Aperçu de l&#39;exposition*
 
 ![](../../assets/3d-2d-filters-cropped-0029-exposure-preview-in.jpg)
 
-Dans l&#39;image ci-dessus, une luminosité de l&#39;environnement a été créée et les données de l&#39;image HDR sont visibles dans la **vue 2D**.
+Dans l&#39;image ci-dessus, un éclairage d&#39;environnement a été créé et les données d&#39;image HDR sont visibles dans la **Vue 2D**.
 
 ![](../../assets/filters-cropped-0028-exposure-preview-out.jpg)
 
-Avec l&#39;**aperçu de l&#39;exposition** **filtre** ajouté à la pile de calques, un nouveau canal - Diagnostics de l&#39;environnement - devient disponible pour afficher l&#39;éclairage de l&#39;environnement à différentes expositions.
+Avec l&#39;**aperçu de l&#39;exposition** **filtre** ajouté à la pile de calques, un nouveau canal - Diagnostics de l&#39;environnement - devient disponible pour afficher l&#39;éclairage d&#39;environnement à différentes expositions.
 
 </td>
 </tr>
@@ -60,6 +60,6 @@ Avec l&#39;**aperçu de l&#39;exposition** **filtre** ajouté à la pile de calq
 
 ## Guide d’utilisation
 
-Le **filtre Aperçu de l&#39;exposition** fonctionne un peu différemment des autres filtres Sampler. Il s&#39;agit d&#39;un outil conçu pour vous aider à trouver l&#39;exposition correcte à la lumière de votre environnement, mais il n&#39;a aucun impact sur le canal Environnement. En revanche, lorsque vous ajoutez le **filtre Aperçu de l&#39;exposition** à la pile de calques, un canal supplémentaire devient disponible dans la **vue 2D**, à savoir le canal Diagnostic de l&#39;environnement.
+Le **filtre Aperçu de l&#39;exposition** fonctionne un peu différemment des autres filtres Sampler. Il s&#39;agit d&#39;un outil conçu pour vous aider à déterminer l&#39;exposition correcte de votre éclairage d&#39;environnement, mais il n&#39;a aucun impact sur le canal Environnement. En revanche, lorsque vous ajoutez le **filtre Aperçu de l&#39;exposition** à la pile de calques de données, un canal supplémentaire devient disponible dans **Vue 2D**, le canal Diagnostic de l&#39;environnement.
 
 Si vous visualisez le canal Diagnostic de l&#39;environnement, vous devriez être en mesure de voir quelques instances de votre image d&#39;environnement 2D à des valeurs d&#39;exposition variables. Ajustez les paramètres du **filtre Aperçu de l&#39;exposition** pour modifier la plage d&#39;expositions visibles dans le canal Diagnostic de l&#39;environnement.

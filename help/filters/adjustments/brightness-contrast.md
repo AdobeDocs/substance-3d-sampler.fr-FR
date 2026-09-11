@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Luminosité/Contraste de Substance 3D Sampler pour régler les niveaux de luminosité et de contraste des textures et des calques Matériau.
+description: Utilisez le filtre Luminosité/Contraste de Substance 3D Sampler pour régler les niveaux de luminosité et de contraste dans les calques de texture et de matériau.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > BrightnessContrast
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Comme son nom l’indique, le filtre Luminosité/Contraste vous permet de régler la luminosité et le contraste de votre matière. Il est important de noter que vous pouvez utiliser le filtre Luminosité/Contraste pour cibler des couches spécifiques. Par exemple, vous pouvez augmenter le contraste de la couche de rugosité ou la luminosité de la couche émissive.
+Comme son nom l’indique, le filtre Luminosité/Contraste vous permet de régler la luminosité et le contraste de votre matériau. Il est important de noter que vous pouvez utiliser le filtre Luminosité/Contraste pour cibler des couches spécifiques. Par exemple, vous pouvez augmenter le contraste de la couche rugosité ou la luminosité de la couche emissive.
 
 Dans les images ci-dessous, le **filtre Luminosité/Contraste** a été utilisé pour augmenter la luminosité et le contraste d&#39;un matériau de mosaïque.
 
@@ -72,7 +72,7 @@ Dans les images ci-dessous, le **filtre Luminosité/Contraste** a été utilisé
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer une peinture personnalisée directement dans la Vue 2D
   * **Masque personnalisé - Flou** : 0-1\
     Flouter le masque
   * **Masque personnalisé - Inverser** : activer/désactiver\

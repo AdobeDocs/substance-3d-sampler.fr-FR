@@ -33,7 +33,7 @@ Générateurs De **Entrée :**
 
 ## Description
 
-Le filtre Broderie vous permet de convertir rapidement des images en correctifs brodés. Vous pouvez personnaliser l’apparence des correctifs et utiliser les outils de gestion des couleurs pour faire office de masque pour plusieurs matières.
+Le filtre Broderie vous permet de convertir rapidement des images en correctifs brodés. Vous pouvez personnaliser l’apparence des correctifs et utiliser les outils de gestion des couleurs pour faire office de masque pour plusieurs matériaux.
 
 Les images ci-dessous montrent le **filtre Broderie** en action.
 
@@ -61,7 +61,7 @@ En savoir plus [ici](../../pipeline-and-integrations/tajima-exporter-plugin.md).
 * <b>Générateur aléatoire</b> :\
   Valeur de départ aléatoire sur laquelle sont basés tous les autres paramètres aléatoires de ce filtre.
 * <b>Image</b> : image/masque\
-  Sélectionnez une image sur votre système ou peignez un masque personnalisé.
+  Sélectionnez une image sur votre système ou créez une peinture personnalisée.
 * <b>Nombre de couleurs</b> : 1-8\
   Le filtre de broderie essaiera de diviser les images importées en couleurs distinctes. Modifiez cette valeur pour modifier le nombre de couleurs utilisées.
 * <b>Densité</b> : 80-300\
@@ -91,16 +91,16 @@ Utilisez les commandes pour régler chaque zone de couleur individuellement.
 * <b>Couleur personnalisée :</b>\
   Personnalisation de la couleur de toute la broderie
 * <b>Rugosité :</b>0-1\
-  Modifiez la valeur du curseur Rugosité pour rendre la broderie rugueuse ou brillante.
+  Modifiez la valeur Rugosité pour rendre la broderie rugueuse ou brillante.
 * <b>Métallique :</b>0-1\
-  Modifiez la valeur Métallique pour ajouter un aspect métallique aux filetages.
-* <b>Niveau d&#39;Anisotropie : </b>0-1\
-  Modifiez le niveau d’Anisotropie pour accentuer le caractère métallique.
+  Modifiez la valeur Métallique pour ajouter une touche métallique aux filetages.
+* <b>Anisotropy level : </b>0-1\
+  Modifiez l&#39;Anisotropy level pour accentuer le caractère métallique.
 
 <b>Avancé</b>
 
 * <b>Intensité normale</b> : 0-1\
-  Réglez l’intensité des normales.
+  Ajustez la force des normales.
 * <b>Plage d&#39;Heights :</b> 0-1\
   Ajustez la position Height de la broderie sur le matériau de base.
 * <b>Position Height :</b> 0-1\
@@ -122,10 +122,10 @@ Pour utiliser le filtre Broderie :
    Le filtre Broderie fonctionne mieux avec les couleurs plates et les images illustrées.
 1. Réglez d’autres paramètres pour affiner l’apparence de votre correctif.
 
-Il est possible d’utiliser des images transparentes dans le filtre Broderie, mais par défaut, elles auront également un impact sur la carte d’opacité de votre matériau. Les parties transparentes de l’image rendront également le matériau transparent. Pour créer un patch avec le filtre Broderie et le faire reposer sur les calques sous-jacents, utilisez le filtre Décalcomanie.
+Il est possible d’utiliser des images transparentes dans le filtre Broderie, mais par défaut, cela aura également un impact sur la map opacity de votre matériau. Les parties transparentes de l’image rendront également le matériau transparent. Pour créer un patch avec le filtre Broderie et le faire reposer sur les calques sous-jacents, utilisez le filtre Décalcomanie.
 
 1. Créez un filtre Décalcomanie.
 1. Ajoutez le filtre Broderie à l’emplacement d’entrée du filtre Décalcomanie.
 1. Suivez les étapes normales pour ajuster le motif de broderie.
 
-Le calque de la décalcomanie convertit l’entrée Broderie en une décalcomanie. La transparence du calque Broderie indique donc au calque de la décalcomanie comment masquer le motif Brodé. Avec le calque Décalcomanie, vous pouvez également déplacer le motif sur votre matériau ou activer des fonctionnalités telles que la mosaïque.
+Le calque de la décalcomanie convertit l’entrée Broderie en une décalcomanie. La transparence du calque Broderie indique donc au calque de la décalcomanie comment masquer le motif Brodé. Avec le calque Décalcomanie, vous pouvez également déplacer le motif sur votre matériau ou activer des fonctionnalités telles que la répétition.

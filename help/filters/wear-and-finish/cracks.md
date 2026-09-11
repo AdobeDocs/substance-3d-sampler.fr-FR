@@ -33,9 +33,9 @@ ht-degree: 1%
 
 ## Description
 
-Utilisez le **filtre Fissures** pour vieillir et endommager votre matériel en y ajoutant un réseau de fissures et de fissures.
+Utilisez le **filtre Fissures** pour vieillir et endommager votre matériau en y ajoutant un réseau de fissures et de crevasses.
 
-Le **filtre Fissures** a été appliqué à un matériau en marbre propre.
+Le filtre **Fissures** a été appliqué à un matériau en marbre propre.
 
 <table>
 <tr style="border: 0;">
@@ -72,7 +72,7 @@ Le **filtre Fissures** a été appliqué à un matériau en marbre propre.
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
   * **Masque personnalisé - Inverser** : activer/désactiver\
     Inversez le masque.
 
@@ -80,22 +80,22 @@ Le **filtre Fissures** a été appliqué à un matériau en marbre propre.
 
 * **Couleur des Fissures** : sélection de la couleur\
   Modifiez la couleur de la surface intérieure révélée par les fissures.
-* **Rugosité des Fissures** : 0-1\
-  Réglez la valeur de rugosité des fissures.
-* **Opacité de la rugosité des Fissures** : 0-1\
-  Ajustez l&#39;impact de la valeur de **rugosité des Fissures** sur la carte de rugosité
-* **Fissures métalliques** : 0-1\
+* **Rugosité Fissures** : 0-1\
+  Ajustez la valeur de rugosité des fissures.
+* **Opacité de la Rugosité des Fissures** : 0-1\
+  Ajuster l&#39;impact de la valeur de la **Rugosité des Fissures** sur la feuille de rugosité
+* **Fissures Métalliques** : 0-1\
   Modifiez la valeur métallique des fissures.
-* **Opacité métallique des Fissures** : 0-1\
-  Ajustez l&#39;impact de la valeur **Fissures métalliques** sur la carte métallique
+* **Opacité Métallique des Fissures** : 0-1\
+  Ajuster l&#39;impact de la valeur **Fissures Métalliques** sur le mappage métallique
 * **Intensité de l&#39;height des Fissures** : 0-1\
-  Ajustez la profondeur des fissures. Cela a un impact à la fois sur le mappage d&#39;height et sur les résultats de mappage normaux du filtre.
+  Ajustez la profondeur des fissures. Cela a un impact à la fois sur la map height et sur les résultats de map normal du filtre.
 
 **Paramètres avancés**
 
 * **Intensité normale** : 0-1\
   Ajustez la force des normales de la fissure.
 * **Plage d&#39;Height** : 0-1\
-  Modifiez la plage d’heights de la matière complète. Pour ajuster l&#39;height des fissures, utilisez **Fissures > Intensité de l&#39;Height des Fissures**.
+  Modifiez la plage d’heights du matériau complet. Pour ajuster l&#39;height des fissures, utilisez **Fissures > Intensité de l&#39;Height des Fissures**.
 * **Position Height** : 0-1\
-  Décalage de la texture height de la matière complète.
+  Décalage de la map height du matériau complet.

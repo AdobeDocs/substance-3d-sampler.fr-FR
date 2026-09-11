@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Multiangle vers matériau de Substance 3D Sampler pour créer des matériaux à partir de plusieurs photos d’angle d’une surface.
+description: Utilisez l’outil Multiangle vers matériau de Substance 3D Sampler pour créer des matériaux à partir de photos sous plusieurs angles d’une surface.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Multiangle To Material
 helpx_experience_level: ""
@@ -22,18 +22,18 @@ ht-degree: 0%
 
 ![](../../assets/sat-multi-angle.png)
 
-Le modèle **Multiangle vers matériau** crée un matériau à partir de 2 à 8 images d&#39;entrée prises dans des conditions de lumière spécifiques. De telles conditions de lumière peuvent être obtenues avec un scanner de matériau.
+Le modèle **Multiangle vers matériau** crée un matériau de 2 à 8 images d&#39;entrée prises dans des conditions d&#39;éclairage spécifiques. De telles conditions d&#39;éclairage peuvent être obtenues avec un scanner à matériau.
 
 >[!NOTE]
 >
-> Vous trouverez plus d&#39;informations sur la création de votre propre scanner de matériaux [dans cet article](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html).
+> Vous trouverez plus d&#39;informations sur la création de votre propre scanner matériau [dans cet article](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html).
 
 ## Exemple
 
-Voici un exemple de matériau créé à partir de 8 images d’entrée :
+Voici un exemple de matériau créé à partir de 8 images d&#39;entrée :
 
 * Les 8 premières images sont les images numérisées sous 8 angles lumineux.
-* Les images du bas sont les sorties du modèle (couleur de base, normale, height, métallique et rugosité).
+* Les images du bas sont les sorties du modèle (base color, normale, height, métallique et rugosité).
 
 ![](../../assets/scan-801x697.jpg){width="400px"}
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export.html"
 breadcrumb-title: ''
-description: Découvrez comment exporter des matériaux de Substance 3D Sampler dans différents formats et paramètres prédéfinis pour les utiliser dans d’autres applications et moteurs.
+description: Découvrez comment exporter des matériaux Substance 3D Sampler dans différents formats et paramètres prédéfinis pour les utiliser dans d’autres applications et moteurs.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export
 helpx_experience_level: ""
@@ -20,18 +20,18 @@ ht-degree: 2%
 
 # Exporter
 
-Vous pouvez exporter vos ressources en sélectionnant **Exporter sous** dans le **menu Fichier** ou avec le raccourci **Ctrl + E**. Cela ouvrira la [fenêtre d&#39;exportation](../../getting-started/export/export-window/export-window.md) dans laquelle vous pourrez personnaliser votre exportation.
+Vous pouvez exporter vos ressources en sélectionnant **Exporter en tant que** dans le **menu Fichier** ou avec raccourci **Ctrl + E**. Cela ouvrira la [fenêtre d&#39;exportation](../../getting-started/export/export-window/export-window.md) dans laquelle vous pourrez personnaliser votre exportation.
 
 >[!NOTE]
 >
 > Dans la **fenêtre d&#39;exportation**, la modification de l&#39;option de Modèle de matériau modifie les noms de fichiers exportés pour qu&#39;ils correspondent au modèle de matériau sélectionné.
 
-![Fenêtre d&#39;exportation avec les paramètres de matière sélectionnés](../../assets/6.0_ExportWindowMaterialSettings.png)
+![Fenêtre d&#39;exportation avec paramètres de matériau sélectionnés](../../assets/6.0_ExportWindowMaterialSettings.png)
 
 Sampler prend en charge les principaux formats de fichiers pour vos ressources :
 
 * Les matériaux peuvent être exportés sous forme de fichiers **SBS** ou **SBSAR**.
-* Vous pouvez également exporter les textures bitmap par couche dans les formats de fichier suivants :
+* Vous pouvez également exporter des textures bitmap par canal dans les matériaux suivants :
   * **EXR**
   * **JPEG**
   * **PNG**

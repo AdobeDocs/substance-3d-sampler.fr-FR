@@ -22,18 +22,18 @@ ht-degree: 4%
 
 Les outils constituent le plus grand ensemble de filtres de Sampler, il peut donc être difficile de comprendre ce qui les distingue. Le moyen le plus simple de comprendre les filtres d’outils est qu’ils sont utilisés pour résoudre des problèmes techniques avec les matériaux.
 
-De nombreux outils peuvent être utilisés sur les images et les matériaux. Il est généralement judicieux d’utiliser des filtres pour corriger une image avant de la convertir en une partie du matériau. En corrigeant d’abord l’image, les outils n’ont qu’à travailler sur une seule couche : les données d’image, tandis que la correction du matériau nécessite la correction de plusieurs couches. La correction d’un seul canal réduit la quantité de traitement requise, mais réduit également le risque d’erreurs.
+De nombreux outils peuvent être utilisés sur les images et les matériaux. Il est généralement conseillé d’utiliser des filtres pour corriger une image avant de la convertir en partie du matériau. En corrigeant d’abord l’image, les outils n’ont qu’à travailler sur un canal unique : les données d’image, tandis que la correction du matériau nécessite la correction de plusieurs couches. Seule la correction d’un canal unique réduit la quantité de traitement requise, mais réduit également le risque d’erreurs.
 
-Les filtres d&#39;outils utilisent souvent des poignées et d&#39;autres commandes dans la **vue 2D**. Il est donc souvent judicieux d&#39;afficher la **vue 2D** lorsque vous travaillez avec des outils.
+Les filtres d&#39;outils utilisent souvent des poignées et d&#39;autres commandes dans la **Vue 2D**. Il est donc souvent recommandé d&#39;afficher la **Vue 2D** lorsque vous travaillez avec des outils.
 
 >[!NOTE]
 >
 > Certains outils sont disponibles dans la **barre latérale gauche** pour un accès plus rapide :
 > 
 > * [Recadrer](crop-tool.md)
-> * [Transformation de perspective](perspective-correction.md)
-> * [Transformation](transform.md)
-> * [Tampon de duplication](clone-stamp.md)
+> * [Transforme de Perspective](perspective-correction.md)
+> * [Transformer](transform.md)
+> * [Tampon de Clone](clone-stamp.md)
 
 Sampler comprend les outils suivants :
 
@@ -41,12 +41,12 @@ Sampler comprend les outils suivants :
 * [Atlas splitter](atlas-splitter.md)
 * [Génération de canaux](channels-generation.md)
 * [Commutateur de canal](channel-switch.md)
-* [Tampon de duplication](clone-stamp.md)
+* [Tampon clone](clone-stamp.md)
 * [Outil Recadrage](crop-tool.md)
 * [Delight (optimisé par l’IA)](delight-ai-powered.md)
 * [Height à AO](height-to-ao.md)
 * [Height à la normale](height-to-normal.md)
-* [Image en matériau](image-to-material.md)
+* [Image en Matériau](image-to-material.md)
 * [Création d’une mosaïque](make-it-tile.md)
 * [Correspondance](match.md)
 * [Multiangle vers matériau](multiangle-to-material.md)
@@ -57,5 +57,5 @@ Sampler comprend les outils suivants :
 * [Répétition](tiling.md)
 * [Transformation](transform.md)
 * [Chaîne](warp.md)
-* [Transformation de déformation](warp-transform.md)
+* [Transforme de déformation](warp-transform.md)
 * [Upscale](upscale.md)

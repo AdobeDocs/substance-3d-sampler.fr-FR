@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/features-and-workflows/texture-import.html"
 breadcrumb-title: ''
-description: Apprenez à importer des textures dans Substance 3D Sampler pour utiliser les fichiers image existants dans vos workflows de création de matériaux.
+description: Découvrez comment importer des textures dans Substance 3D Sampler pour utiliser les fichiers image existants dans vos workflows de création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > Texture Import
 helpx_experience_level: ""
@@ -22,29 +22,29 @@ ht-degree: 8%
 
 ![](../assets/Capture-decran-2025-02-19-162128.png.img.png)
 
-Le modèle **Importation de texture** charge plusieurs images et les connecte automatiquement aux canaux de sortie corrects en fonction de leurs noms de fichier.
+Le modèle **Importation de Textures** charge plusieurs images et les connecte automatiquement aux canaux de sortie corrects en fonction de leurs noms de fichier.
 
-La correspondance des canaux est basée sur les conventions de dénomination spécifiques détaillées ci-dessous. En cas de duplicatas ou de textures sans correspondance, les images seront marquées comme telles dans l&#39;interface.
+La correspondance des canaux est basée sur les conventions de dénomination spécifiques détaillées ci-dessous. En cas de doublons ou de textures sans correspondance, les images seront marquées comme telles dans l&#39;interface.
 
 ## OpenPBR
 
-Sampler fera correspondre les fichiers avec les identificateurs d’OpenPBR suivants avec le canal équivalent dans le matériau.
+Sampler met en correspondance les fichiers avec les OpenPBR suivants avec le canal équivalent dans le matériau.
 
 >[!NOTE]
 >
-> Les identificateurs de canal Height sont identiques à ceux utilisés pour ASM.
+> Les identifiants de canal Height sont les mêmes que ceux utilisés pour ASM.
 
 
-| Identificateur d&#39;OpenPBR | Utilisation SBSAR |
+| Identifiant OpenPBR | Utilisation SBSAR |
 | --- | --- |
 | poids_de_base | baseWeight |
 | base_color | baseColor |
-| base_metalness | métallisme/métallique |
-| rugosité_diffusion_de_base | baseDiffuseRoughness |
+| base_metalness | métallurgie/métallique |
+| base_diffuse_rugosité | baseDiffuseRoughness |
 | specular_weight | specularWeight |
 | specular_color | specularColor |
-| Rugosité_specular | spécularRoughness/rughness |
-| specular_roughness_anisotropie | specularRoughnessAnisotropy/anisotropyLevel |
+| specular_rugosité | specularRugosité/rugosité |
+| specular_rugosité_anisotropie | specularRoughnessAnisotropy/anisotropyLevel |
 | specular_ior | IOR/IOR spéculaire |
 | transmission_weight | transmissionWeight |
 | transmission_color | transmissionColor/absorptionColor |
@@ -53,20 +53,20 @@ Sampler fera correspondre les fichiers avec les identificateurs d’OpenPBR suiv
 | transmission_dispersion_anisotropie | transmissionScatterAnisotropy |
 | transmission_dispersion_scale | transmissionDispersionScale |
 | transmission_dispersion_abbe_number | transmissionDispersionAbbeNumber |
-| subsurface_weight | subsurfacePoids/translucidité |
+| subsurface_weight | subsurfacePoids/translucency |
 | subsurface_color | subsurfaceColor/scatteringColor |
 | subsurface_radius | subsurfaceRadius/scatteringDistance |
 | subsurface_radius_scale | subsurfaceRadiusScale/scatteringDistanceScale |
 | subsurface_dispersion_anisotropie | subsurfaceScatterAnisotropy |
 | coat_weight | coatWeight/coatOpacity |
 | coat_color | coatColor |
-| rugosité_couche | rugosité du pelage |
-| anisotropie_rugosité_couche | coatRoughnessAnisotropy |
+| coat_rugosité | rugosité du pelage |
+| coat_rugosité_anisotropie | coatRoughnessAnisotropy |
 | coat_ior | coatIOR |
 | coat_darkening | coatDarkening |
 | fuzz_weight | fuzzWeight/sheenOpacity |
 | fuzz_color | fuzzColor/sheenColor |
-| rugosité_floue | fuzzRoughness/sheenRoughness |
+| fuzz_rugosité | fuzzRoughness/sheenRoughness |
 | emission_weight | emissionWeight |
 | emission_luminance | luminance d&#39;émission |
 | emission_color | emissionColor/emisive |
@@ -78,7 +78,7 @@ Sampler fera correspondre les fichiers avec les identificateurs d’OpenPBR suiv
 | normal | normal |
 | tangente | tangente |
 | coat_normal | coatNormal |
-| coat_tangent | coatTangent |
+| coat_tangente | coatTangent |
 
 ## Adobe Standard Material
 
@@ -86,11 +86,11 @@ Vous trouverez ci-dessous une liste des conventions de dénomination de fichier 
 
 | **Canal** | **Adobe Standard Material** |
 | --- | --- |
-| **Occlusion ambiante** | <ul><li>occlusion ambiante</li><li>ao</li><li>occlusion</li><li>ambient_occlusion</li></ul> |
-| **Couleur de base** | <ul><li>couleur de base</li><li>couleur</li><li>albédo</li><li>base_color</li><li>base</li><li>col</li><li>couleur</li><li>base_color</li><li>couleur de base</li></ul> |
-| **Diffus** | <ul><li>diffuse</li><li>diff</li></ul> |
-| **Émissif** | <ul><li>émissif</li></ul> |
-| **Lustre** | <ul><li>brillance</li><li>gloss</li></ul> |
+| **Ambient occlusion** | <ul><li>occlusion ambiante</li><li>ao</li><li>occlusion</li><li>ambient_occlusion</li></ul> |
+| **Base color** | <ul><li>couleur de base</li><li>couleur</li><li>albédo</li><li>base_color</li><li>base</li><li>col</li><li>couleur</li><li>base_color</li><li>couleur de base</li></ul> |
+| **Diffuse** | <ul><li>diffuse</li><li>diff</li></ul> |
+| **Emissive** | <ul><li>émissif</li></ul> |
+| **Brillance** | <ul><li>brillance</li><li>gloss</li></ul> |
 | **Height** | <ul><li>hauteur</li><li>heightmap</li><li>displacement</li><li>disp</li></ul> |
 | **Métallique** | <ul><li>métallique</li><li>mtl</li><li>métallurgie</li></ul> |
 | **Normal** | <ul><li>normal</li><li>nrm</li></ul> |

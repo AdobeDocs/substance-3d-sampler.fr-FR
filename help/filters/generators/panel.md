@@ -33,7 +33,7 @@ Générateurs De **Entrée :**
 
 ## Description
 
-Convertissez votre matière en panneaux. Le filtre Panneaux est particulièrement bien adapté aux matériaux métalliques.
+Convertissez votre matériau en panneaux. Le filtre Panneaux est particulièrement bien adapté aux matériaux métalliques.
 
 *Un matériau métallique continu converti en panneaux.*
 
@@ -56,11 +56,11 @@ Utilisez les paramètres prédéfinis pour modifier rapidement les paramètres e
 * **Générateur aléatoire** :\
   La valeur de départ aléatoire détermine les valeurs aléatoires des autres paramètres qui utilisent le caractère aléatoire dans ce filtre.
 * **X Amount** : 0-20\
-  Modification du nombre de panneaux sur l’axe X
+  Modification du nombre de panneaux dans l’axe X
 * **Quantité Y** : 0-20\
-  Modification du nombre de panneaux sur l’axe Y
-* **Type de couture** :\
-  Sélection de différents styles de coutures entre les panneaux
+  Modification du nombre de panneaux dans l’axe Y
+* **Type de Seam** :\
+  Sélection de différents styles de seams entre les panneaux
 * **Utiliser des attaches** :\
   Ajoutez des attaches entre les panneaux. Lorsque cette option est activée, la section Attaches apparaît dans la liste des paramètres.
 
@@ -79,14 +79,14 @@ Utilisez les paramètres prédéfinis pour modifier rapidement les paramètres e
 * **Variation de couleur** : 0-1\
   Variation aléatoire de la couleur entre des panneaux individuels
 * **Variation de réflexion** : 0-1\
-  Modification aléatoire de la rugosité de panneaux individuels
+  Variation aléatoire de la rugosité de panneaux individuels
 
-**Coutures**
+**Seams**
 
-La sélection des paramètres dans cette section dépend de la valeur que vous avez choisie dans **Paramètres de base > Type de couture**.
+La sélection des paramètres dans cette section dépend de la valeur que vous avez choisie dans **Paramètres de base > Type de Seam**.
 
 * ***Écart***
-  * **Largeur de couture** : 0-1\
+  * **Largeur du Seam** : 0-1\
     Modification de la largeur entre les panneaux
   * **Variation d&#39;espace** : 0-1\
     Décalez légèrement les panneaux pour faire varier la largeur des espaces entre les panneaux
@@ -95,23 +95,23 @@ La sélection des paramètres dans cette section dépend de la valeur que vous a
   * **Biseau d&#39;espace** : 0-1\
     Biseautage des bords des panneaux
 * ***Souder***
-  * **Largeur de couture** : 0-1\
+  * **Largeur du Seam** : 0-1\
     Modification de la largeur entre les panneaux
   * **Qualité de la soudure** : 0-1\
     Régler l&#39;uniformité de la soudure
   * **Décoloration de la soudure** : 0-1\
     Modifiez la quantité de décoloration de la soudure par rapport à la couleur des panneaux.
-  * **Remplacer le matériau de soudure** : activer/désactiver\
+  * **Remplacer le Matériau de soudure** : activer/désactiver\
     Activez cette option pour personnaliser le matériau utilisé pour créer la soudure. Les paramètres supplémentaires suivants apparaissent si cette option est activée :
-    * **Couleur du matériau de soudure** : sélection de couleur\
+    * **Couleur du Matériau de soudure** : sélection de couleur\
       Sélectionnez la couleur de la soudure. Cela sera toujours affecté par la **décoloration de la soudure**.
-    * **Rugosité de la matière de soudure** : 0-1\
-      Ajuster la rugosité du joint de soudure entre les panneaux
+    * **Rugosité du Matériau de soudure** : 0-1\
+      Ajuster la rugosité du seam de soudure entre les panneaux
 * ***Chevauchement***
-  * **Largeur de couture** : 0-1\
+  * **Largeur du Seam** : 0-1\
     Modification de la largeur entre les panneaux
-* ***Couture Debout***
-  * **Largeur de couture** : 0-1\
+* ***Seam debout***
+  * **Largeur du Seam** : 0-1\
     Modification de la largeur entre les panneaux
 
 **Attaches**
@@ -124,22 +124,22 @@ La sélection des paramètres dans cette section dépend de la valeur que vous a
   Modifier la taille des attaches
 * **Variation de l&#39;élément de fixation** : 0-1\
   Décaler la position des attaches
-* **Remplacer le matériau de fixation** : basculer\
+* **Remplacer le Matériau du boulon** : activer/désactiver\
   Modifiez le matériau utilisé pour les boulons séparément du matériau de base. Lorsque cette option est activée, les paramètres suivants apparaissent :
-  * **Couleur du matériau de fixation** : sélection de la couleur\
+  * **Couleur du Matériau du boulon** : sélection de la couleur\
     Sélectionner la couleur du matériau du boulon
-  * **Rugosité du matériau de fixation** : 0-1\
-    Modifier la rugosité du matériau de l&#39;élément de fixation
+  * **Rugosité du Matériau de fixation** : 0-1\
+    Modifier la rugosité du matériau du boulon
 
 **Avancé**
 
 * **Normal** **Intensité** : 0-3\
-  Régler l&#39;intensité normale globale du matériau
-* **Plage d&#39;Height des coutures** : 0-1\
-  Modifier la hauteur des coutures personnalisées au-dessus des panneaux
+  Régler l’intensité normale globale du matériau
+* **Plage d&#39;Height des Seams** : 0-1\
+  Modifier la hauteur des seams personnalisés au-dessus des panneaux
 * **Plage d&#39;Height du boulon** : 0-1\
   Modifier l&#39;height des attaches
 * **Profondeur Height AO** : 0-1\
-  Modification de l’intensité de l’AO
+  Modification de la force de l’AO
 * **Rayon AO** : 0-1\
   Modifier le rayon de l’AO

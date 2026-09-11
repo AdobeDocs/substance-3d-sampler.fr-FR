@@ -53,7 +53,7 @@ Créez une lumière en forme de rectangle ou de disque.
       Sélectionnez la couleur de la lumière.
   * **Entrée d&#39;image**
     * **Entrée d&#39;image de forme** : image/pinceau\
-      Importez une image à utiliser comme couleur. Vous pouvez utiliser l&#39;outil Pinceau pour peindre directement dans la **vue 2D**, mais les résultats peuvent être imprévisibles avec ce filtre.
+      Importez une image à utiliser comme couleur. Vous pouvez utiliser l&#39;outil Pinceau pour effectuer une peinture directement dans la **Vue 2D**, mais les résultats peuvent être imprévisibles avec ce filtre.
 * **Exposition de la zone réactive (EV)** : 0-10\
   Réglez l’exposition de la zone réactive. La zone réactive peut parfois être difficile ou impossible à voir : dans un nouveau **filtre de lumière de forme**, définissez la **température de forme** sur 1 000 et l&#39;**exposition de la zone réactive** **(EV)** sur 10 pour voir la zone réactive au centre de la forme.
 * **Forme** :\
@@ -64,13 +64,13 @@ Créez une lumière en forme de rectangle ou de disque.
 * **Position de la zone réactive** : 0-1\
   Décaler la position de la zone réactive
 * **Décalage de matrice** : -2 à 2\
-  Modifiez la position de l’éclairage de la forme. Vous pouvez également faire glisser la lumière dans la **vue 2D** pour la repositionner.
+  Modifiez la position de l’éclairage de la forme. Vous pouvez également faire glisser la lumière dans la **Vue 2D** pour la repositionner.
 
 **Forme**
 
 * **Exposition de forme (EV)** : 0-10\
   Réglage de l’exposition de la lumière
-* **Dureté de la forme** : 0-1\
+* **Dureté de forme** : 0-1\
   Adoucissez les bords de la lumière
 * **Taille de la zone réactive** : 0-1
 * **Suppression de la zone réactive** : 0-1\

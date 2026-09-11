@@ -27,7 +27,7 @@ Ajouté :
 * [Filtres] Accédez rapidement à vos filtres en appuyant sur la barre d’espace
 * [Filtres] Nouveau panneau dédié pour gérer, parcourir et importer vos filtres
 * [Métadonnées] Cliquez avec le bouton droit de la souris sur un matériau pour afficher ses métadonnées
-* [Métadonnées] Cliquez avec le bouton droit de la souris sur un matériau pour voir son emplacement sur votre disque
+* [Métadonnées] Cliquez avec le bouton droit de la souris sur un matériau pour afficher son emplacement sur le disque
 * [Curseurs] Animez les curseurs lorsque vous les survolez en appuyant sur Ctrl
 * [Curseurs] Arrêtez et redémarrez l’animation de vos curseurs en appuyant sur P
 * [Export] L&#39;exportation SBSAR suit les directives de Substance Source
@@ -36,9 +36,9 @@ Ajouté :
 * [UX] La boîte de dialogue Dossier mémorise le dernier chemin de dossier sélectionné
 * [UI] Interface utilisateur du panneau Ressources de mise à jour
 * [UI] Mettre à jour l&#39;interface utilisateur de la barre de recherche
-* [UI] L’icône Créer une nouvelle matière est mise à jour
+* [UI] L’icône Créer un nouveau matériau est mise à jour
 * [Aide] Les URL sont mises à jour vers le domaine [substance3d.com](http://substance3d.com)
-* [Filet] Un filet de tissu est maintenant disponible
+* [Maillage] Un maillage en tissu est maintenant disponible
 * [Contenu] Nouveau filtre de corrosion
 * [Contenu] Nouveau filtre d’oxydation
 * [Contenu] Nouveau filtre de mousse
@@ -49,22 +49,22 @@ Ajouté :
 * [Contenu] Nouveau filtre de finition métallique
 * [Contenu] Nouveau filtre de Snow
 * [Contenu] Nouveau filtre aléatoire
-* [Contenu] Vous pouvez désormais importer vos textures directement dans le filtre Matériau de base
+* [Contenu] Vous pouvez désormais importer vos textures directement dans le filtre de Matériau de base
 
 Fixe :
 
-* Résolution d’un problème de blocage lors de l’enregistrement de la pile de calques
+* Corriger un crash lors de l’enregistrement de la pile de calques
 * Possibilité d’ajouter une valeur supérieure à 1 dans le curseur de rotation de l’environnement
-* Ne perdez pas les paramètres de fusion lorsqu’un calque de fusion est transformé de gauche à droite en calque Matériau
-* Corriger les doublons lors de la génération de variations de la même pile de calques plusieurs fois
-* Lors de la réouverture d’un matériau, Alchemist se souvient des plages modifiées (min et max) de vos curseurs
+* Ne perdez pas les paramètres de fusion lorsqu’un calque de fusion est transformé d’avant en arrière d’un calque de fusion à un calque de matériau
+* Correction des doublons lors de la génération de variations de la même pile de calques plusieurs fois
+* Lors de la réouverture d’un matériau, Alchemist mémorise les plages modifiées (min et max) de vos curseurs
 
 Problèmes connus :
 
-* L’utilisation de plusieurs charmants dans un même matériau n’est pas recommandée
-* Delighter se bloque avec les anciens pilotes NVIDIA (moins de 400.x)
+* Il n’est pas recommandé d’utiliser plusieurs charmes dans un même matériau
+* Crashs Delighter avec pilotes NVIDIA plus anciens (moins de 400.x)
 * Le basculement rapide de visibilité d’une scène Delighter n’est pas recommandé
 * L’importation d’environnement personnalisée peut devenir noire
 * Les images Tif ne s’affichent pas dans le panneau Propriétés du calque d’importation d’image
 * Les virgules ou les points peuvent être ignorés lors de la saisie d’une valeur spécifique dans un curseur
-* Le filtre Normal à l’height peut se bloquer sur MacOS
+* Le filtre Normal à l’height peut effectuer un crash sur MacOS

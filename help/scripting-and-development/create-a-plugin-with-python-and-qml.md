@@ -183,7 +183,7 @@ La structure générale du fichier autosave.qml est la suivante :
    1. **autoSaveFolder** est le dossier dans lequel le fichier Sampler sera enregistré automatiquement.
    1. **durée** correspond au temps en secondes entre les enregistrements automatiques.
    1. **textColor** est utilisé afin que la couleur du texte dans l&#39;interface utilisateur du plug-in puisse être mise à jour en un seul endroit.
-1. Instanciation de l’API Python
+1. Instancier à l’API Python
 1. Définissez l’interface utilisateur.
    1. Cela inclut les hooks de l&#39;API Python créés dans **autosave.py**. Par exemple :
       1. La ligne 47 met à jour la valeur de variable **minutage** dans le fichier QML chaque fois que l&#39;élément « Enregistrement automatique toutes les (min) : » est modifié.

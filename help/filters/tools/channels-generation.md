@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/channels-generation.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Génération de couches de Substance 3D Sampler pour générer des couches de texture à partir de textures existantes afin de créer du matériau.
+description: Utilisez l’outil Génération de couches de Substance 3D Sampler pour générer des couches de texture à partir de mappages existants en vue de la création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channels Generation
 helpx_experience_level: ""

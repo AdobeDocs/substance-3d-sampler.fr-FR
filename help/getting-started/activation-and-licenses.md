@@ -46,7 +46,7 @@ Trois choix s&#39;offrent à vous :
 
 >[!WARNING]
 >
-> Pour installer le fichier de licence avec l’Assistant d’activation, assurez-vous d’exécuter Sampler en tant qu’administrateur et de désactiver temporairement votre antivirus.
+> Pour installer le fichier de licence avec l’Assistant d&#39;activation, assurez-vous d’exécuter Sampler en tant qu’administrateur et de désactiver temporairement votre antivirus.
 
 ### Activation manuelle
 

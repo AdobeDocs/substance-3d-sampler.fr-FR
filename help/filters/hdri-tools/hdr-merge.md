@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Fusion HDR de Substance 3D Sampler pour fusionner plusieurs images d’exposition en une seule image de plage dynamique élevée.
+description: Utilisez l’outil de fusion HDR de Substance 3D Sampler pour fusionner plusieurs images d’exposition en une seule image de plage dynamique élevée.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > HDR Merge
 helpx_experience_level: ""
@@ -33,17 +33,17 @@ ht-degree: 2%
 
 ## Description
 
-Le **filtre de fusion HDR** **filtre** vous permet de fusionner une collection d’images SDR (Plage dynamique standard) pour créer une image HDR.
+Le **filtre de fusion HDR** **fusion** vous permet de fusionner une collection d&#39;images SDR (Standard Dynamic Range) pour créer une image HDR.
 
 Les images ci-dessous montrent les résultats de la **fusion HDR**.
 
 ![](../../assets/3d-2d-filters-cropped-0027-hdr-merge-in.jpg)
 
-Avant que la **fusion HDR** ne soit terminée, la sphère dans la **vue 3D** reflète la lumière d&#39;environnement par défaut. La **vue 2D** affiche par défaut les données d&#39;image importées pour la première image numérisée, qui est dans ce cas l&#39;image exposée la plus basse.
+Avant la **fusion HDR**, la sphère dans la **vue 3D** reflète l&#39;éclairage d&#39;environnement par défaut. La **Vue 2D** affiche par défaut les données d&#39;image importées pour la première image numérisée, qui est dans ce cas l&#39;image exposée la plus basse.
 
 ![](../../assets/3d-2d-filters-cropped-0026-hdr-merge-out.jpg)
 
-Après l&#39;ajout du **filtre de fusion HDR** **filtre**, la sphère reflète une nouvelle luminosité de l&#39;environnement : l&#39;image HDR générée à partir des images d&#39;entrée.
+Après l&#39;ajout du **filtre de fusion HDR** **fusion**, la sphère reflète un nouvel éclairage d&#39;environnement : l&#39;image HDR générée à partir des images d&#39;entrée.
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ Après l&#39;ajout du **filtre de fusion HDR** **filtre**, la sphère reflète u
 
 Regardez ceci pour savoir comment utiliser le **filtre de fusion HDR** ainsi que d&#39;autres filtres qui peuvent aider à convertir des images SDR en éclairage d&#39;environnement HDR.
 
-Les étapes de base pour utiliser le **filtre** Fusion HDR **HDR** sont les suivantes :
+Les étapes de base pour utiliser le **filtre** HDR **de fusion** sont les suivantes :
 
 1. Importez l’ensemble d’images à fusionner dans la pile de calques.
 1. Ajoutez le **filtre de fusion HDR** à la pile de calques.

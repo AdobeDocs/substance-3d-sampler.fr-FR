@@ -21,4 +21,4 @@ ht-degree: 0%
 # Problèmes de démarrage
 
 * [L&#39;application ne démarre pas sous Linux](application-doesn-t-start-on-linux.md)
-* [Blocage au démarrage - Ancienne version d’Obs](crash-at-start-up-old-obs-version.md)
+* [Crash au démarrage - Ancienne version d’Obs](crash-at-start-up-old-obs-version.md)

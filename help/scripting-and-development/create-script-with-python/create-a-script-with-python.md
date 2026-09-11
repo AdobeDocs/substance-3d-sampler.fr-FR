@@ -28,7 +28,7 @@ Les scripts nécessitent un seul fichier PY pour être importés dans Sampler. V
 
 ## Exemple de script
 
-Le script ci-dessous crée automatiquement des variations de votre matériau en sélectionnant une nouvelle valeur de départ aléatoire pour chaque calque du matériau. Ceci est utile pour s&#39;assurer que votre matériel peut être utilisé dans un cas général au lieu de s&#39;appuyer sur des graines aléatoires spécifiques.
+Le script ci-dessous crée automatiquement des variantes de votre matériau en sélectionnant une nouvelle valeur de départ aléatoire pour chaque calque du matériau. Ceci est utile pour s&#39;assurer que votre matériau peut être utilisé dans un cas général au lieu de s&#39;appuyer sur des graines aléatoires spécifiques.
 
 ### random\_seed\_variations.py
 

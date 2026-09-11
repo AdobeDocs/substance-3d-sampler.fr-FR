@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/tools/normal-to-height.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Normal à l’Height de Substance 3D Sampler pour convertir les cartes de normales en cartes d’height pour les workflows de création de matériaux.
+description: Utilisez l’outil Normal à l’Height de Substance 3D Sampler pour convertir des maps normal en maps height pour les workflows de création de matériaux.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Normal to Height
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ Outils **In:**
 
 Générez des informations d’height en fonction de la couche normale.
 
-Les images ci-dessous montrent le filtre **Normal à l&#39;Height** en action. Dans la première image, la carte d’height ne contient aucune information d’height. Dans la deuxième image, après l&#39;application du **filtre Normal à l&#39;Height** **filtre**, une carte d&#39;height réaliste est générée.
+Les images ci-dessous montrent le filtre **Normal à l&#39;Height** en action. Dans la première image, la map height ne contient aucune information d’height. Dans la deuxième image, après l&#39;application du **filtre Normal à l&#39;Height** **filtre**, une map height réaliste est générée.
 
 ![](../../assets/3d-2d-filters-cropped-0009-normal-to-height-in.jpg)![](../../assets/filters-cropped-0008-normal-height-out.jpg)
 
@@ -45,4 +45,4 @@ Les images ci-dessous montrent le filtre **Normal à l&#39;Height** en action. D
 
 ## Paramètres
 
-Ce filtre n&#39;a pas de paramètres. Pour l’utiliser, ajoutez-le simplement en haut de la pile de calques.
+Ce filtre n&#39;a pas de paramètres. Pour l’utiliser, il suffit de l’ajouter en haut de la pile de calques.

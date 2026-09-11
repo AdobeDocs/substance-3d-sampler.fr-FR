@@ -20,7 +20,7 @@ ht-degree: 5%
 
 # Format normal
 
-Les mappages normaux sont traités à l&#39;aide du format <b>DirectX</b>. Conservez un workflow OpenGL<b></b> pour importer et exporter le format OpenGL en modifiant les préférences de format normal.
+Les maps normal sont traitées au format <b>DirectX</b>. Conservez un workflow OpenGL<b></b> pour importer et exporter le format OpenGL en modifiant les préférences de format normal.
 
 *Par défaut : DirectX*
 

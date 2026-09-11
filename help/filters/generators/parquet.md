@@ -35,7 +35,7 @@ Générateurs De **Entrée :**
 
 Transformez votre matériau en parquet.
 
-*Un matériau en bois converti en motif de parquet avec le **filtre Parquet**.*
+*Un matériau en bois converti en motif de parquet avec le **filtre parquet**.*
 
 <table>
 <tr style="border: 0;">
@@ -69,11 +69,11 @@ Utilisez les paramètres prédéfinis pour modifier rapidement les paramètres e
 * **Type de motif** :\
   Sélectionner le motif de parquet
 * **X Amount** : 1-30\
-  Modification du nombre de planches sur l’axe X
+  Modification du nombre de planches à l’axe X
 * **Quantité Y** : 1-30\
   Modification du nombre de planches sur l’axe Y
-* **Distance de couture** : 0-1\
-  Modifier la distance du biseau autour des coutures de planches
+* **Distance En Seams** : 0-1\
+  Modifier la distance du biseau autour des seams des planches
 * **Variation des planches** : 0-1\
   Variation automatique de la couleur et de la rugosité de chaque planche
 
@@ -81,13 +81,13 @@ Utilisez les paramètres prédéfinis pour modifier rapidement les paramètres e
 
 * **Décalage du motif anglais** : 0-1 (ce paramètre est uniquement disponible si **Paramètres de base > Type de motif** est défini sur **Anglais**)\
   Modifier le décalage de chaque ligne de planches par rapport à la ligne précédente
-* **Intensité de la couture** : 0-1\
-  Ajustez les normales des coutures entre les planches pour les rendre plus ou moins visibles
-* **Courbe Biseau Couture** : 0-1\
+* **Intensité du Seam** : 0-1\
+  Ajustez les normales des seams entre les planches pour les rendre plus ou moins visibles
+* **Courbe En Biseau Du Seam** : 0-1\
   Modifier la largeur du biseau entre les planches
-* **Plage d&#39;Height de couture** : 0-1\
-  Régler l’height des coutures
+* **Plage d&#39;Height de Seam** : 0-1\
+  Régler l’height des seams
 * **Variation de rotation normale des planches** : 0-1\
   Faire varier l’angle de chaque planche de façon aléatoire
-* **Variation de la rugosité des planches** : 0-1\
+* **Variation de la Rugosité des planches** : 0-1\
   Faites varier de façon aléatoire la rugosité de chaque planche.

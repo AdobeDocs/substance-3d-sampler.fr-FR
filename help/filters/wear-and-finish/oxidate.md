@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
 breadcrumb-title: ''
-description: Utilisez le filtre Oxyder de Substance 3D Sampler pour ajouter des effets d’oxydation et de ternissement aux matériaux métalliques destinés aux effets de vieillissement.
+description: Utilisez le filtre Oxyder de Substance 3D Sampler pour appliquer des effets d’oxydation et de ternissement aux matériaux métalliques destinés aux effets de vieillissement.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Oxidate
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Description
 
-Ajoutez une couche d&#39;oxydation sur le dessus de votre matériau.*Une surface ridée a le **filtre Oxydé**&#x200B;appliqué.*
+Ajoutez une couche d&#39;oxydation par-dessus votre matériau.*Une surface ridée est dotée du filtre **oxydé**.*
 
 <table>
 <tr style="border: 0;">
@@ -67,7 +67,7 @@ Ajoutez une couche d&#39;oxydation sur le dessus de votre matériau.*Une surface
   * **Diffusion** : 0-1\
     Réglez l’étendue de l’oxydation.
 * **Couleur** : sélection de couleur\
-  Sélectionnez la couleur de base du filtre. Les couleurs de base modifient la teinte de toutes les couleurs qui composent l’effet oxydant.
+  Sélectionnez la base color du filtre. Les bases color modifient la teinte de toutes les couleurs qui composent l’effet oxydant.
 * **Variations de couleur** : 0-1\
   Réglez l’échelle de l’effet de variation chromatique.
 * **Densité** : 0-1\
@@ -79,19 +79,19 @@ Ajoutez une couche d&#39;oxydation sur le dessus de votre matériau.*Une surface
 * **Écaillage** : 0-1\
   Réduisez la zone oxydée pour révéler le matériau sous-jacent.
 * **Taches** : 0-1\
-  Ajustez la quantité de tache superposée sur le matériau.
+  Ajustez la quantité de tache incrustée sur le dessus du matériau.
 * **Rugosité de corrosion** : 0-1\
   Réglez la rugosité des zones oxydées.
-* **Corrosion métallique** : 0-1\
+* **Corrosion Métallique** : 0-1\
   Réglez les valeurs métalliques des zones oxydées.
-* **Intensité du bruit** : 0-1
+* **Force de Bruit** : 0-1
 
 **Masquer**
 
 * **Utiliser un masque personnalisé** : activer/désactiver\
   Activez ou désactivez l’utilisation d’un masque personnalisé. Si cette option est activée, les paramètres suivants apparaissent :
   * **Masque** : image/pinceau\
-    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+    Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
   * **Masque personnalisé - Flou** : 0-1\
     Floutez le masque.
   * **Masque personnalisé - Inverser** : activer/désactiver\
@@ -110,4 +110,4 @@ Les paramètres suivants vous permettent d&#39;ajuster la valeur nommée pour l&
 * **Intensité normale** : 0-1
 * **Plage d&#39;Height** : 0-1
 * **Position Height** : 0-1
-* **Intensité de l&#39;Occlusion ambiante** : 0-1
+* **Intensité de l&#39;Ambient occlusion** : 0-1

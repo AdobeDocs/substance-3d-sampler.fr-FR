@@ -27,14 +27,14 @@ ht-degree: 0%
 **Fixe** :
 
 * [Créer] Certains filtres étaient répertoriés dans l’outil d’accès rapide, mais pas dans le panneau des filtres
-* [MacOS] Correction de certains blocages à la sortie
+* [MacOS] Correction de certains crashs à la sortie
 
 **Problèmes Connus :**
 
-* L’utilisation de plusieurs charmants dans un même matériau n’est pas recommandée
-* Delighter se bloque avec les anciens pilotes NVIDIA (moins de 400.x)
+* Il n’est pas recommandé d’utiliser plusieurs charmes dans un même matériau
+* Crashs Delighter avec pilotes NVIDIA plus anciens (moins de 400.x)
 * Le basculement rapide de visibilité d’une scène Delighter n’est pas recommandé
 * Les images Tif ne s’affichent pas dans le panneau Propriétés du calque d’importation d’image
 * Les virgules ou les points peuvent être ignorés lors de la saisie d’une valeur spécifique dans un curseur
-* Le filtre Normal à l’height peut se bloquer sur MacOS
-* Peut toujours se bloquer de manière aléatoire lors de la fermeture sur MacOS
+* Le filtre Normal à l’height peut effectuer un crash sur MacOS
+* Peut toujours effectuer des crashs aléatoires lors de la fermeture sur MacOS

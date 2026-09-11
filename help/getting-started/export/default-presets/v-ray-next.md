@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/default-presets/v-ray-next.html"
 breadcrumb-title: ''
-description: Découvrez comment exporter des matériaux à partir de Substance 3D Sampler à l’aide du paramètre prédéfini V-Ray Next pour garantir la compatibilité avec le rendu V-Ray.
+description: Découvrez comment exporter des matériaux depuis Substance 3D Sampler à l’aide du paramètre prédéfini V-Ray Next pour garantir la compatibilité avec le rendu V-Ray.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > V-Ray Next
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Rugosité&#x200B;**&#x200B;**Diffuse**&#x200B;**Métallique &#x200B;**&#x200B;**Normale**&#x200B;**Displacement**&#x200B;**Auto-Illum** **Opacité** |
+| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Diffuse &#x200B;**&#x200B;**Rugosité**&#x200B;**Métallique &#x200B;**&#x200B;**Normale**&#x200B;**Displacement**&#x200B;**Auto-Illum** **Opacité** |

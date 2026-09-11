@@ -35,7 +35,7 @@ ht-degree: 0%
 
 Utilisez le **filtre Mousse** pour ajouter de la mousse et du lichen à votre matériau. La **mousse** utilise la carte occlusion de votre matériau pour se développer naturellement dans les fissures et les crevasses.
 
-Les images ci-dessous montrent le matériau du dirt avant et après l&#39;application du **filtre Mousse**.
+Les images ci-dessous montrent le matériau de dirt avant et après l&#39;application du **filtre Mousse**.
 
 <table>
 <tr style="border: 0;">
@@ -80,7 +80,7 @@ Cette section apparaît uniquement si **Masque personnalisé** est choisi sous *
 * **Masque personnalisé - Inverser** : activer/désactiver\
   Inversez le masque.
 * **Masque personnalisé** : image/pinceau\
-  Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour peindre un masque personnalisé directement dans la vue 2D.
+  Sélectionnez une image à utiliser comme masque ou utilisez le pinceau pour appliquer un peinture personnalisé directement dans la Vue 2D.
 
 **Mousse**
 
@@ -97,7 +97,7 @@ Les paramètres disponibles dans cette section dépendent de l&#39;option sélec
 * **Haut**
   * **Seuil de la mousse supérieure** : 0-1\
     Contrôlez le seuil qui détermine si de la mousse apparaît ou non.
-  * **Angle de la mousse supérieure** Réglez la façon dont la mousse s&#39;applique au matériau en fonction de la texture normale.
+  * **Angle de la mousse supérieure** Réglez la façon dont la mousse s&#39;applique au matériau en fonction de la map normal.
 * **Tous**
   * **Tous** inclut tous les paramètres ci-dessus pour **l&#39;Occlusion**, **l&#39;ensemble** et **le haut**.
 
@@ -122,5 +122,5 @@ Les paramètres suivants sont disponibles indépendamment de l&#39;option sélec
 **Paramètres techniques**
 
 * **Intensité normale** : 0-1\
-  Réglez l’intensité des normales de la mousse.
-* **Intensité de l&#39;Occlusion ambiante** Contrôlez l&#39;intensité de l&#39;occlusion ambiante de la mousse.
+  Ajustez la force des normales de la mousse.
+* **Intensité de l&#39;Ambient occlusion** Contrôlez la force de l&#39;ambient occlusion de la mousse.

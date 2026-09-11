@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/managing-presets.html"
 breadcrumb-title: ''
-description: Découvrez comment gérer les paramètres prédéfinis d’exportation dans Substance 3D Sampler pour configurer les matériaux pour différentes applications et pipelines.
+description: Découvrez comment gérer les paramètres prédéfinis d’exportation dans Substance 3D Sampler pour configurer des matériaux pour différentes applications et pipelines.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Managing Presets
 helpx_experience_level: ""
@@ -31,8 +31,8 @@ Pour accéder aux paramètres prédéfinis :
 1. Ouvrez la fenêtre <b>Exporter</b> :
    1. Utilisez le <b>panneau Exporter</b> dans la <b>barre de droite</b>.
    1. Utiliser Fichier <b> > Exporter en tant que...</b>
-   1. Utiliser le raccourci <b>Ctrl + E.</b>
-1. Sur le côté gauche de la fenêtre <b>Exporter </b>, sélectionnez <b>Paramètres de matière</b>.
+   1. Utiliser raccourci <b>Ctrl + E.</b>
+1. Dans la partie gauche de la fenêtre <b>Exporter </b>, sélectionnez <b>Paramètres de Matériau</b>.
 1. Sélectionnez un format d’image (EXR, JPEG, PNG, TARGA, TIFF)
 1. La liste des paramètres prédéfinis s’affiche.
 

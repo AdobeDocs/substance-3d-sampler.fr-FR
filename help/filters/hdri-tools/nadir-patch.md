@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
 breadcrumb-title: ''
-description: Utilisez l’outil Nadir patch de Substance 3D Sampler pour corriger la zone nadir des images HDRI afin de créer des cartes d’environnement homogènes.
+description: Utilisez l’outil Nadir patch de Substance 3D Sampler pour corriger la zone nadir des images HDRI afin d’obtenir des maps d'environnement homogènes.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > Nadir Patch
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## Description
 
-Appliquez un correctif au nadir de la lumière de votre environnement pour masquer les artefacts ou les coutures.
+Appliquez une correction au nadir de votre éclairage d&#39;environnement pour masquer les artefacts ou les seams.
 
-Dans les images ci-dessous, vous pouvez voir comment **Nadir patch** est utilisé pour retirer le support de l&#39;appareil photo de cette image panoramique.
+Dans les images ci-dessous, vous pouvez voir comment **Nadir patch** est utilisé pour retirer le support de caméra de cette image panoramique.
 
 ![](../../assets/3d-2d-filters-cropped-0011-nadir-patch-in.jpg)![](../../assets/3d-2d-filters-cropped-0010-nadir-patch-out.jpg)
 
@@ -49,10 +49,10 @@ Dans les images ci-dessous, vous pouvez voir comment **Nadir patch** est utilis�
 
 * **Activer** : activer/désactiver\
   Activer ou désactiver le patch : cette option peut être utile pour voir rapidement l’impact du patch sans avoir à modifier la visibilité du calque.
-* **Afficher l&#39;assistant d&#39;images** : activer/désactiver\
-  Activez ou désactivez l’option Images.
-* **Thickness d&#39;images** : 0-1\
-  Ajustez le thickness de l&#39;image. Cela peut être utile lorsque la source du patch est loin du nadir.
+* **Afficher l&#39;Assistant Cadre** : activer/désactiver\
+  Activez ou désactivez les Cadres.
+* **Thickness Cadre** : 0-1\
+  Réglez le thickness du cadre. Cela peut être utile lorsque la source du patch est loin du nadir.
 * **Échelle de correctif** : 0-1\
   Ajustez la limite de la zone à corriger.
 * **Taille du correctif** :\
@@ -62,7 +62,7 @@ Dans les images ci-dessous, vous pouvez voir comment **Nadir patch** est utilis�
 * **Alpha du correctif** :\
   Sélectionnez la forme utilisée pour masquer le patch. Si **Entrée de masque** est sélectionné, un paramètre supplémentaire s&#39;affiche :
   * **Entrée de masque** : image/pinceau\
-    Importez une image à utiliser comme masque ou peignez un masque directement dans la **vue 2D**.
+    Importez une image à utiliser comme masque ou effectuez une peinture directement dans la **Vue 2D**.
 * **Dureté du correctif** : 0-1\
   Ajustez le flou sur les bords du masque de correction.
 * **Décalage de rotation source** : 0-1\
@@ -70,9 +70,9 @@ Dans les images ci-dessous, vous pouvez voir comment **Nadir patch** est utilis�
 
 ## Guide d’utilisation
 
-Un problème courant pouvant se produire lors de la création d’une luminosité de l’environnement à partir de photos est celui des artefacts se produisant autour des nadirs supérieur et inférieur de la texture. Le **filtre** **Nadir patch** permet de réduire ces problèmes.
+Les artefacts situés autour des nadirs supérieurs et inférieurs de la texture sont un problème courant lors de la création d’un éclairage d&#39;environnement à partir de photos. Le **filtre** **Nadir patch** permet de réduire ces problèmes.
 
 1. Ajoutez le **filtre de Nadir patch** en haut de la pile de calques.
-1. Utilisez la poignée de la **vue 2D** pour modifier l&#39;emplacement source du correctif.
-   1. Le nadir corrigé change selon l’emplacement de la source. Si la source se trouve dans la moitié inférieure de l’espace de texture, le nadir inférieur est corrigé ; si la source se trouve dans la moitié supérieure, le nadir supérieur est corrigé.
-1. Modifiez les paramètres pour affiner la transformation du patch afin de mieux masquer les coutures et les artefacts.
+1. Utilisez la poignée de la **Vue 2D** pour modifier l&#39;emplacement source du correctif.
+   1. Le nadir corrigé change selon l’emplacement de la source. Si la source se trouve dans la moitié inférieure de l’espace de la texture, le nadir inférieur est corrigé ; si la source se trouve dans la moitié supérieure, le nadir supérieur est corrigé.
+1. Modifiez les paramètres pour affiner la transforme du correctif afin de mieux masquer les seams et les artefacts.

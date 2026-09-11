@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/fr/substance-3d-sampler/getting-started/export/default-presets/arnold-5.html"
 breadcrumb-title: ''
-description: Découvrez comment exporter des matériaux à partir de Substance 3D Sampler à l’aide du paramètre prédéfini Arnold 5 pour assurer la compatibilité avec le moteur de rendu Arnold.
+description: Découvrez comment exporter des matériaux à partir de Substance 3D Sampler à l’aide du paramètre prédéfini Arnold 5 pour assurer la compatibilité avec Arnold moteur de rendu.
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Arnold 5
 helpx_experience_level: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Rugosité&#x200B;**&#x200B;**de la couleur de base**&#x200B;**&#x200B;**&#x200B;**métallisation** (OpenGL)**Displacement &#x200B;**&#x200B;**émissif**&#x200B;**&#x200B; opacité** |
+| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Couleur de base &#x200B;**&#x200B;**Rugosité**&#x200B;**Métallique**&#x200B;**normale** (OpenGL)**Displacement &#x200B;**&#x200B;**Emissive**&#x200B;**&#x200B; Opacité** |
