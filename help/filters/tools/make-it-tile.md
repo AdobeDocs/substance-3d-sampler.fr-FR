@@ -81,7 +81,7 @@ Après **Création de mosaïque**, ce matériau présente une bonne mosaïque et
 
 ## Guide d’utilisation
 
-Le **filtre** Placer dans la mosaïque **** fonctionne en superposant plusieurs copies du matériau les unes sur les autres.
+Le **filtre** Placer dans la mosaïque **&#x200B;**&#x200B;fonctionne en superposant plusieurs copies du matériau les unes sur les autres.
 
 L’image ci-dessous montre la disposition des calques :
 

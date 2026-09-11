@@ -59,8 +59,8 @@ Les images ci-dessous montrent **Remplacement de couleur** en action. Notez que 
   Réglez le degré d&#39;incidence de la luminosité des valeurs de luminosité d&#39;origine sur la luminosité de la nouvelle couleur.
 * **Plage de masques**\
   Le masque est créé en fonction de la combinaison des valeurs suivantes :
-  * ****** De Luminosité&#x200B;**: 0-1\
-    Plage de luminosité utilisée pour créer le masque ****
+  * **&#x200B;**&#x200B;**&#x200B; De Luminosité&#x200B;**: 0-1\
+    Plage de luminosité utilisée pour créer le masque **&#x200B;**
   * **De la couleur** : 0-1\
     Plage de couleurs utilisée pour créer le masque
 * **Smoothness de masque** : 0-1\

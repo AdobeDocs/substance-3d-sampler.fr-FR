@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Diffuse ****Rugosité****Métallique ****Normale****Displacement****Auto-Illum** **Opacité** |
+| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Diffuse &#x200B;**&#x200B;**Rugosité**&#x200B;**Métallique &#x200B;**&#x200B;**Normale**&#x200B;**Displacement**&#x200B;**Auto-Illum** **Opacité** |

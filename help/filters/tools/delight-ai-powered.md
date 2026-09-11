@@ -35,7 +35,7 @@ Outils **In:**
 
 L’outil Delighter vous permet de supprimer les informations d’éclairage du canal de base color. Ceci est important lors de la conversion d’images en matériaux, car les matériaux ne doivent généralement pas inclure d’informations d’éclairage. Un matériau est un ensemble d&#39;informations qui explique comment la lumière doit réagir avec une surface. Ainsi, si des informations de lumière sont déjà bakées dans un canal qui ne devrait pas contenir d&#39;informations de lumière, cela peut empêcher le matériau de représenter la surface de manière réaliste.
 
-*Exemple d **image avant et après traitement par le filtre**Delight (optimisé par l’IA)**. Notez que les tons foncés et les tons clairs ont été supprimés, seule la base color est conservée.*
+*Exemple d **image avant et après traitement par le filtre**&#x200B;Delight (optimisé par l’IA)**. Notez que les tons foncés et les tons clairs ont été supprimés, seule la base color est conservée.*
 
 ![](../../assets/120-0-comparison.png)
 

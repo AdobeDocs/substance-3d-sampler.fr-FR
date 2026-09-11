@@ -22,7 +22,7 @@ ht-degree: 2%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Système de rendu Corona | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li><li data-preserve-html="true">SPECULAR/Brillance PBR</li></ul> | ******ReflectionGlossiness** (\*)**ReflectionColor** (\*\*)**FresnelIOR** (\*\*\*)**Normal ****Displacement**** Emissive ****Opacité** |
+| Système de rendu Corona | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li><li data-preserve-html="true">SPECULAR/Brillance PBR</li></ul> | **&#x200B;**&#x200B;**ReflectionGlossiness** (\*)**ReflectionColor** (\*\*)**FresnelIOR** (\*\*\*)**Normal &#x200B;**&#x200B;**Displacement**&#x200B;**&#x200B; Emissive &#x200B;**&#x200B;**Opacité** |
 
 >[!NOTE]
 >

@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Moteur irréel 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **BaseColor****OcclusionRugositéMétallique:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Ambient occlusion</li><li data-preserve-html="true"><strong>G</strong> : Rugosité</li><li data-preserve-html="true"><strong>B</strong> : Métallique</li></ul>**Height ****normal****Emissive** |
+| Moteur irréel 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **BaseColor**&#x200B;**OcclusionRugositéMétallique:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong> : Ambient occlusion</li><li data-preserve-html="true"><strong>G</strong> : Rugosité</li><li data-preserve-html="true"><strong>B</strong> : Métallique</li></ul>**Height &#x200B;**&#x200B;**normal**&#x200B;**Emissive** |

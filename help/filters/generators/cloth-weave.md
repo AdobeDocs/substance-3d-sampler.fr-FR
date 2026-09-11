@@ -85,7 +85,7 @@ Paramètres
 
 **Avancé**
 
-* **Mode de fusion**** :** sélectionnez le mode de fusion pour la couche de couleur de base. La modification du mode de fusion peut modifier considérablement l’aspect de l’armure de tissu.
+* **Mode de fusion**&#x200B;**&#x200B; :** sélectionnez le mode de fusion pour la couche de couleur de base. La modification du mode de fusion peut modifier considérablement l’aspect de l’armure de tissu.
 * **Intensité de l&#39;imperfection :** 0-1\
   Définissez l&#39;intensité des imperfections du filetage.
 * **Intensité normale :** 0-2\

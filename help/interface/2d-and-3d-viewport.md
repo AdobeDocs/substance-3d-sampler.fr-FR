@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../assets/main-3d-viewport-5.png)
 
-Le **Viewport** affiche votre ressource actuelle. En haut du **V****iewport**, vous pouvez voir le nom de votre ressource et les options permettant de modifier l&#39;apparence du **Viewport**. Utilisez ces options pour :
+Le **Viewport** affiche votre ressource actuelle. En haut du **V**&#x200B;**iewport**, vous pouvez voir le nom de votre ressource et les options permettant de modifier l&#39;apparence du **Viewport**. Utilisez ces options pour :
 
 * Modifiez la largeur et l’height de votre fichier en pixels.
 * Affichez la <b>vue Vue 2D</b>, la <b>vue 3D</b> ou affichez les vues <b>2D </b> et <b>3D </b> ensemble.
@@ -36,7 +36,7 @@ Le **Viewport** affiche votre ressource actuelle. En haut du **V****iewport**, v
 
 Le <b>Viewport 3D</b> dispose de deux barres d&#39;outils qui vous permettent de modifier l&#39;apparence de votre ressource dans le <b>Viewport</b>. Par défaut, ces barres d&#39;outils apparaissent dans le coin supérieur droit et au centre inférieur du <b>Viewport 3D</b>.
 
-![]()
+![] ()
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ La barre d&#39;outils en haut à droite du Viewport <b>3D </b> comporte des comm
 >
 > Activez les ombres pour améliorer les visuels viewports. Éteignez les ombres pour améliorer les performances des échantillonneurs.
 
-![]()
+![] ()
 
 La barre d&#39;outils en bas au centre du <b>Viewport 3D</b> contient les informations et les commandes suivantes :
 
@@ -71,7 +71,7 @@ La barre d&#39;outils en bas au centre du <b>Viewport 3D</b> contient les inform
 * <b>Enregistrer l&#39;instantané</b> : enregistrez un instantané du <b>Viewport 3D</b> dans un fichier image.
 * <b>Contrôles vue 3D</b> : affichez une référence rapide pour les contrôles de caméra dans le Viewport 3D.
 
-![]()
+![] ()
 
 ## Déplacer la caméra
 
@@ -89,7 +89,7 @@ Dans la <b>vue 3D </b> et la <b>Vue 2D</b>, utilisez <b>F</b> pour vous concentr
 
 ## Vue 2D
 
-![]()
+![] ()
 
 Par défaut, seule la <b>vue 3D</b> est visible, mais la <b>Vue 2D</b> peut contenir de nombreuses informations et commandes utiles pour certains filtres.
 

@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Paramètre prédéfini | Compatibilité | Description de la sortie du packing |
 | --- | --- | --- |
-| Cycles mélangeurs/Eve | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Couleur de base ****Rugosité****Métallique ****normale****Displacement ****Emissive****Alpha** |
+| Cycles mélangeurs/Eve | <ul data-preserve-html="true"><li data-preserve-html="true">PBR Métallique/Rugosité</li></ul> | **Couleur de base &#x200B;**&#x200B;**Rugosité**&#x200B;**Métallique &#x200B;**&#x200B;**normale**&#x200B;**Displacement &#x200B;**&#x200B;**Emissive**&#x200B;**Alpha** |

@@ -141,6 +141,6 @@ Utilisez Ctrl + Clic dans la vue 2D pour ajouter une nouvelle source. L&#39;ajou
 
 | Action | Windows + Linux | MacOs |
 | --- | --- | --- |
-| Augmenter l’épaisseur du pinceau | ] ou Ctrl + Molette de la souris | ] ou Cmd + Molette de la souris |
-| Diminuer l’épaisseur du pinceau | [ ou Ctrl + Molette de la souris | [ ou Commande + Molette de la souris |
+| Augmenter l’épaisseur du pinceau | &rbrack; ou Ctrl + Molette de la souris | &rbrack; ou Cmd + Molette de la souris |
+| Diminuer l’épaisseur du pinceau | &lbrack; ou Ctrl + Molette de la souris | &lbrack; ou Commande + Molette de la souris |
 | Définir la source | Ctrl + clic gauche | Cmd + clic gauche |

@@ -69,7 +69,7 @@ Utilisez le **filtre Validation PBR** pour vous assurer que les valeurs PBR de v
 
 ## Guide d’utilisation
 
-Le **filtre** Validation PBR **** permet d&#39;éviter les problèmes d&#39;albédo et de valeurs métalliques dans un matériau. Pour comprendre le fonctionnement du **filtre Validation PBR**, il est utile de parler d&#39;abord un peu de ce qu&#39;est le PBR.
+Le **filtre** Validation PBR **&#x200B;**&#x200B;permet d&#39;éviter les problèmes d&#39;albédo et de valeurs métalliques dans un matériau. Pour comprendre le fonctionnement du **filtre Validation PBR**, il est utile de parler d&#39;abord un peu de ce qu&#39;est le PBR.
 
 ## Qu’est-ce que le PBR ?
 
