@@ -340,7 +340,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; vue 3D&amp;rbrack ; le plan et la grille du Sol sont verticaux lorsque la scène est en Z vers le haut
 * &amp;lbrack ;vue 3D&amp;rbrack ; Le maillage disparaît parfois
 * &amp;lbrack ;Application&amp;rbrack ; La fermeture de la fenêtre de connexion au démarrage sans connexion entraîne parfois le crash de l&#39;application
-* &amp;lbrack;Application&amp;rbrack ; Crash lorsque l&#39;accès au fichier de configuration des plug-ins est refusé
+* &lbrack;Application&amp;rbrack ; Crash lorsque l&#39;accès au fichier de configuration des plug-ins est refusé
 * &amp;lbrack ;Application&amp;rbrack ; Le matériau actuel n&#39;est pas sélectionné lorsque le projet est enregistré
 * &amp;lbrack ;Application&amp;rbrack ; La réinitialisation à la disposition par défaut définit la résolution sur 64x64
 * &amp;lbrack ;Application&amp;rbrack ; Sampler effectue parfois un crash lors du rendu d’une pile de calques
@@ -398,13 +398,13 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ;vue 3D&amp;rbrack ; Lorsque vous passez de la projection orthographique à la perspective, le viewport devient gris
 * &amp;lbrack ; Application&amp;rbrack ; Crash au démarrage lors de la vérification des capacités GPU
 * crash &amp;lbrack ; Application&amp;rbrack ; pendant l&#39;installation
-* &amp;lbrack;Application&amp;rbrack ; Crash à la fermeture après avoir cliqué avec le bouton droit sur un champ de métadonnées
+* &lbrack;Application&amp;rbrack ; Crash à la fermeture après avoir cliqué avec le bouton droit sur un champ de métadonnées
 * L&#39;Éclairage d&#39;environnement &amp;lbrack ;Application&amp;rbrack ; est manquant lors de l&#39;ouverture d&#39;un SBSAR à partir de l&#39;explorateur de fichiers du système d&#39;exploitation
 * &amp;lbrack ;Application&amp;rbrack ; L&#39;ouverture d&#39;un fichier .sbsar pendant que Sampler est en cours d&#39;exécution modifie le paramètre de Répétition de Texture
 * &amp;lbrack ; Captis&amp;rbrack ; Certaines métadonnées peuvent ne pas être transférées entre les étapes de capture
 * &amp;lbrack ; Captis&amp;rbrack ; Le nom de l&#39;actif créé n&#39;est pas celui saisi dans le champ de métadonnées
 * &amp;lbrack ;Content&amp;rbrack ; L&#39;exemple de projet demande une mise à jour du filtre mais est déjà à jour
-* &amp;lbrack;Filters&amp;rbrack ; Le filtre de réglage Normal/height n&#39;a pas d&#39;icône
+* &lbrack;Filters&amp;rbrack ; Le filtre de réglage Normal/height n&#39;a pas d&#39;icône
 * &amp;lbrack ; Layers&amp;rbrack ; Cannot change images in an image import layer
 * crashs &amp;lbrack ; Layers&amp;rbrack ; lors de l&#39;utilisation du filtre Mise à l&#39;échelle
 * &amp;lbrack ; Layers&amp;rbrack ; La mise en Matériau d&#39;un projet avec une ancienne image rend le matériau entièrement noir
@@ -536,8 +536,8 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 **Fixe :**
 
 * crash &amp;lbrack ;Application&amp;rbrack ; lors de l’ouverture d’un fichier de projet endommagé
-* &amp;lbrack;Application&amp;rbrack ; Crash lorsque le projet contient des ressources corrompues
-* &amp;lbrack;Application&amp;rbrack ; Crash lors de la déconnexion d&#39;un moniteur sous Windows
+* &lbrack;Application&amp;rbrack ; Crash lorsque le projet contient des ressources corrompues
+* &lbrack;Application&amp;rbrack ; Crash lors de la déconnexion d&#39;un moniteur sous Windows
 * Icône d&#39;application &amp;lbrack ; incorrecte dans la barre des tâches Windows
 * &amp;lbrack ;Application&amp;rbrack ; La corruption du fichier de configuration principal peut entraîner la suppression de fichiers
 * Les panneaux &amp;lbrack ; Application&amp;rbrack ; apparaissent devant les fenêtres contextuelles
@@ -582,7 +582,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 
 **Fixe :**
 
-* &amp;lbrack;L&#39;enregistrement d&#39;un projet sur un partage réseau sous Windows corrompt le fichier de projet
+* &lbrack;L&#39;enregistrement d&#39;un projet sur un partage réseau sous Windows corrompt le fichier de projet
 
 ### **4.3.1 EMPANADA**
 
@@ -672,7 +672,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 
 * &amp;lbrack ;capture 3D&amp;rbrack ; Cliquer sur « Précédent » après l&#39;alignement puis sur « Suivant » ne met pas à jour le nuage de points
 * maillage &amp;lbrack ; capture 3D&amp;rbrack ; affiché avec des trous après avoir été ajouté au projet
-* &amp;lbrack;Application&amp;rbrack ; Crash lors de la sortie du mode plein écran après une Capture 3D
+* &lbrack;Application&amp;rbrack ; Crash lors de la sortie du mode plein écran après une Capture 3D
 * &amp;lbrack ; Application&amp;rbrack ; Crash avec fichiers image conçus
 * &amp;lbrack ;Application&amp;rbrack ; Si vous êtes dans « Toutes les bibliothèques » lorsque vous quittez Sampler, le panneau Actifs devient vide au redémarrage
 * &amp;lbrack ; Application&amp;rbrack ; Fuite de mémoire lors de l&#39;exportation du matériau
@@ -864,7 +864,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ;capture 3D&amp;rbrack ; Conserver la position de la caméra lors du changement de version
 * &amp;lbrack ; capture 3D&amp;rbrack ; Fusionner tous les groupes d&#39;un objet en un seul
 * &amp;lbrack ; capture 3D&amp;rbrack ; a renommé les maillages générés en Original
-* &amp;lbrack;Application&amp;rbrack ; Crash lors de la tentative de génération de la vignette d&#39;une image inexistante
+* &lbrack;Application&amp;rbrack ; Crash lors de la tentative de génération de la vignette d&#39;une image inexistante
 * L&#39;icône de la corbeille &amp;lbrack ; Assets&amp;rbrack ; ne fait rien dans le panneau Actifs
 * &amp;lbrack ; Content&amp;rbrack ; La mise à jour des filtres avec des emplacements de matériau ne fonctionne pas comme prévu
 * &amp;lbrack ; Export&amp;rbrack ; crash possible lors de l’exportation d’une ressource avec des filtres spécifiques
@@ -1000,7 +1000,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 
 **Fixe :**
 
-* &amp;lbrack;Application&amp;rbrack ; Crash lors de l&#39;ouverture d&#39;un projet récent et de l&#39;enregistrement dans la boîte de dialogue de confirmation
+* &lbrack;Application&amp;rbrack ; Crash lors de l&#39;ouverture d&#39;un projet récent et de l&#39;enregistrement dans la boîte de dialogue de confirmation
 * La boîte de dialogue Fichier &amp;lbrack ;Application&amp;rbrack ; empêche l&#39;ouverture des fichiers .ssa
 * Les boîtes de dialogue du fichier &amp;lbrack ;Application&amp;rbrack ; peuvent apparaître dans une fenêtre en arrière-plan sur macOS
 * &amp;lbrack ;Application&amp;rbrack ; crash potentiel lors de l&#39;ouverture de projets 3.2
@@ -1126,7 +1126,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 
 * &amp;lbrack ; L&#39;application&amp;rbrack ; pouvait avoir un crash à la fermeture lorsqu&#39;une génération de vignettes était en cours
 * L&#39;application &amp;lbrack ;Application&amp;rbrack ; peut se mettre en crash lors de l&#39;utilisation de « Enregistrer sous » à la sortie
-* L&#39;application &amp;lbrack;Application&amp;rbrack; peut se bloquer lors de l&#39;arrêt de MacOS
+* L&#39;application &lbrack;Application&rbrack; peut se bloquer lors de l&#39;arrêt de MacOS
 * &amp;lbrack ;Application&amp;rbrack ; L&#39;enregistrement avec la boîte de dialogue Couleur ouverte n&#39;enregistre pas ses modifications
 * &amp;lbrack ; Export&amp;rbrack ; La convention de dénomination d&#39;utilisation n&#39;est pas correcte lors de l&#39;exportation
 * &amp;lbrack ; Layers&amp;rbrack ; Déposer un matériau au-dessus d&#39;un filtre peut provoquer un crash
@@ -1134,7 +1134,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Les champs de métadonnées&amp;rbrack ; vides sont exportés
 * &amp;lbrack ; Metadata&amp;rbrack ; Lorsqu&#39;il n&#39;y a qu&#39;un seul élément de métadonnées, l&#39;interface utilisateur vous permet de le réorganiser
 * &amp;lbrack ;Project&amp;rbrack ; Compute ne se termine jamais après la duplication d&#39;un matériau
-* L&#39;&amp;élément de projet lbrack;Project&amp;rbrack; est dupliqué après l&#39;enregistrement initial du projet
+* L&#39;&amp;élément de projet lbrack;Project&rbrack; est dupliqué après l&#39;enregistrement initial du projet
 * &amp;lbrack ;Project&amp;rbrack ; calculs inutiles lors du changement de ressource
 * &amp;lbrack ; Rendu&amp;rbrack ; Certaines piles de calques ne s&#39;affichent pas correctement après la suppression d&#39;un calque
 * &amp;lbrack ; Security&amp;rbrack ; Fix CVE-2015-20107
@@ -1421,7 +1421,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 **Ajouté :**
 
 * &amp;lbrack ;Interoperability&amp;rbrack ; Envoyer des ressources (SBS ou SBSAR) à Substance 3D Designer
-* &amp;lbrack;Interopérabilité&amp;rbrack ; Définissez dans les préférences le format par défaut pour l&#39;interopérabilité avec Substance 3D Designer
+* &lbrack;Interopérabilité&amp;rbrack ; Définissez dans les préférences le format par défaut pour l&#39;interopérabilité avec Substance 3D Designer
 * &amp;lbrack ;Interoperability&amp;rbrack ; Recevoir plusieurs ressources d’Adobe Bridge
 * &amp;lbrack ; UI&amp;rbrack ; Nouveau widget Générateur aléatoire
 * &amp;lbrack ; UI&amp;rbrack ; Mise à jour du menu contextuel
@@ -1501,7 +1501,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Layers&amp;rbrack ; Crash lors de l&#39;utilisation d&#39;une image non valide comme éclairage d&#39;environnement
 * &amp;lbrack ; Layers&amp;rbrack ; Corriger l&#39;importation en double lors de l&#39;insertion d&#39;un filtre à plusieurs graphes
 * &amp;lbrack ; Layers&amp;rbrack ; La réorganisation des calques ne fonctionne pas toujours
-* &amp;lbrack;Project&amp;rbrack ; Crash lors du chargement d&#39;un fichier de projet incomplet
+* &lbrack;Project&amp;rbrack ; Crash lors du chargement d&#39;un fichier de projet incomplet
 * crash &amp;lbrack ;Project&amp;rbrack ; lors de l&#39;ouverture d&#39;un projet corrompu
 * &amp;lbrack ; Project&amp;rbrack ; Certaines ressources peuvent disparaître d&#39;un projet
 * &amp;lbrack ;Properties&amp;rbrack ; Corriger les paramètres prédéfinis manquants du filtre
@@ -1568,7 +1568,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * Le bouton &amp;lbrack ; Layers&amp;rbrack ; Reset all settings ne réinitialise pas les valeurs des widgets déroulants
 * &amp;lbrack ; Layers&amp;rbrack ; Annuler/rétablir lors de la modification d’une image sur le calque d’importation d’image marque le projet comme modifié et donc permet d’enregistrer
 * Les utilisations de &amp;calques&amp;rbrack ; peuvent être arrêtées par les calques de fusion
-* &amp;lbrack;Project&amp;rbrack ; Crash lors du chargement d&#39;un projet hérité avec un dossier de dépendances manquant
+* &lbrack;Project&amp;rbrack ; Crash lors du chargement d&#39;un projet hérité avec un dossier de dépendances manquant
 * crash de &amp;lbrack ;Project&amp;rbrack ; lors de l&#39;utilisation d&#39;annuler/rétablir après l&#39;enregistrement
 * &amp;lbrack ; Project&amp;rbrack ; L&#39;ouverture d&#39;un Fichier sbsar contenant un éclairage d&#39;environnement crée un actif de matériau
 * &amp;lbrack ;Project&amp;rbrack ; Renommer un matériau peut déclencher une génération de vignettes
@@ -1634,8 +1634,8 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ;Project&amp;rbrack ; Enregistrer en tant que projet vous demandera de sélectionner l&#39;emplacement où enregistrer votre projet
 * &amp;lbrack ;Project&amp;rbrack ; La fermeture de Sampler vous demandera d&#39;enregistrer votre projet s&#39;il n&#39;est pas enregistré
 * &amp;lbrack ;Project&amp;rbrack ; La fermeture de Sampler vous demandera d&#39;enregistrer votre projet si des modifications ont été apportées depuis le dernier enregistrement
-* &amp;lbrack;Project&amp;rbrack ; Le nom de votre projet est affiché au-dessus du viewport
-* &amp;lbrack;Project&amp;rbrack ; Le nom du projet est en italique avec une étoile s&#39;il n&#39;est pas enregistré ou s&#39;il contient des modifications depuis le dernier enregistrement
+* &lbrack;Project&amp;rbrack ; Le nom de votre projet est affiché au-dessus du viewport
+* &lbrack;Project&amp;rbrack ; Le nom du projet est en italique avec une étoile s&#39;il n&#39;est pas enregistré ou s&#39;il contient des modifications depuis le dernier enregistrement
 * &amp;lbrack ;Project&amp;rbrack ; Ouvrir un fichier de projet .ssa directement à partir de l&#39;explorateur du système d&#39;exploitation
 * &amp;lbrack ;Project&amp;rbrack ; L&#39;ouverture d&#39;un fichier .sbsar depuis votre explorateur de système d&#39;exploitation lancera Sampler avec un nouveau projet doté de ce .fichier sbsar prêt à l&#39;emploi
 * &amp;lbrack ;Project&amp;rbrack ; Ouvrez un fichier .alch (ancien fichier de Substance Alchemist) à partir de votre explorateur de système d&#39;exploitation
@@ -1828,7 +1828,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Image à Matériau&amp;rbrack ; Nouveaux paramètres pour contrôler l&#39;intensité du plaisir
 * &amp;lbrack ; Thumbnails&amp;rbrack ; Nouveau générateur de vignettes basé sur le rendu PBR de la Substance Designer
 * &amp;lbrack ; Thumbnails&amp;rbrack ; Mettre à jour les matériaux de base et les atlas pour incorporer leur miniature
-* &amp;lbrack;Thumbnails&amp;rbrack ; Récupérez la vignette du fichier .fichier sbsar si elle existe
+* &lbrack;Thumbnails&amp;rbrack ; Récupérez la vignette du fichier .fichier sbsar si elle existe
 * &amp;lbrack ; Thumbnails&amp;rbrack ; Modifier la qualité des vignettes dans les Préférences
 * &amp;lbrack ; Moteur&amp;rbrack ; Mise à jour vers la version 8 de la Substance Engine
 * &amp;lbrack ; Localization&amp;rbrack ; Chinese localization
@@ -1845,7 +1845,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Content&amp;rbrack ; Ajouter un filtre Coloriser
 * &amp;lbrack ; Content&amp;rbrack ; Add Replace Color Filters
 * &amp;lbrack ;Content&amp;rbrack ; Transformer : ajouter la possibilité de désactiver la transformation sur un canal spécifique
-* &amp;lbrack;Content&amp;rbrack ; Transforme : ajouter une rotation lorsque le transforme sécurisé est activé
+* &lbrack;Content&amp;rbrack ; Transforme : ajouter une rotation lorsque le transforme sécurisé est activé
 * &amp;lbrack ; Content&amp;rbrack ; Color Variation : ajoutez une option de segmentation pour choisir comment distribuer les couleurs
 
 **Fixe :**
@@ -1854,7 +1854,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Layers&amp;rbrack ; Empêcher les crashs lors de plusieurs actions Annuler/Rétablir
 * &amp;lbrack ; Layers&amp;rbrack ; Crash lors de l&#39;utilisation de Image vers Matériau (optimisé par l&#39;IA), avec log : ordinal de périphérique non valide
 * &amp;lbrack ; Filters&amp;rbrack ; Améliorer la détection des cartes graphiques NVIDIA pour les fonctionnalités spécifiques à NVidia
-* &amp;lbrack;Application&amp;rbrack ; Crash lors de la fermeture de l&#39;application
+* &lbrack;Application&amp;rbrack ; Crash lors de la fermeture de l&#39;application
 * &amp;lbrack ;Application&amp;rbrack ; Correction de la détection de la quantité de VRAM sur MacOS
 * &amp;lbrack ; Export&amp;rbrack ; Certains paramètres prédéfinis d&#39;exportation sont parfois manquants
 * &amp;lbrack ; Content&amp;rbrack ; Effet Peinture à l&#39;huile - Correction de la plage d&#39;heights avec une amplitude de displacement élevée
@@ -1895,7 +1895,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Content&amp;rbrack ; Arrondi aux inférieurs Tiles - Opacité et specular level de la poignée
 * &amp;lbrack ; Content&amp;rbrack ; Blender cycles eeve export preset - inverser la map normal
 * &amp;lbrack ; Content&amp;rbrack ; Correction du problème des images volumineuses avec Image vers Matériau (optimisé par l’IA)
-* crash &amp;lbrack;Application&amp;rbrack; lors de la sélection de « Sauvegarder et redémarrer » sur erreur de base de données
+* crash &lbrack;Application&rbrack; lors de la sélection de « Sauvegarder et redémarrer » sur erreur de base de données
 * crash de &amp;lbrack ;Application&amp;rbrack ; lorsque vous cliquez rapidement sur la même ressource
 * &amp;lbrack ; Application&amp;rbrack ; crashs rares en sortie
 * crash de &amp;lbrack ;Application&amp;rbrack ; lors de l&#39;abandon de fichiers sur l&#39;écran d&#39;accueil
@@ -1903,7 +1903,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Application&amp;rbrack ; Rare crash lors du basculement rapide du fichier de rendu
 * &amp;lbrack ; Application&amp;rbrack ; Se bloque lors de la fermeture pendant le calcul d&#39;une ressource
 * &amp;lbrack ;Application&amp;rbrack ; Rare crash au démarrage sous macos
-* &amp;lbrack;Application&amp;rbrack ; bloqué lors de la fermeture de l&#39;application peu après le démarrage
+* &lbrack;Application&amp;rbrack ; bloqué lors de la fermeture de l&#39;application peu après le démarrage
 * &amp;lbrack ;Rendu&amp;rbrack ; La vue 3D scintille parfois
 * Le sélecteur de couleurs et les widgets de générateur aléatoire de l’&amp;ibrack ;UI&amp;rbrack ; ne sont pas alignés avec le reste des réglages
 * &amp;lbrack ;Rendu&amp;rbrack ; Affichage d&#39;un temps de calcul incorrect
@@ -1985,11 +1985,11 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Layers&amp;rbrack ; Désactiver le bouton « Supprimer le calque » lorsqu&#39;aucun calque n&#39;est sélectionné
 * &amp;lbrack ; Layers&amp;rbrack ; Crash lors du chargement d&#39;une ressource contenant un patch de Clone
 * &amp;lbrack ; Layers&amp;rbrack ; Normal aux crashs de filtre Heights sous MacOs
-* crash &amp;lbrack;Application&amp;rbrack ; lors du chargement des maps d&#39;environnement aller-retour
+* crash &lbrack;Application&amp;rbrack ; lors du chargement des maps d&#39;environnement aller-retour
 * &amp;lbrack ;Application&amp;rbrack ; Problèmes de performances lorsque le pilote de la tablette graphique est installé
 * &amp;lbrack ;Application&amp;rbrack ; Les fichiers EXR 32 bits importés sont noirs
 * crashs de &amp;lbrack ;Application&amp;rbrack ; lors du chargement et du déchargement d&#39;actifs
-* &amp;lbrack;Application&amp;rbrack ; Crash lors du passage de l&#39;exploration à la création
+* &lbrack;Application&amp;rbrack ; Crash lors du passage de l&#39;exploration à la création
 * &amp;lbrack ;Application&amp;rbrack ; La collection cible lors de l&#39;enregistrement d&#39;un matériau ne provient pas du projet en cours
 * &amp;lbrack ; Application&amp;rbrack ; Corriger la sauvegarde et le redémarrage
 * &amp;lbrack ;Image Import&amp;rbrack ; Importer correctement les images en niveaux de gris
@@ -2047,8 +2047,8 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ;Project&amp;rbrack ; Corriger un crash lors de l&#39;importation du même projet deux fois
 * &amp;lbrack ;Project&amp;rbrack ; Corriger un crash lors de l&#39;importation de projets
 * Les filtres &amp;lbrack ; Resources&amp;rbrack ; personnalisés importés dans les versions précédentes fonctionnent
-* &amp;lbrack;Resources&amp;rbrack ; Les Matériaux portant le même nom ne s&#39;effacent plus
-* crash &amp;lbrack;Resources&amp;rbrack; lors de la liaison d&#39;un dossier local
+* &lbrack;Resources&amp;rbrack ; Les Matériaux portant le même nom ne s&#39;effacent plus
+* crash &lbrack;Resources&rbrack; lors de la liaison d&#39;un dossier local
 * &amp;lbrack ; Resources&amp;rbrack ; Matériaux pour démarrer les dossiers créés par l&#39;utilisateur ne sont plus supprimés après un redémarrage
 * &amp;lbrack ;Inspire&amp;rbrack ; Corriger la zone de dépôt du matériau/de la collection et ajouter un message d&#39;avertissement si vous utilisez un matériau non enregistré
 
@@ -2106,7 +2106,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 
 * &amp;lbrack ;Project&amp;rbrack ; Crash lors de l&#39;importation du même projet deux fois
 * &amp;lbrack ;Project&amp;rbrack ; crash fixe lors de l&#39;importation et de l&#39;ouverture de projets à plusieurs reprises
-* crash &amp;lbrack;Application&amp;rbrack ; lors du chargement d&#39;un matériau sans nom
+* crash &lbrack;Application&amp;rbrack ; lors du chargement d&#39;un matériau sans nom
 * &amp;lbrack ; Application&amp;rbrack ; Reconnaître les fichiers manquants lors de leur réimportation
 * &amp;lbrack ;Application&amp;rbrack ; Corriger le crash aléatoire à l&#39;arrêt
 * &amp;lbrack ;Application&amp;rbrack ; Correction d&#39;un crash rare lors du déchargement d&#39;un matériau dans Créer
@@ -2332,7 +2332,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; File Menu&amp;rbrack ; Integration of a file Menu
 * &amp;lbrack ;File Menu&amp;rbrack ; Accédez aux commandes du projet à partir de l&#39;onglet Fichier et de l&#39;enregistrement de la pile de calques
 * &amp;lbrack ; File Menu&amp;rbrack ; Accédez aux commandes Annuler et Rétablir à partir de l&#39;onglet Edition
-* &amp;lbrack;Menu Fichier&amp;rbrack ; Le menu d&#39;aide précédent a été déplacé dans le menu Fichier sous l&#39;onglet Aide
+* &lbrack;Menu Fichier&amp;rbrack ; Le menu d&#39;aide précédent a été déplacé dans le menu Fichier sous l&#39;onglet Aide
 * &amp;lbrack ; Layers&amp;rbrack ; Nouvelle architecture de la pile de calques
 * &amp;lbrack ; Layers&amp;rbrack ; Nouvelle interface utilisateur de la pile de calques
 * &amp;lbrack ; Layers&amp;rbrack ; Sélectionnez le mode de fusion directement dans la barre d&#39;outils
@@ -2342,7 +2342,7 @@ crash [Calques] lors de l’ajout d’une image au masque embossage
 * &amp;lbrack ; Viewport&amp;rbrack ; Contrôle du champ de vision de caméra
 * &amp;lbrack ; Viewport&amp;rbrack ; Possibilité de basculer entre la caméra orthographique ou perspective
 * &amp;lbrack ; Viewport&amp;rbrack ; Affiche la résolution et les informations de nombre de bits par pixel pour chaque canal
-* &amp;lbrack;Resources&amp;rbrack ; Matériaux de base ouverts par défaut
+* &lbrack;Resources&amp;rbrack ; Matériaux de base ouverts par défaut
 * &amp;lbrack ; Cache&amp;rbrack ; Localisez le dossier de cache de vos vignettes
 * &amp;lbrack ;Cache&amp;rbrack ; Recherchez votre dossier de cache de rendu
 * &amp;lbrack ; Panneaux&amp;rbrack ; Le panneau Paramètres de Matériau est temporairement masqué
