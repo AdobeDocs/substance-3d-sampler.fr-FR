@@ -6,19 +6,28 @@ helpx_description: Sampler > Release Notes > All Changes
 title: Toutes les modifications
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '24940'
+source-wordcount: '24964'
 ht-degree: 0%
-
 ---
-
 
 # Toutes les modifications
 
 Cette page regroupe toutes les modifications apportées à Substance 3D Sampler, depuis les nouvelles fonctionnalités jusqu’aux correctifs de bogues.
 
 ## Version 6
+
+### **6.0.4**
+
+*(sortie : 24 septembre 2026)*
+
+**Modifié**
+Mise à jour de la Substance Engine de [Moteur] vers la version 9.6.1
+
+**Fixe**
+crash [Calques] lors de l’ajout d’une image au masque embossage
+[Correctifs généraux de sécurité]
 
 ### **6.0.3**
 
