@@ -4,13 +4,11 @@ description: Consultez les notes de mise à jour de Substance 3D Sampler version
 title: Version 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '1627'
+source-wordcount: '1651'
 ht-degree: 1%
-
 ---
-
 
 # Version 6.0
 
@@ -59,6 +57,17 @@ Plus d&#39;informations *[ici](../pipeline-and-integrations/hp-z-captis-support/
 ![Texte optionnel](../../help/assets/Captis_capture_optimization.JPG)
 
 ## Notes de mise à jour sur la version 6.0
+
+### **6.0.4**
+
+*(sortie : 24 septembre 2026)*
+
+**Modifié**
+Mise à jour de la Substance Engine de [Moteur] vers la version 9.6.1
+
+**Fixe**
+crash [Calques] lors de l’ajout d’une image au masque embossage
+[Correctifs généraux de sécurité]
 
 ### **6.0.3**
 
