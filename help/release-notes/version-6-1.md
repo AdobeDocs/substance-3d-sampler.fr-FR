@@ -22,7 +22,7 @@ Les principales nouveautés sont les suivantes :
 
 Bénéficiez d’une expérience plus rapide et plus réactive dans Sampler. Le nouveau **mode Performances** réunit tous les paramètres susceptibles de ralentir votre workflow : les limites de résolution, les ombres, la qualité du displacement et le traçage de chemin. Désactivez les fonctionnalités dont vous n’avez pas besoin pour améliorer les performances et la réactivité.
 
-Plus d&#39;informations [*ici*](https://www.adobe.com/go/substance-3d-sampler-6.1-performance-mode)
+Plus d&#39;informations [*ici*](https://www.adobe.com/go/substance-3d-sampler-6.1-performance-mode_fr)
 
 ![](../assets/v6.1/6_1-Performance_Mode.png)
 
@@ -30,7 +30,7 @@ Plus d&#39;informations [*ici*](https://www.adobe.com/go/substance-3d-sampler-6.
 
 Si votre matériel est inférieur à la [spécification minimale](../getting-started/system-requirements.md), Sampler s&#39;ajuste désormais automatiquement pour assurer la stabilité. Les fonctions les plus susceptibles de ralentir les choses ou de provoquer un crash sont automatiquement désactivées.
 
-Plus d&#39;informations [*ici*](https://www.adobe.com/go/substance-3d-sampler-6.1-low-specs-mode)
+Plus d&#39;informations [*ici*](https://www.adobe.com/go/substance-3d-sampler-6.1-low-specs-mode_fr)
 
 ![](../assets/v6.1/6_1-Checked.png)
 
