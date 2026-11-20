@@ -10,9 +10,10 @@ helpx_tags: ''
 title: Configuration requise
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
+hold: true
+source-git-commit: 8b2438eb381e35c19ab379a5fc14c962fd5b9b0a
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '684'
 ht-degree: 1%
 ---
 
@@ -27,6 +28,14 @@ Vous trouverez ci-dessous une liste du matériel et des systèmes pris en charge
 > * 610.47
 >
 > Nous vous recommandons d’éviter d’utiliser ces versions : idéalement, utilisez une version plus récente ou, si aucune version plus récente n’est disponible, utilisez la version précédente.
+
+>[!NOTE]
+>
+> Si la configuration matérielle de votre ordinateur est inférieure à la configuration minimale requise, Sampler s&#39;ouvrira automatiquement en [mode de spécification basse](../technical-support/low-spec-mode.md), ce qui limite certaines fonctionnalités.
+
+>[!TIP]
+>
+> Si vous souhaitez améliorer les performances de Sampler, utilisez le [mode Performances](../technical-support/performance-mode.md) pour désactiver les fonctionnalités gourmandes en ressources.
 
 ## Windows
 

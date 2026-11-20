@@ -2,15 +2,11 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: false
-hold: true
-source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
+source-git-commit: 09278e59a21757710d15d1bb447002a4aecb25a7
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 16%
-
+source-wordcount: '641'
+ht-degree: 15%
 ---
-
 
 # Substance 3D Sampler {#using}
 
@@ -21,7 +17,6 @@ ht-degree: 16%
   + [Configuration requise](/help/getting-started/system-requirements.md)
   + [Raccourcis](/help/getting-started/shortcuts.md)
   + [Importation de ressources](/help/getting-started/importing-resources.md)
-  + [Signaler un bogue](/help/getting-started/report-a-bug.md)
   + [Gestion de projet](/help/getting-started/project-management.md)
   + Exporter{#export}
     + [Présentation de l’exportation](/help/getting-started/export/export.md)
@@ -116,6 +111,7 @@ ht-degree: 16%
     + [Génération de canaux](/help/filters/tools/channels-generation.md)
     + [Commutateur de canal](/help/filters/tools/channel-switch.md)
     + [Tampon clone](/help/filters/tools/clone-stamp.md)
+    + {hide-from-toc}[Remplissage d’après le contenu](/help/filters/tools/content-aware-fill.md)
     + [Outil Recadrage](/help/filters/tools/crop-tool.md)
     + [Delight - Optimisé par l’IA](/help/filters/tools/delight-ai-powered.md)
     + [Height à AO](/help/filters/tools/height-to-ao.md)
@@ -126,9 +122,10 @@ ht-degree: 16%
     + [Multiangle vers matériau](/help/filters/tools/multiangle-to-material.md)
     + [Normal à l’Height](/help/filters/tools/normal-to-height.md)
     + [Validation PBR](/help/filters/tools/pbr-validate.md)
-    + [Correction de perspective](/help/filters/tools/perspective-correction.md)
+    + [Transforme de perspective](/help/filters/tools/perspective-correction.md)
     + [Répétition](/help/filters/tools/tiling.md)
     + [Transformation](/help/filters/tools/transform.md)
+    + {hide-from-toc}[Déformation de Peinture](/help/filters/tools/paint-warp.md)
     + [Chaîne](/help/filters/tools/warp.md)
     + [Transforme de déformation](/help/filters/tools/warp-transform.md)
     + [Upscale](/help/filters/tools/upscale.md)
@@ -155,6 +152,7 @@ ht-degree: 16%
     + [Dust](/help/filters/wear-and-finish/dust.md)
     + [Éroder](/help/filters/wear-and-finish/erode.md)
     + [Finition métallique](/help/filters/wear-and-finish/metal-finish.md)
+    + {hide-from-toc}[Finition du bois](/help/filters/wear-and-finish/wood-finish.md)
     + [Mousse](/help/filters/wear-and-finish/moss.md)
     + [Oxyder](/help/filters/wear-and-finish/oxidate.md)
     + [Peinture](/help/filters/wear-and-finish/paint.md)
@@ -195,6 +193,9 @@ ht-degree: 16%
   + [Module Tajima Exporteur](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Support technique{#technical-support}
   + [Présentation du support technique](/help/technical-support/technical-support.md)
+  + {hide-from-toc}[Mode Performances](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[Mode de spécification faible](/help/technical-support/low-spec-mode.md)
+  + {hide-from-toc}[Signaler un bug](/help/getting-started/report-a-bug.md)
   + [Exportation du fichier journal](/help/technical-support/exporting-the-log-file.md)
   + Configuration{#configuration}
     + [Présentation de la configuration](/help/technical-support/configuration/configuration.md)
@@ -231,6 +232,7 @@ ht-degree: 16%
   + [Présentation des notes de mise à jour](/help/release-notes/release-notes.md)
   + [Toutes les modifications](/help/release-notes/all-changes.md)
   + [Beta](/help/release-notes/beta-version.md)
+  + {hide-from-toc}[Version 6.1](/help/release-notes/version-6-1.md)
   + [Version 6.0](/help/release-notes/version-6-0.md)
   + [Version 5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [Version 5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)
