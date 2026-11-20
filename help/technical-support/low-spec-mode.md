@@ -28,7 +28,7 @@ En outre, le mode Spécifications basses empêche les exportations supérieures 
 
 ![](../assets/low-spec-mode-export-message.png)
 
-*Ce message apparaît dans la **fenêtre d&#39;exportation**en **mode de spécification faible**pour fournir des informations supplémentaires.*
+*Ce message apparaît dans la **fenêtre d&#39;exportation**&#x200B;en **mode de spécification faible**&#x200B;pour fournir des informations supplémentaires.*
 
 ## Comment savoir si le mode Faibles spécifications est activé ?
 

@@ -24,7 +24,7 @@ Pour créer un projet, sélectionnez **Créer** dans l&#39;écran **Accueil** ou
 
 Vous pouvez également utiliser le bouton **Démarrage rapide** pour accéder directement à un projet vide. Vous pouvez toujours importer manuellement des actifs et du contenu selon vos besoins.
 
-Après avoir cliqué sur le bouton « Créer », le projet s’ouvre automatiquement et porte le nom « *Projet sans titre\** » jusqu’à ce que vous l’enregistriez. Vous pouvez ajouter des ressources à votre projet avec le **bouton Nouvelle ressource** en surbrillance dans le **panneau Projet**.
+Après avoir cliqué sur le bouton « Créer », le projet s’ouvre automatiquement et porte le nom « *Projet sans titre\**&#x200B; » jusqu’à ce que vous l’enregistriez. Vous pouvez ajouter des ressources à votre projet avec le &#x200B;** bouton Nouvelle ressource **&#x200B; en surbrillance dans le &#x200B;** panneau Projet**.
 
 ![](../assets/Project_CreateNew_1.png){width="600px"}
 
